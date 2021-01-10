@@ -10,9 +10,9 @@ YCbCr Matrix: None
 [Aegisub Project Garbage]
 Export Encoding: Turkish (ISO-8859-9)
 Video Zoom Percent: 0.625000
-Scroll Position: 927
-Active Line: 931
-Video Position: 86512
+Scroll Position: 946
+Active Line: 955
+Video Position: 88738
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -951,7 +951,7 @@ Dialogue: 0,0:59:50.69,0:59:53.68,Default,,0,0,0,,- Kaç yaşındaydınız...\N-
 Dialogue: 0,0:59:54.48,0:59:59.01,Default,,0,0,0,,Aklımın bir yarısı bunlara inandı\Nzira bu şekilde eğitilmiştik.
 Dialogue: 0,0:59:59.13,1:00:02.74,Default,,0,0,0,,Ama aklımın diğer yarısı\Nbunları hayli mantıksız buluyordu.
 Dialogue: 0,1:00:02.84,1:00:07.88,Default,,0,0,0,,Kendi teorinize geçiş sürecinden\Nve ilham kaynağınızdan bahseder misiniz?
-Dialogue: 0,1:00:08.26,1:00:09.88,Default,,0,0,0,,Son derece sıradandı.
+Dialogue: 0,1:00:08.26,1:00:09.88,Default,,0,0,0,,Gayet sıradandı.
 Dialogue: 0,1:00:09.97,1:00:13.70,Default,,0,0,0,,Üniversite yıllarında\Nbitirme tezi yazmam gerekiyordu.
 Dialogue: 0,1:00:14.08,1:00:16.92,Default,,0,0,0,,Tez için bir çalışma yapılmalıydı.
 Dialogue: 0,1:00:17.02,1:00:20.85,Default,,0,0,0,,Danışmanım olan öğretim üyesi
@@ -959,28 +959,25 @@ Dialogue: 0,1:00:20.92,1:00:25.01,Default,,0,0,0,,hakkı var; son derece ünlü,
 Dialogue: 0,1:00:25.09,1:00:29.48,Default,,0,0,0,,Modern İbranice üzerine\Nyapısal bir analiz yapmamı o önerdi.
 Dialogue: 0,1:00:29.90,1:00:32.77,Default,,0,0,0,,Biraz İbranice bildiğim için aklıma yattı.
 Dialogue: 0,1:00:32.92,1:00:34.93,Default,,0,0,0,,Yapmamız gerekeni yaptım.
-Dialogue: 0,1:00:35.16,1:00:40.90,Default,,0,0,0,,get an informant and then\Ncarry out field-work procedures.
-Dialogue: 0,1:00:40.90,1:00:44.13,Default,,0,0,0,,So, there's a set of routines\Nyou go through to take the data
-Dialogue: 0,1:00:44.14,1:00:47.60,Default,,0,0,0,,from the informant, you know,\Nfind the phonology, find the
-Dialogue: 0,1:00:47.61,1:00:51.17,Default,,0,0,0,,morphology, you know, a few\Ncomments about the syntactic
-Dialogue: 0,1:00:51.18,1:00:54.58,Default,,0,0,0,,structure, comments about\Nthe semantics, and that's your
-Dialogue: 0,1:00:54.58,1:00:56.61,Default,,0,0,0,,thesis. So, I started going through the
-Dialogue: 0,1:00:56.62,1:00:59.92,Default,,0,0,0,,routine with him. And\Nafter about a month, I
-Dialogue: 0,1:00:59.92,1:01:02.15,Default,,0,0,0,,realized this is totally ridiculous.
-Dialogue: 0,1:01:02.15,1:01:04.22,Default,,0,0,0,,I mean, I know the\Nanswers to these questions.
-Dialogue: 0,1:01:04.22,1:01:06.86,Default,,0,0,0,,Why am I asking him? And\Nthe questions that I don't
-Dialogue: 0,1:01:06.86,1:01:10.59,Default,,0,0,0,,know the answers to, like the\Nphonetics, I don't care about.
-Dialogue: 0,1:01:10.60,1:01:13.16,Default,,0,0,0,,But the parts that I care about,\NI already basically know the
-Dialogue: 0,1:01:13.17,1:01:16.27,Default,,0,0,0,,answers, so why do I care?\NWhy do I have to get it from
-Dialogue: 0,1:01:16.27,1:01:18.14,Default,,0,0,0,,him? So, we... I stopped the
-Dialogue: 0,1:01:18.14,1:01:21.47,Default,,0,0,0,,informant work, and I just\Nstarted doing what seemed like
-Dialogue: 0,1:01:21.47,1:01:25.51,Default,,0,0,0,,the obvious thing to do...\Nwrite a generative grammar.
-Dialogue: 0,1:01:25.51,1:01:28.88,Default,,0,0,0,,And that's what I did,\Nbut it was kind of a hobby.
-Dialogue: 0,1:01:28.88,1:01:32.02,Default,,0,0,0,,I don't think anyone even looked\Nat it... you know, the fact
-Dialogue: 0,1:01:32.02,1:01:37.09,Default,,0,0,0,,that, finally, it was published\Nabout 30 years later, I think.
-Dialogue: 0,1:01:37.09,1:01:42.89,Default,,0,0,0,,Can you tell me, like, in a\Nsimple way... like, this first
-Dialogue: 0,1:01:45.40,1:01:50.70,Default,,0,0,0,,approach of generative grammar?\N- It's almost a truism.
-Dialogue: 0,1:01:50.70,1:01:54.10,Default,,0,0,0,,I mean, if you think about what\Na language is... say, what you
+Dialogue: 0,1:00:35.16,1:00:40.90,Default,,0,0,0,,Bir denek bulup\Nalan çalışması yürütmek gerekliydi.
+Dialogue: 0,1:00:41.04,1:00:46.40,Default,,0,0,0,,Belirli rutinler var.\NDenekten verileri alıyorsun.
+Dialogue: 0,1:00:46.62,1:00:49.45,Default,,0,0,0,,Ses ve anlam bilimi açısından incele.
+Dialogue: 0,1:00:49.60,1:00:52.37,Default,,0,0,0,,Söz dizimi hakkında birkaç yorum yap.
+Dialogue: 0,1:00:52.90,1:00:55.45,Default,,0,0,0,,Anlam bilimince yorumla\Nve buyur sana tez.
+Dialogue: 0,1:00:55.70,1:00:58.09,Default,,0,0,0,,Ben de bu rutine başladım.
+Dialogue: 0,1:00:58.57,1:01:02.49,Default,,0,0,0,,Yaklaşık bir ay sonra,\Nbütün her şey inanılmaz saçma geldi.
+Dialogue: 0,1:01:02.61,1:01:05.78,Default,,0,0,0,,Cevabını bildiğim soruları\Nneden soruyordum?
+Dialogue: 0,1:01:05.97,1:01:10.52,Default,,0,0,0,,Ses bilgisi gibi cevabını bilmediğim\Nkonuları da görmezden geliyordum.
+Dialogue: 0,1:01:10.90,1:01:14.18,Default,,0,0,0,,İncelediğim kısımların cevabını\Nzaten biliyordum.
+Dialogue: 0,1:01:14.24,1:01:16.73,Default,,0,0,0,,Öyleyse deneğe ne hacet vardı?
+Dialogue: 0,1:01:17.14,1:01:23.05,Default,,0,0,0,,Hâliyle, denekle çalışmayı bırakıp\Nbana doğru gelen şeye yöneldim.
+Dialogue: 0,1:01:24.18,1:01:27.33,Default,,0,0,0,,Üretici dil bilgisi kuramını yazdım ama...
+Dialogue: 0,1:01:27.60,1:01:29.22,Default,,0,0,0,,Benim için bir nevi hobiydi.
+Dialogue: 0,1:01:29.37,1:01:32.53,Default,,0,0,0,,O vakitler hiç kimse\Naçıp yüzüne bile bakmamıştı.
+Dialogue: 0,1:01:32.60,1:01:36.85,Default,,0,0,0,,Sanırım 30 sene sonra\Nancak yayımlanmıştı.
+Dialogue: 0,1:01:41.10,1:01:44.61,Default,,0,0,0,,Can you tell me, like, in a\Nsimple way... like, this first
+Dialogue: 0,1:01:44.85,1:01:48.64,Default,,0,0,0,,approach of generative grammar?\N- It's almost a truism.
+Dialogue: 0,1:01:51.02,1:01:54.10,Default,,0,0,0,,I mean, if you think about what\Na language is... say, what you
 Dialogue: 0,1:01:54.11,1:01:59.38,Default,,0,0,0,,and I know... we have, somehow,\Nin our heads, a procedure for
 Dialogue: 0,1:02:00.48,1:02:06.42,Default,,0,0,0,,constructing an infinite array\Nof structured expressions, each
 Dialogue: 0,1:02:06.42,1:02:11.42,Default,,0,0,0,,of which is assigned a\Nsound and assigned a semantic
