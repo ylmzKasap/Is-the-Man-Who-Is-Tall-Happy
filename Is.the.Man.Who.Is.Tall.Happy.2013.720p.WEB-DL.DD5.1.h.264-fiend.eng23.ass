@@ -10,9 +10,9 @@ YCbCr Matrix: None
 [Aegisub Project Garbage]
 Export Encoding: Turkish (ISO-8859-9)
 Video Zoom Percent: 0.625000
-Scroll Position: 921
-Active Line: 932
-Video Position: 86687
+Scroll Position: 927
+Active Line: 931
+Video Position: 86512
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -951,7 +951,7 @@ Dialogue: 0,0:59:50.69,0:59:53.68,Default,,0,0,0,,- Kaç yaşındaydınız...\N-
 Dialogue: 0,0:59:54.48,0:59:59.01,Default,,0,0,0,,Aklımın bir yarısı bunlara inandı\Nzira bu şekilde eğitilmiştik.
 Dialogue: 0,0:59:59.13,1:00:02.74,Default,,0,0,0,,Ama aklımın diğer yarısı\Nbunları hayli mantıksız buluyordu.
 Dialogue: 0,1:00:02.84,1:00:07.88,Default,,0,0,0,,Kendi teorinize geçiş sürecinden\Nve ilham kaynağınızdan bahseder misiniz?
-Dialogue: 0,1:00:08.26,1:00:09.88,Default,,0,0,0,,Gayet sıradandı.
+Dialogue: 0,1:00:08.26,1:00:09.88,Default,,0,0,0,,Son derece sıradandı.
 Dialogue: 0,1:00:09.97,1:00:13.70,Default,,0,0,0,,Üniversite yıllarında\Nbitirme tezi yazmam gerekiyordu.
 Dialogue: 0,1:00:14.08,1:00:16.92,Default,,0,0,0,,Tez için bir çalışma yapılmalıydı.
 Dialogue: 0,1:00:17.02,1:00:20.85,Default,,0,0,0,,Danışmanım olan öğretim üyesi
