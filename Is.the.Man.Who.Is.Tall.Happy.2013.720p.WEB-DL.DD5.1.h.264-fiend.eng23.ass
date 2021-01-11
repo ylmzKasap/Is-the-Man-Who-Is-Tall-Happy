@@ -10,9 +10,9 @@ YCbCr Matrix: None
 [Aegisub Project Garbage]
 Export Encoding: Turkish (ISO-8859-9)
 Video Zoom Percent: 0.625000
-Scroll Position: 946
-Active Line: 955
-Video Position: 88738
+Scroll Position: 950
+Active Line: 963
+Video Position: 89543
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -961,11 +961,11 @@ Dialogue: 0,1:00:29.90,1:00:32.77,Default,,0,0,0,,Biraz İbranice bildiğim içi
 Dialogue: 0,1:00:32.92,1:00:34.93,Default,,0,0,0,,Yapmamız gerekeni yaptım.
 Dialogue: 0,1:00:35.16,1:00:40.90,Default,,0,0,0,,Bir denek bulup\Nalan çalışması yürütmek gerekliydi.
 Dialogue: 0,1:00:41.04,1:00:46.40,Default,,0,0,0,,Belirli rutinler var.\NDenekten verileri alıyorsun.
-Dialogue: 0,1:00:46.62,1:00:49.45,Default,,0,0,0,,Ses ve anlam bilimi açısından incele.
+Dialogue: 0,1:00:46.62,1:00:49.45,Default,,0,0,0,,Ses ve biçim bilimi açısından incele.
 Dialogue: 0,1:00:49.60,1:00:52.37,Default,,0,0,0,,Söz dizimi hakkında birkaç yorum yap.
-Dialogue: 0,1:00:52.90,1:00:55.45,Default,,0,0,0,,Anlam bilimince yorumla\Nve buyur sana tez.
+Dialogue: 0,1:00:52.90,1:00:55.49,Default,,0,0,0,,Anlam bilimince yorumla\Nve buyur sana tez.
 Dialogue: 0,1:00:55.70,1:00:58.09,Default,,0,0,0,,Ben de bu rutine başladım.
-Dialogue: 0,1:00:58.57,1:01:02.49,Default,,0,0,0,,Yaklaşık bir ay sonra,\Nbütün her şey inanılmaz saçma geldi.
+Dialogue: 0,1:00:58.57,1:01:02.49,Default,,0,0,0,,Yaklaşık bir ay sonra,\Nher şey inanılmaz saçma geldi.
 Dialogue: 0,1:01:02.61,1:01:05.78,Default,,0,0,0,,Cevabını bildiğim soruları\Nneden soruyordum?
 Dialogue: 0,1:01:05.97,1:01:10.52,Default,,0,0,0,,Ses bilgisi gibi cevabını bilmediğim\Nkonuları da görmezden geliyordum.
 Dialogue: 0,1:01:10.90,1:01:14.18,Default,,0,0,0,,İncelediğim kısımların cevabını\Nzaten biliyordum.
@@ -974,16 +974,17 @@ Dialogue: 0,1:01:17.14,1:01:23.05,Default,,0,0,0,,Hâliyle, denekle çalışmay�
 Dialogue: 0,1:01:24.18,1:01:27.33,Default,,0,0,0,,Üretici dil bilgisi kuramını yazdım ama...
 Dialogue: 0,1:01:27.60,1:01:29.22,Default,,0,0,0,,Benim için bir nevi hobiydi.
 Dialogue: 0,1:01:29.37,1:01:32.53,Default,,0,0,0,,O vakitler hiç kimse\Naçıp yüzüne bile bakmamıştı.
-Dialogue: 0,1:01:32.60,1:01:36.85,Default,,0,0,0,,Sanırım 30 sene sonra\Nancak yayımlanmıştı.
-Dialogue: 0,1:01:41.10,1:01:44.61,Default,,0,0,0,,Can you tell me, like, in a\Nsimple way... like, this first
-Dialogue: 0,1:01:44.85,1:01:48.64,Default,,0,0,0,,approach of generative grammar?\N- It's almost a truism.
-Dialogue: 0,1:01:51.02,1:01:54.10,Default,,0,0,0,,I mean, if you think about what\Na language is... say, what you
-Dialogue: 0,1:01:54.11,1:01:59.38,Default,,0,0,0,,and I know... we have, somehow,\Nin our heads, a procedure for
-Dialogue: 0,1:02:00.48,1:02:06.42,Default,,0,0,0,,constructing an infinite array\Nof structured expressions, each
-Dialogue: 0,1:02:06.42,1:02:11.42,Default,,0,0,0,,of which is assigned a\Nsound and assigned a semantic
-Dialogue: 0,1:02:11.42,1:02:14.39,Default,,0,0,0,,interpretation. That's like a truism.
-Dialogue: 0,1:02:14.39,1:02:18.23,Default,,0,0,0,,Furthermore, these structured\Nexpressions have the property of
-Dialogue: 0,1:02:18.23,1:02:20.36,Default,,0,0,0,,what's called "digital infinity. "
+Dialogue: 0,1:01:32.60,1:01:36.85,Default,,0,0,0,,Sanırım 30 sene sonra ancak yayımlandı.
+Dialogue: 0,1:01:41.10,1:01:44.61,Default,,0,0,0,,Üretici dil bilgisine dair\Nilk yaklaşımınızdan
+Dialogue: 0,1:01:44.85,1:01:48.64,Default,,0,0,0,,basit bir şekilde bahseder misiniz?
+Dialogue: 0,1:01:48.93,1:01:50.94,Default,,0,0,0,,Neredeyse sıradan bir düşünce.
+Dialogue: 0,1:01:51.14,1:01:55.56,Default,,0,0,0,,Dilin ne olduğunu düşününce,\Nnormal bir insanı ele alırsak...
+Dialogue: 0,1:01:55.73,1:02:00.62,Default,,0,0,0,,Kafamızda, öyle ya da böyle\Nsonsuz sayıda
+Dialogue: 0,1:02:00.97,1:02:06.32,Default,,0,0,0,,düzenli ifade dizileri kurabilen\Nbir mekanizma var.
+Dialogue: 0,1:02:06.50,1:02:12.69,Default,,0,0,0,,Bunların her birine\Nses ve anlamsal bir yorum atanmış.
+Dialogue: 0,1:02:13.13,1:02:14.58,Default,,0,0,0,,Bunda yeni bir şey yok.
+Dialogue: 0,1:02:14.66,1:02:20.33,Default,,0,0,0,,Furthermore, these structured\Nexpressions have the property of
+Dialogue: 0,1:02:20.36,1:02:21.68,Default,,0,0,0,,what's called "digital infinity. "
 Dialogue: 0,1:02:20.37,1:02:22.73,Default,,0,0,0,,They're like the numbers...\Nthe natural numbers... you know,
 Dialogue: 0,1:02:22.74,1:02:25.47,Default,,0,0,0,,there's 5 and 6, but nothing in between.
 Dialogue: 0,1:02:25.47,1:02:27.47,Default,,0,0,0,,That's not natural numbers anymore.
