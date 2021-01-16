@@ -10,9 +10,9 @@ YCbCr Matrix: None
 [Aegisub Project Garbage]
 Export Encoding: Turkish (ISO-8859-9)
 Video Zoom Percent: 0.625000
-Scroll Position: 950
-Active Line: 963
-Video Position: 89543
+Scroll Position: 966
+Active Line: 987
+Video Position: 91715
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,7 +34,7 @@ Dialogue: 0,0:01:28.66,0:01:32.53,Default,,0,0,0,,Dolayısıyla, filmden çıkar
 Dialogue: 0,0:01:32.68,0:01:34.59,Default,,0,0,0,,aslında yönetmene aittir.
 Dialogue: 0,0:01:35.65,0:01:38.14,Default,,0,0,0,,Bu süreci manipülasyona açık\Nbulmamın sebebi bu.
 Dialogue: 0,0:01:38.21,0:01:40.02,Default,,0,0,0,,Beyin, sahne geçişlerini unutur.
-Dialogue: 0,0:01:40.08,0:01:45.02,Default,,0,0,0,,İnsanlara özgü bu yetiyi Noam,\N"ruhsal süreklilik" olarak adlandırıyor.
+Dialogue: 0,0:01:40.08,0:01:45.02,Default,,0,0,0,,İnsanlara özgü bu yetiyi Noam,\N"zihinsel süreklilik" olarak adlandırıyor.
 Dialogue: 0,0:01:45.50,0:01:49.00,Default,,0,0,0,,Beynimiz, kurgulanmış sürekliliği\Ngerçekmiş gibi algılar
 Dialogue: 0,0:01:49.04,0:01:53.78,Default,,0,0,0,,ve konunun adil bir şekilde\Nişlendiğine ikna olur.
 Dialogue: 0,0:01:54.37,0:01:58.29,Default,,0,0,0,,Gelgelelim, bu film için\Nkullandığım animasyon
@@ -500,13 +500,13 @@ Dialogue: 0,0:29:00.58,0:29:03.24,Default,,0,0,0,,Ahmak gibi görünsem de\Nbu y
 Dialogue: 0,0:29:03.35,0:29:06.13,Default,,0,0,0,,Bu arada, Noam sürekli\Naynı noktalara değindiği için
 Dialogue: 0,0:29:06.17,0:29:08.34,Default,,0,0,0,,bazı çizimlerimi tekrar kullanacağım.
 Dialogue: 0,0:29:08.90,0:29:13.12,Default,,0,0,0,,Bir köpeği, fiziksel özelliklerine göre\Nanlamlandırmıyoruz.
-Dialogue: 0,0:29:14.79,0:29:19.75,Default,,0,0,0,,Bir köpeği, mesela, ruhsal sürekliliğin\Nbir parçası olarak anlamlandırıyoruz.
+Dialogue: 0,0:29:14.79,0:29:19.75,Default,,0,0,0,,Bir köpeği, mesela, zihinsel sürekliliğin\Nbir parçası olarak anlamlandırıyoruz.
 Dialogue: 0,0:29:20.42,0:29:25.93,Default,,0,0,0,,Diyelim bir cadı,\Nbir köpeği deveye dönüştürdü.
 Dialogue: 0,0:29:26.45,0:29:32.88,Default,,0,0,0,,Sonra peri prenses deveyi öpsün\Nve deve tekrar köpek olsun.
 Dialogue: 0,0:29:32.92,0:29:35.92,Default,,0,0,0,,Bu hayvan başından beri köpekti,\Ndeve gibi görünse bile.
 Dialogue: 0,0:29:36.00,0:29:37.97,Default,,0,0,0,,Peri masalları buna dayanır.
 Dialogue: 0,0:29:38.31,0:29:40.16,Default,,0,0,0,,Tam olarak öyle...
-Dialogue: 0,0:29:40.21,0:29:43.64,Default,,0,0,0,,Fakat ruhsal süreklilik\Nmaddesel bir varlık değil.
+Dialogue: 0,0:29:40.21,0:29:43.64,Default,,0,0,0,,Fakat zihinsel süreklilik\Nmaddesel bir varlık değil.
 Dialogue: 0,0:29:44.10,0:29:46.52,Default,,0,0,0,,Nesnelere yüklediğimiz bir niteliktir.
 Dialogue: 0,0:29:48.35,0:29:53.26,Default,,0,0,0,,Bu yüzden sembollere ilişkin nesnelerin\Nmaddesel özelliklerine bakıp
 Dialogue: 0,0:29:53.30,0:29:57.22,Default,,0,0,0,,onları tanımlamak için\Nbir yol bulmamız mümkün değil.
@@ -651,7 +651,7 @@ Dialogue: 0,0:39:13.68,0:39:16.46,Default,,0,0,0,,Bundan çıkaracağımız ders
 Dialogue: 0,0:39:16.54,0:39:18.60,Default,,0,0,0,,Tabii hiçbir talimat olmadan...
 Dialogue: 0,0:39:18.70,0:39:23.89,Default,,0,0,0,,...bebekler özel bir\Nsüreklilik olduğunu anlayabiliyor.
 Dialogue: 0,0:39:24.00,0:39:28.81,Default,,0,0,0,,Bu çok muayyen bir misal,\Nağaç örneğinden bile daha soyut.
-Dialogue: 0,0:39:28.92,0:39:33.96,Default,,0,0,0,,Lakin dış varlıklara\Nyüklediğimiz ruhsal süreklilik...
+Dialogue: 0,0:39:28.92,0:39:33.96,Default,,0,0,0,,Lakin dış varlıklara\Nyüklediğimiz zihinsel süreklilik...
 Dialogue: 0,0:39:34.37,0:39:37.54,Default,,0,0,0,,Dünyayayı yorumlama\Nşeklimizin bir parçasıdır.
 Dialogue: 0,0:39:41.05,0:39:47.09,Default,,0,0,0,,Etrafımızdaki nesnelerin ne olduğunu\Nbu şekilde anlarız.
 Dialogue: 0,0:39:47.16,0:39:52.38,Default,,0,0,0,,İnsan mı, nehir mi,\Nkaya mı veya ağaç mı...
@@ -972,47 +972,43 @@ Dialogue: 0,1:01:10.90,1:01:14.18,Default,,0,0,0,,İncelediğim kısımların ce
 Dialogue: 0,1:01:14.24,1:01:16.73,Default,,0,0,0,,Öyleyse deneğe ne hacet vardı?
 Dialogue: 0,1:01:17.14,1:01:23.05,Default,,0,0,0,,Hâliyle, denekle çalışmayı bırakıp\Nbana doğru gelen şeye yöneldim.
 Dialogue: 0,1:01:24.18,1:01:27.33,Default,,0,0,0,,Üretici dil bilgisi kuramını yazdım ama...
-Dialogue: 0,1:01:27.60,1:01:29.22,Default,,0,0,0,,Benim için bir nevi hobiydi.
+Dialogue: 0,1:01:27.60,1:01:29.22,Default,,0,0,0,,Benim için hobiydi.
 Dialogue: 0,1:01:29.37,1:01:32.53,Default,,0,0,0,,O vakitler hiç kimse\Naçıp yüzüne bile bakmamıştı.
 Dialogue: 0,1:01:32.60,1:01:36.85,Default,,0,0,0,,Sanırım 30 sene sonra ancak yayımlandı.
 Dialogue: 0,1:01:41.10,1:01:44.61,Default,,0,0,0,,Üretici dil bilgisine dair\Nilk yaklaşımınızdan
 Dialogue: 0,1:01:44.85,1:01:48.64,Default,,0,0,0,,basit bir şekilde bahseder misiniz?
 Dialogue: 0,1:01:48.93,1:01:50.94,Default,,0,0,0,,Neredeyse sıradan bir düşünce.
 Dialogue: 0,1:01:51.14,1:01:55.56,Default,,0,0,0,,Dilin ne olduğunu düşününce,\Nnormal bir insanı ele alırsak...
-Dialogue: 0,1:01:55.73,1:02:00.62,Default,,0,0,0,,Kafamızda, öyle ya da böyle\Nsonsuz sayıda
-Dialogue: 0,1:02:00.97,1:02:06.32,Default,,0,0,0,,düzenli ifade dizileri kurabilen\Nbir mekanizma var.
+Dialogue: 0,1:01:55.73,1:02:00.62,Default,,0,0,0,,Kafamızdaki bir mekanizma, nasıl oluyorsa
+Dialogue: 0,1:02:00.97,1:02:06.32,Default,,0,0,0,,sonsuz sayıda\Nyapısal ifade dizileri kuruyor.
 Dialogue: 0,1:02:06.50,1:02:12.69,Default,,0,0,0,,Bunların her birine\Nses ve anlamsal bir yorum atanmış.
 Dialogue: 0,1:02:13.13,1:02:14.58,Default,,0,0,0,,Bunda yeni bir şey yok.
-Dialogue: 0,1:02:14.66,1:02:20.33,Default,,0,0,0,,Furthermore, these structured\Nexpressions have the property of
-Dialogue: 0,1:02:20.36,1:02:21.68,Default,,0,0,0,,what's called "digital infinity. "
-Dialogue: 0,1:02:20.37,1:02:22.73,Default,,0,0,0,,They're like the numbers...\Nthe natural numbers... you know,
-Dialogue: 0,1:02:22.74,1:02:25.47,Default,,0,0,0,,there's 5 and 6, but nothing in between.
-Dialogue: 0,1:02:25.47,1:02:27.47,Default,,0,0,0,,That's not natural numbers anymore.
-Dialogue: 0,1:02:27.47,1:02:30.74,Default,,0,0,0,,And the same with language.\NThere's a 5-word sentence, a
-Dialogue: 0,1:02:30.74,1:02:33.71,Default,,0,0,0,,6-word sentence, there's\Nno 51/2-word sentence.
-Dialogue: 0,1:02:33.71,1:02:37.01,Default,,0,0,0,,They're very much unlike the\Ncommunication system of bees or
-Dialogue: 0,1:02:37.02,1:02:40.12,Default,,0,0,0,,any other system, you know.\NNow, that's very rare in the
-Dialogue: 0,1:02:40.12,1:02:42.45,Default,,0,0,0,,natural world... digital infinity.
-Dialogue: 0,1:02:42.45,1:02:46.96,Default,,0,0,0,,And by that time... say, late\N'40s... the mathematics of
-Dialogue: 0,1:02:46.96,1:02:49.76,Default,,0,0,0,,it were well understood.\NThe theory of computation had
-Dialogue: 0,1:02:49.76,1:02:52.36,Default,,0,0,0,,been developed, the theory of\Nrecursive functions... so these
-Dialogue: 0,1:02:52.36,1:02:58.03,Default,,0,0,0,,were familiar concepts within\Ncontemporary mathematics.
-Dialogue: 0,1:02:58.04,1:03:01.04,Default,,0,0,0,,And, you know, I studied them\Nwhen I studied advanced logic
-Dialogue: 0,1:03:01.04,1:03:03.47,Default,,0,0,0,,and mathematics. And\Nit just sort of fell
-Dialogue: 0,1:03:03.48,1:03:06.11,Default,,0,0,0,,together. The... you\Nhave... you have this
-Dialogue: 0,1:03:06.11,1:03:09.71,Default,,0,0,0,,system of digital infinity and\Nits procedure of some sort that
-Dialogue: 0,1:03:09.72,1:03:12.52,Default,,0,0,0,,generates an infinity of\Nstructured expressions.
-Dialogue: 0,1:03:12.52,1:03:14.58,Default,,0,0,0,,Well, that's a generative\Ngrammar... in fact, that's all
-Dialogue: 0,1:03:14.59,1:03:15.49,Default,,0,0,0,,it is.\N- Mm-hmm.
-Dialogue: 0,1:03:15.49,1:03:17.62,Default,,0,0,0,,So that ought to be\Nthe core of the study.
-Dialogue: 0,1:03:17.62,1:03:20.42,Default,,0,0,0,,And then comes the question...\Nwell, okay, what is it?
-Dialogue: 0,1:03:20.43,1:03:23.66,Default,,0,0,0,,Then, you run into the problem\NI mentioned before... as soon as
-Dialogue: 0,1:03:23.66,1:03:28.33,Default,,0,0,0,,you try to do it, you find that,\Nin order to deal with the data
-Dialogue: 0,1:03:28.33,1:03:32.37,Default,,0,0,0,,available, it has to be\Nextremely complex and intricate.
-Dialogue: 0,1:03:32.37,1:03:36.07,Default,,0,0,0,,But that doesn't make any sense,\Neither, because every child
-Dialogue: 0,1:03:36.07,1:03:41.21,Default,,0,0,0,,masters it in no time. So,\Nsomehow it can't be rich and
-Dialogue: 0,1:03:41.21,1:03:45.62,Default,,0,0,0,,complex. And then comes the field.
-Dialogue: 0,1:03:45.62,1:03:49.69,Default,,0,0,0,,The field is to try to show\Nthat what appears to be rich and
+Dialogue: 0,1:02:14.66,1:02:17.34,Default,,0,0,0,,Ayrıca bu yapısal ifadelerde
+Dialogue: 0,1:02:17.46,1:02:20.34,Default,,0,0,0,,sayısal sonsuzluk adında\Nbir özellik mevcut.
+Dialogue: 0,1:02:20.56,1:02:23.30,Default,,0,0,0,,Doğal sayılara benziyorlar.
+Dialogue: 0,1:02:23.41,1:02:27.45,Default,,0,0,0,,Beş ve altının arasında\Nbaşka bir doğal sayı yok.
+Dialogue: 0,1:02:27.73,1:02:29.86,Default,,0,0,0,,Bu dil için de geçerli.
+Dialogue: 0,1:02:29.96,1:02:34.17,Default,,0,0,0,,Beş veya altı kelimelik bir cümle olabilir\Nama beş buçuk olmaz.
+Dialogue: 0,1:02:34.24,1:02:38.85,Default,,0,0,0,,Bu durum, arılar dahil diğer\Nbütün iletişim sistemlerinden çok farklı.
+Dialogue: 0,1:02:39.08,1:02:42.56,Default,,0,0,0,,Sayısal sonsuzluk doğal yaşamda\Noldukça nadir.
+Dialogue: 0,1:02:42.66,1:02:48.50,Default,,0,0,0,,O zamanlar, 40'lı yılların sonunda\Nbunun matematiği iyice anlaşılmıştı.
+Dialogue: 0,1:02:48.81,1:02:52.24,Default,,0,0,0,,Hesaplama ve yineleyen fonksiyon\Nteorileri geliştirilmişti.
+Dialogue: 0,1:02:52.33,1:02:58.03,Default,,0,0,0,,Yani bunlar, modern matematikte\Nbilindik kavramlardı.
+Dialogue: 0,1:02:58.14,1:03:02.32,Default,,0,0,0,,Ben de ileri düzey mantık\Nve matematik dersleri almıştım.
+Dialogue: 0,1:03:02.52,1:03:04.36,Default,,0,0,0,,Hepsi birbiriyle örtüştü.
+Dialogue: 0,1:03:05.08,1:03:08.21,Default,,0,0,0,,Sayısal sonsuzluk adı verilen sistemde
+Dialogue: 0,1:03:08.44,1:03:12.42,Default,,0,0,0,,sonsuz sayıda yapısal ifadeler üreten\Nbir tür süreç var.
+Dialogue: 0,1:03:12.76,1:03:15.25,Default,,0,0,0,,Aslında üretici dil bilgisi bundan ibaret.
+Dialogue: 0,1:03:15.41,1:03:17.57,Default,,0,0,0,,Çalışmanın özü buna dayanıyor.
+Dialogue: 0,1:03:17.73,1:03:20.16,Default,,0,0,0,,Sırada "Peki nedir bu?" sorusu var.
+Dialogue: 0,1:03:20.43,1:03:23.42,Default,,0,0,0,,Bahsettiğim problem burada ortaya çıkıyor.
+Dialogue: 0,1:03:23.50,1:03:29.00,Default,,0,0,0,,Bu soruyu cevaplarken\Nmevcut verilerle başa çıkmanız için
+Dialogue: 0,1:03:29.09,1:03:32.32,Default,,0,0,0,,aşırı derecede karışık meselelere\Ngirmek gerekiyor.
+Dialogue: 0,1:03:32.46,1:03:34.50,Default,,0,0,0,,Fakat bu da hiç mantıklı değil.
+Dialogue: 0,1:03:34.97,1:03:38.77,Default,,0,0,0,,Zira her çocuk dili çabucak öğreniyor.
+Dialogue: 0,1:03:39.06,1:03:42.17,Default,,0,0,0,,Bu nedenle zengin ve karışık olamaz.
+Dialogue: 0,1:03:43.00,1:03:45.54,Default,,0,0,0,,complex. And then comes the field.
+Dialogue: 0,1:03:45.70,1:03:49.69,Default,,0,0,0,,The field is to try to show\Nthat what appears to be rich and
 Dialogue: 0,1:03:49.69,1:03:55.59,Default,,0,0,0,,complex is, at the\Ncore, just very simple.
 Dialogue: 0,1:03:56.70,1:04:00.66,Default,,0,0,0,,Actually, there's... you know,\Nwhen you think about it, as we
 Dialogue: 0,1:04:00.67,1:04:04.53,Default,,0,0,0,,started to do from the '50s...\Nthere's an evolutionary basis
