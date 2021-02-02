@@ -9,10 +9,10 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Export Encoding: Turkish (ISO-8859-9)
-Video Zoom Percent: 0.625000
-Scroll Position: 1066
-Active Line: 1079
-Video Position: 101976
+Video Zoom Percent: 0.500000
+Scroll Position: 1197
+Active Line: 1207
+Video Position: 115797
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1042,7 +1042,7 @@ Dialogue: 0,1:05:57.44,1:06:02.05,Default,,0,0,0,,Bu durumu izah etmek zordur\Nv
 Dialogue: 0,1:06:02.28,1:06:06.97,Default,,0,0,0,,dilin, büyük atlamanın yaşandığı\Nkısa sürede ortaya çıktığı varsayılır.
 Dialogue: 0,1:06:07.25,1:06:09.77,Default,,0,0,0,,Zira bütün saydıklarım için dil gerekli.
 Dialogue: 0,1:06:09.93,1:06:15.12,Default,,0,0,0,,Dilden önce, her hayvan gibi\Nilkel iletişim yöntemleri olabilir.
-Dialogue: 0,1:06:15.37,1:06:18.40,Default,,0,0,0,,Lakin insan dili,\Nan önce saydığım özellikler ile...
+Dialogue: 0,1:06:15.37,1:06:18.40,Default,,0,0,0,,Lakin insan dili,\Naz önce saydığım özellikler ile...
 Dialogue: 0,1:06:19.61,1:06:23.76,Default,,0,0,0,,Kafanızda düşünceler\Ninşa etme kapasitesi...
 Dialogue: 0,1:06:24.30,1:06:28.04,Default,,0,0,0,,Yürürken kendinizle konuşursunuz.\NKonuşmamak elde değil.
 Dialogue: 0,1:06:28.33,1:06:31.80,Default,,0,0,0,,Kendinizle konuşmamak için\Nsağlam bir irade gerek.
@@ -1100,177 +1100,133 @@ Dialogue: 0,1:10:15.73,1:10:19.53,Default,,0,0,0,,- Henüz çok mu erken?\N- Hâ
 Dialogue: 0,1:10:20.09,1:10:21.14,Default,,0,0,0,,Çok üzgünüm.
 Dialogue: 0,1:10:36.78,1:10:41.08,Default,,0,0,0,,Dışarıdan bakınca mükemmel\Nbir ilişkiniz olduğunu düşünüyorum.
 Dialogue: 0,1:10:42.01,1:10:45.21,Default,,0,0,0,,Hiçbir şey mükemmel değildir\Nama çok samimiydi.
-Dialogue: 0,1:10:45.77,1:10:47.67,Default,,0,0,0,,very intimate, yeah.\N- I think a lot of human beings
-Dialogue: 0,1:10:47.67,1:10:52.18,Default,,0,0,0,,spend a lot of their life\Ntrying to solve problems of a
-Dialogue: 0,1:10:52.18,1:10:54.98,Default,,0,0,0,,relationship or find\Na relationship, and...
-Dialogue: 0,1:10:54.98,1:10:57.08,Default,,0,0,0,,Well, we pretty much solved\Nit when we were children.
-Dialogue: 0,1:10:57.08,1:10:58.62,Default,,0,0,0,,We were\Nchildren when we got
-Dialogue: 0,1:10:58.62,1:11:00.58,Default,,0,0,0,,married.\N- Yeah.
-Dialogue: 0,1:11:00.59,1:11:06.09,Default,,0,0,0,,Carol was 19, and I was 20.\N- ♪ here in my kitchen
-Dialogue: 0,1:11:06.09,1:11:11.43,Default,,0,0,0,,♪ soup is on ♪ lover
-Dialogue: 0,1:11:12.53,1:11:18.37,Default,,0,0,0,,♪ lover ♪ come on over
-Dialogue: 0,1:11:21.67,1:11:26.71,Default,,0,0,0,,And do you think it\Nhelped you in your work?
-Dialogue: 0,1:11:28.91,1:11:32.28,Default,,0,0,0,,It's hard to say... I mean,\NCarol was kind of a social
-Dialogue: 0,1:11:32.28,1:11:34.85,Default,,0,0,0,,butterfly. You know, she was... as a
-Dialogue: 0,1:11:34.85,1:11:37.95,Default,,0,0,0,,teenager, you know, went to all\Nkind of parties, dating, this
-Dialogue: 0,1:11:37.96,1:11:39.72,Default,,0,0,0,,and that. I was very solitary.
-Dialogue: 0,1:11:39.72,1:11:43.76,Default,,0,0,0,,But... and for a couple of\Nyears, we more or less lived her
-Dialogue: 0,1:11:43.76,1:11:46.63,Default,,0,0,0,,style of life. But,\Nyou know, I'd sit in a
-Dialogue: 0,1:11:46.63,1:11:48.73,Default,,0,0,0,,corner at the parties.\NBut after a while, we just
-Dialogue: 0,1:11:48.73,1:11:53.54,Default,,0,0,0,,drifted into a very private\Nlife, you know, saw a couple
-Dialogue: 0,1:11:53.54,1:11:57.01,Default,,0,0,0,,friends. We... we weren't hermits...
-Dialogue: 0,1:11:57.01,1:12:00.11,Default,,0,0,0,,like, you know, children,\Ngrandchildren, friends, and so
-Dialogue: 0,1:12:00.11,1:12:05.88,Default,,0,0,0,,on, but, mostly, we lived... we\Npreferred to be alone, you know.
-Dialogue: 0,1:12:05.88,1:12:08.52,Default,,0,0,0,,So...\N- ♪ come on over
-Dialogue: 0,1:12:08.52,1:12:13.12,Default,,0,0,0,,and we started to talk about\Nyour education with... last
-Dialogue: 0,1:12:13.12,1:12:17.29,Default,,0,0,0,,time, but more about the school.\NCan you tell me a bit more about
-Dialogue: 0,1:12:17.30,1:12:21.30,Default,,0,0,0,,the relationship you\Nhad with your parents?
-Dialogue: 0,1:12:21.30,1:12:23.77,Default,,0,0,0,,Things were quite\Ndifferent in those days.
-Dialogue: 0,1:12:23.77,1:12:28.10,Default,,0,0,0,,I mean, the relationship was\Nfine, you know, but not very
-Dialogue: 0,1:12:28.11,1:12:31.54,Default,,0,0,0,,close, really. So,\Nfor example, there were
-Dialogue: 0,1:12:31.54,1:12:34.78,Default,,0,0,0,,things happening in my childhood\Nthat I never would have dreamt
-Dialogue: 0,1:12:34.78,1:12:38.82,Default,,0,0,0,,of talking to them about. We\Nwere the only Jewish family
-Dialogue: 0,1:12:38.82,1:12:42.82,Default,,0,0,0,,in a neighborhood that was\Nlargely Irish and German
-Dialogue: 0,1:12:42.82,1:12:45.96,Default,,0,0,0,,catholic. This is in the '30s, and
-Dialogue: 0,1:12:45.96,1:12:49.73,Default,,0,0,0,,very anti-semitic, and pretty\Npro-Nazi, in fact... the Irish
-Dialogue: 0,1:12:49.73,1:12:52.80,Default,,0,0,0,,'cause they hated the British\Nand the Germans 'cause they
-Dialogue: 0,1:12:52.80,1:12:55.00,Default,,0,0,0,,were Germans. It's not like today.
-Dialogue: 0,1:12:55.00,1:12:57.67,Default,,0,0,0,,A boy in the streets wasn't\Ngonna get shot, you know.
-Dialogue: 0,1:12:57.67,1:13:00.24,Default,,0,0,0,,But it was unpleasant, you\Nknow. There was a lot of
-Dialogue: 0,1:13:00.24,1:13:02.11,Default,,0,0,0,,anti-semitism. And the\Nstreets... there were
-Dialogue: 0,1:13:02.11,1:13:05.74,Default,,0,0,0,,streets I couldn't walk through\Nbecause the Irish kids lived
-Dialogue: 0,1:13:05.74,1:13:07.11,Default,,0,0,0,,there, and I'd go somewhere else.
-Dialogue: 0,1:13:07.11,1:13:09.81,Default,,0,0,0,,And... but I never talked\Nto my parents about it.
-Dialogue: 0,1:13:09.81,1:13:12.65,Default,,0,0,0,,I don't think they\Nknew, till their deaths.
-Dialogue: 0,1:13:12.65,1:13:15.89,Default,,0,0,0,,You know, by the time the\Nsecond world war came, everything
-Dialogue: 0,1:13:15.89,1:13:21.36,Default,,0,0,0,,changed... superficially.\NSo, in December 7, 1941, the
-Dialogue: 0,1:13:21.36,1:13:24.86,Default,,0,0,0,,people who had been still having\Nbeer parties at the fall of
-Dialogue: 0,1:13:24.86,1:13:29.90,Default,,0,0,0,,Paris, which I remember, were\Nwalking around with tin hats,
-Dialogue: 0,1:13:29.90,1:13:32.90,Default,,0,0,0,,telling everyone to pull\Ndown their shades, because the
-Dialogue: 0,1:13:32.90,1:13:36.01,Default,,0,0,0,,luftwaffe was going to bomb\Nthe city and so on... a very
-Dialogue: 0,1:13:36.01,1:13:39.81,Default,,0,0,0,,striking transition,\Nwhich taught me something.
-Dialogue: 0,1:13:39.81,1:13:43.68,Default,,0,0,0,,But then, during the war, for\Nreasons I don't understand,
-Dialogue: 0,1:13:43.68,1:13:45.95,Default,,0,0,0,,there were race riots\Nall over the place.
-Dialogue: 0,1:13:45.95,1:13:51.02,Default,,0,0,0,,In fact, there was a teenage\Ncurfew for a couple of years.
-Dialogue: 0,1:13:51.02,1:13:53.12,Default,,0,0,0,,At 7:00...\N- in Philadelphia?
-Dialogue: 0,1:13:53.12,1:13:55.69,Default,,0,0,0,,Yeah, if we wanted to go out\Nafter 7:00, we had to have
-Dialogue: 0,1:13:55.69,1:13:59.33,Default,,0,0,0,,parental permission. And\NI went to a Hebrew school,
-Dialogue: 0,1:13:59.33,1:14:02.67,Default,,0,0,0,,and, actually, we had police\Nprotection from the subway stop
-Dialogue: 0,1:14:02.67,1:14:06.04,Default,,0,0,0,,to the school and back,\Nunless we were on the subway...
-Dialogue: 0,1:14:06.04,1:14:08.97,Default,,0,0,0,,you were kind of on your own.\NBut I don't know why, but there
-Dialogue: 0,1:14:08.97,1:14:12.04,Default,,0,0,0,,was some kind of phenomenon\Nthat took place during the war.
-Dialogue: 0,1:14:12.04,1:14:15.71,Default,,0,0,0,,And when did you hear about\Nthe camps the first time?
-Dialogue: 0,1:14:15.71,1:14:21.42,Default,,0,0,0,,Well, rumors were coming\Nthrough by '42, '43, but nobody
-Dialogue: 0,1:14:21.42,1:14:25.66,Default,,0,0,0,,really knew the scale.\NAnd it was downplayed,
-Dialogue: 0,1:14:25.66,1:14:29.66,Default,,0,0,0,,strikingly downplayed. The\Nmost dramatic as, actually,
-Dialogue: 0,1:14:29.66,1:14:33.90,Default,,0,0,0,,as I'm sure you know, there were\Ninternational conferences to try
-Dialogue: 0,1:14:33.90,1:14:36.93,Default,,0,0,0,,to do something about the\Npeople who wanted to flee the
-Dialogue: 0,1:14:36.94,1:14:40.07,Default,,0,0,0,,continent, but nobody was\Nwilling to do anything.
-Dialogue: 0,1:14:40.07,1:14:44.24,Default,,0,0,0,,Roosevelt, in fact, turned back\Na ship at St. Louis, which came
-Dialogue: 0,1:14:44.24,1:14:46.44,Default,,0,0,0,,with, I think, 1,000\Nrefugees from Europe.
-Dialogue: 0,1:14:46.44,1:14:50.21,Default,,0,0,0,,And they went to Cuba... sort of\Nwandered around the region, but
-Dialogue: 0,1:14:50.22,1:14:53.15,Default,,0,0,0,,the U.S. just turned it back.\NThey were sent back to Europe.
-Dialogue: 0,1:14:53.15,1:14:56.69,Default,,0,0,0,,Most of them ended up in,\Nyou know, in gas chambers.
-Dialogue: 0,1:14:56.69,1:15:00.82,Default,,0,0,0,,The most striking thing was,\Nafter the war, in 1945, there
-Dialogue: 0,1:15:00.83,1:15:04.16,Default,,0,0,0,,was... by then, everybody\Nknew... there was no longer any
-Dialogue: 0,1:15:04.16,1:15:08.13,Default,,0,0,0,,pretext for not saving the survivors.
-Dialogue: 0,1:15:08.13,1:15:10.87,Default,,0,0,0,,And there were a fair\Nnumber of survivors.
-Dialogue: 0,1:15:10.87,1:15:13.77,Default,,0,0,0,,And they were living in\Nconcentration camps, but the
-Dialogue: 0,1:15:13.77,1:15:17.84,Default,,0,0,0,,camps were not very different\Nfrom the Nazi camps except that,
-Dialogue: 0,1:15:17.84,1:15:20.28,Default,,0,0,0,,you know, the gas\Nchambers weren't... no...
-Dialogue: 0,1:15:20.28,1:15:23.51,Default,,0,0,0,,no extermination, but living\Nunder horrible conditions.
-Dialogue: 0,1:15:23.52,1:15:26.25,Default,,0,0,0,,And they came back with a very\Ngrim picture of what was life
-Dialogue: 0,1:15:26.25,1:15:29.35,Default,,0,0,0,,was like in the camps.\N- You mean the same camp in
-Dialogue: 0,1:15:29.35,1:15:30.45,Default,,0,0,0,,Poland?\N- Same camps.
-Dialogue: 0,1:15:30.46,1:15:32.99,Default,,0,0,0,,You know, maybe another\Ndetention camp, but the
-Dialogue: 0,1:15:32.99,1:15:34.76,Default,,0,0,0,,circumstances were not very different.
-Dialogue: 0,1:15:34.76,1:15:36.76,Default,,0,0,0,,But they were like, not in\Ndetention... they were...
-Dialogue: 0,1:15:36.76,1:15:39.50,Default,,0,0,0,,Well, you know, they weren't\Nextermination camps... no gas
-Dialogue: 0,1:15:39.50,1:15:43.00,Default,,0,0,0,,chambers, you know, no killing,\Nno slave labor... but the
-Dialogue: 0,1:15:43.00,1:15:45.07,Default,,0,0,0,,conditions were\Nhorrible. You should read
-Dialogue: 0,1:15:45.07,1:15:48.34,Default,,0,0,0,,the Harrison commission.\N- How do you call that?
-Dialogue: 0,1:15:48.34,1:15:52.81,Default,,0,0,0,,Harrison? - Harrison...\Nh-a-r-r-i-s-o-n.
-Dialogue: 0,1:15:52.81,1:15:55.78,Default,,0,0,0,,I suppose it's obtainable.\NIt's a pretty grim picture of
-Dialogue: 0,1:15:55.78,1:15:58.51,Default,,0,0,0,,life in the camps.\N- "Generally speaking, three"
-Dialogue: 0,1:15:58.52,1:16:01.78,Default,,0,0,0,,months after victory of Europe\Nday and even longer after the
-Dialogue: 0,1:16:01.79,1:16:05.92,Default,,0,0,0,,liberation of individual groups,\Nmany Jewish displaced persons
-Dialogue: 0,1:16:05.92,1:16:08.82,Default,,0,0,0,,and other possibly\Nnon-repatriables are living
-Dialogue: 0,1:16:08.83,1:16:12.96,Default,,0,0,0,,under guard behind barbed-wire\Nfences, in camps of several
-Dialogue: 0,1:16:12.96,1:16:16.27,Default,,0,0,0,,descriptions... built by the\NGermans for slave-laborers and
-Dialogue: 0,1:16:16.27,1:16:19.04,Default,,0,0,0,,Jews... including some of\Nthe most notorious of the
-Dialogue: 0,1:16:19.04,1:16:22.91,Default,,0,0,0,,concentration camps, amidst\Ncrowded, frequently unsanitary
-Dialogue: 0,1:16:22.91,1:16:27.01,Default,,0,0,0,,and generally grim conditions,\Nin complete idleness, with no
-Dialogue: 0,1:16:27.01,1:16:28.98,Default,,0,0,0,,opportunity, except surreptitiously...
-Dialogue: 0,1:16:28.98,1:16:33.15,Default,,0,0,0,,...have managed, in spite of\Nthe many obvious difficulties, to
-Dialogue: 0,1:16:33.15,1:16:36.59,Default,,0,0,0,,find clothing of one kind or\Nanother for their charges, many
-Dialogue: 0,1:16:36.59,1:16:40.79,Default,,0,0,0,,of the Jewish displaced persons,\Nlate in July, had no clothing
-Dialogue: 0,1:16:40.79,1:16:44.29,Default,,0,0,0,,other than their concentration\Ncamp garb, a rather hideous
-Dialogue: 0,1:16:44.30,1:16:48.16,Default,,0,0,0,,striped pajama effect, while\Nothers, to their chagrin, were
-Dialogue: 0,1:16:48.17,1:16:50.83,Default,,0,0,0,,obliged to wear German S.S. Uniforms.
-Dialogue: 0,1:16:50.84,1:16:53.54,Default,,0,0,0,,"It is questionable which\Nclothing they hate the more. "
-Dialogue: 0,1:16:53.54,1:16:56.11,Default,,0,0,0,,Actually, you know,\Nthis is pretty normal.
-Dialogue: 0,1:16:56.11,1:16:59.24,Default,,0,0,0,,I mean, treatment of\Nholocaust victims is grotesque.
-Dialogue: 0,1:16:59.24,1:17:04.18,Default,,0,0,0,,But right now, take France...\Nthe Roma were... you know, they
-Dialogue: 0,1:17:04.18,1:17:06.28,Default,,0,0,0,,were treated pretty much like the Jews.
-Dialogue: 0,1:17:06.28,1:17:11.05,Default,,0,0,0,,France is expelling them\Nto miserable poverty.
-Dialogue: 0,1:17:11.06,1:17:13.96,Default,,0,0,0,,They're expelling basically\Nholocaust survivors and their
-Dialogue: 0,1:17:13.96,1:17:16.83,Default,,0,0,0,,descendants, and it's\Nparticularly dramatic in France
-Dialogue: 0,1:17:16.83,1:17:20.53,Default,,0,0,0,,because there's so much\Nposturing there about holocaust
-Dialogue: 0,1:17:20.53,1:17:22.93,Default,,0,0,0,,denial. I mean, you can't have a more
-Dialogue: 0,1:17:22.93,1:17:27.30,Default,,0,0,0,,extreme case of holocaust\Ndenial than taking survivors and
-Dialogue: 0,1:17:27.31,1:17:30.04,Default,,0,0,0,,punishing them. And\Nas far as I can see in
-Dialogue: 0,1:17:30.04,1:17:32.94,Default,,0,0,0,,France, there's almost\Nno discussion of this.
-Dialogue: 0,1:17:32.94,1:17:37.21,Default,,0,0,0,,In fact, when the European union\Nprotested, Sarkozy condemned
-Dialogue: 0,1:17:37.22,1:17:40.98,Default,,0,0,0,,them, you know, for their\Nanti-French extremism and so on.
-Dialogue: 0,1:17:40.99,1:17:44.35,Default,,0,0,0,,I mean, you know, the cynicism\Nabout all of this is pretty
-Dialogue: 0,1:17:44.36,1:17:48.16,Default,,0,0,0,,remarkable.\N- Um... Can I come back to
-Dialogue: 0,1:17:48.16,1:17:51.43,Default,,0,0,0,,maybe more happy matters?
-Dialogue: 0,1:17:51.43,1:17:54.26,Default,,0,0,0,,Pick at random, and the\Nworld won't be very happy.
-Dialogue: 0,1:17:54.27,1:17:56.57,Default,,0,0,0,,I know, but we're going to
-Dialogue: 0,1:17:56.57,1:17:59.94,Default,,0,0,0,,come back... go more\Ninside your memories and...
-Dialogue: 0,1:17:59.94,1:18:02.61,Default,,0,0,0,,Okay.\N- I wanted to know if the...
-Dialogue: 0,1:18:02.61,1:18:06.11,Default,,0,0,0,,the education you gave to your\Nchildren was influenced by what
-Dialogue: 0,1:18:06.11,1:18:09.21,Default,,0,0,0,,you believe in language\Nacquisition or what's going on
-Dialogue: 0,1:18:09.21,1:18:11.18,Default,,0,0,0,,with the brain.\N- Well, I mean, the education
-Dialogue: 0,1:18:11.18,1:18:13.88,Default,,0,0,0,,at home, yes. So, you\Nknow, we read to the
-Dialogue: 0,1:18:13.89,1:18:17.22,Default,,0,0,0,,kids and encouraged the kids\Nto read and encouraged them to
-Dialogue: 0,1:18:17.22,1:18:20.52,Default,,0,0,0,,follow their own interests.\NThe three kids were quite
-Dialogue: 0,1:18:20.53,1:18:22.46,Default,,0,0,0,,different.
-Dialogue: 0,1:18:22.46,1:18:28.26,Default,,0,0,0,,My... my son, from a very early\Nage, was mostly interested in
-Dialogue: 0,1:18:32.27,1:18:35.27,Default,,0,0,0,,science and mathematics, so,\Nyou know, by the time he was
-Dialogue: 0,1:18:35.27,1:18:38.44,Default,,0,0,0,,10 years old, we were reading\Ntogether popular books on
-Dialogue: 0,1:18:38.44,1:18:40.98,Default,,0,0,0,,relativity theory and things like that.
-Dialogue: 0,1:18:40.98,1:18:43.71,Default,,0,0,0,,But we just let the kids go\Nwhere they wanted and encouraged
-Dialogue: 0,1:18:43.72,1:18:45.11,Default,,0,0,0,,them. You know, they went in different
-Dialogue: 0,1:18:45.12,1:18:47.58,Default,,0,0,0,,directions... it was fine\Nwith us... and, you know,
-Dialogue: 0,1:18:47.59,1:18:49.99,Default,,0,0,0,,tried to just encourage\Nthem to do what they wanted.
-Dialogue: 0,1:18:49.99,1:18:52.72,Default,,0,0,0,,The school was conventional.\NWe wanted them to go to the
-Dialogue: 0,1:18:52.72,1:18:56.56,Default,,0,0,0,,public schools, and it\Nworked reasonably well.
-Dialogue: 0,1:18:56.56,1:19:01.03,Default,,0,0,0,,And one child was not making out\Nin public school... we moved her
-Dialogue: 0,1:19:01.03,1:19:03.97,Default,,0,0,0,,to a quaker school, which was better.
-Dialogue: 0,1:19:03.97,1:19:06.64,Default,,0,0,0,,They... Essentially\Npicked their own paths.
-Dialogue: 0,1:19:06.64,1:19:11.94,Default,,0,0,0,,They left home... they went off\Nto become political activists.
-Dialogue: 0,1:19:11.94,1:19:16.41,Default,,0,0,0,,My older daughter spent a couple\Nof months at college, couldn't
-Dialogue: 0,1:19:16.41,1:19:20.65,Default,,0,0,0,,stand it, and went off and\Njoined the united farm workers
-Dialogue: 0,1:19:20.65,1:19:25.12,Default,,0,0,0,,and, ever since then, has\Nbeen very involved in political
-Dialogue: 0,1:19:25.12,1:19:28.52,Default,,0,0,0,,activity. My young... her younger sister
-Dialogue: 0,1:19:28.53,1:19:32.19,Default,,0,0,0,,went to Nicaragua in 1980 and stayed.
-Dialogue: 0,1:19:32.20,1:19:34.43,Default,,0,0,0,,And my son went off in\Na different direction.
-Dialogue: 0,1:19:34.43,1:19:38.97,Default,,0,0,0,,But my children grew up in an\Natmosphere of extreme political
-Dialogue: 0,1:19:38.97,1:19:40.97,Default,,0,0,0,,tension. I don't know\Nhow much they felt.
-Dialogue: 0,1:19:40.97,1:19:43.67,Default,,0,0,0,,For example, I was in and out\Nof jail, and I was facing a long
-Dialogue: 0,1:19:43.67,1:19:48.48,Default,,0,0,0,,jail sentence, enough so that my\Nwife went back to college after
-Dialogue: 0,1:19:48.48,1:19:52.45,Default,,0,0,0,,17 years to try to get a\Ndegree... an advanced degree...
-Dialogue: 0,1:19:52.45,1:19:54.98,Default,,0,0,0,,because we assumed she'd have\Nto take care of the children.
-Dialogue: 0,1:19:54.99,1:19:58.05,Default,,0,0,0,,She'd need a job. And the\Nkids kind of grew up in
-Dialogue: 0,1:19:58.06,1:20:01.52,Default,,0,0,0,,this atmosphere, but I don't\Nthink they felt any particular
-Dialogue: 0,1:20:01.53,1:20:04.03,Default,,0,0,0,,tension. My wife told me once that my,
-Dialogue: 0,1:20:04.03,1:20:08.33,Default,,0,0,0,,probably 8-, 10-year-old\Ndaughter, I guess, told her when
-Dialogue: 0,1:20:08.33,1:20:11.03,Default,,0,0,0,,she came home from school...\Nshe asked, "what'd you do in"
-Dialogue: 0,1:20:11.04,1:20:13.74,Default,,0,0,0,,show-and-tell?" She said,\N"well I described... I
-Dialogue: 0,1:20:13.74,1:20:16.87,Default,,0,0,0,,told them how my father was in jail. "
-Dialogue: 0,1:20:16.87,1:20:21.88,Default,,0,0,0,,What makes you happy?
-Dialogue: 0,1:20:22.98,1:20:27.92,Default,,0,0,0,,Happy?
+Dialogue: 0,1:10:45.77,1:10:50.01,Default,,0,0,0,,Bence çoğu insan\Nhayatlarının büyük bir bölümünü
+Dialogue: 0,1:10:50.13,1:10:55.00,Default,,0,0,0,,ilişkisel problemleri çözmekle\Nveya bir ilişki bulmakla geçiriyor ve...
+Dialogue: 0,1:10:55.37,1:10:59.49,Default,,0,0,0,,Bunları çocukken çözmüşüz.\NEvlendiğimizde daha çocuktuk.
+Dialogue: 0,1:11:00.70,1:11:03.26,Default,,0,0,0,,Carol 19, ben 20 yaşındaydım.
+Dialogue: 0,1:11:25.90,1:11:28.38,Default,,0,0,0,,İşinize yardımı dokundu mu?
+Dialogue: 0,1:11:28.91,1:11:33.37,Default,,0,0,0,,Söylemesi güç...\NCarol çok sosyal biriydi.
+Dialogue: 0,1:11:33.45,1:11:36.04,Default,,0,0,0,,Ergenlik dönemindeydi.
+Dialogue: 0,1:11:36.46,1:11:40.65,Default,,0,0,0,,Partilere gider, flört ederdi.\NBen ise tek başımaydım.
+Dialogue: 0,1:11:40.89,1:11:45.53,Default,,0,0,0,,Böyle birkaç yıl, az çok\Nonun hayat tarzını yaşadık ama...
+Dialogue: 0,1:11:45.93,1:11:47.88,Default,,0,0,0,,Partilerde köşede oturdum.
+Dialogue: 0,1:11:47.97,1:11:52.46,Default,,0,0,0,,Ama bir süre sonra\Nyalnız bir hayata sürüklendik.
+Dialogue: 0,1:11:52.90,1:11:54.78,Default,,0,0,0,,Birkaç arkadaşla görüşür olduk.
+Dialogue: 0,1:11:55.26,1:12:01.18,Default,,0,0,0,,Tamamen inzivaya çekilmedik.\NÇocuklar, torunlar, arkadaşlar...
+Dialogue: 0,1:12:01.41,1:12:05.28,Default,,0,0,0,,Ancak çoğu zaman\Nyalnız kalmayı tercih ettik.
+Dialogue: 0,1:12:09.68,1:12:15.26,Default,,0,0,0,,Geçen sefer eğitiminizden söz ettik\Nama daha çok okulu konuştuk.
+Dialogue: 0,1:12:15.45,1:12:20.20,Default,,0,0,0,,Biraz anne ve babanızla\Nilişkinizden bahseder misiniz?
+Dialogue: 0,1:12:21.80,1:12:24.02,Default,,0,0,0,,O günlerde işler epey farklıydı.
+Dialogue: 0,1:12:24.14,1:12:29.49,Default,,0,0,0,,İlişkimiz iyiydi\Nama çok yakındık diyemem.
+Dialogue: 0,1:12:29.60,1:12:33.37,Default,,0,0,0,,Örneğin, çocukluğumda\Nöyle şeyler yaşanıyordu ki
+Dialogue: 0,1:12:33.45,1:12:36.45,Default,,0,0,0,,onlara anlatmayı aklımdan bile geçirmedim.
+Dialogue: 0,1:12:37.10,1:12:43.94,Default,,0,0,0,,Mahalledeki tek Yahudi aile bizdik.\NÇoğu İrlandalı ve Alman Katolikti.
+Dialogue: 0,1:12:44.29,1:12:49.28,Default,,0,0,0,,30'lu yıllar. Antisemitizm had safhada.\NNazi yanlıları oldukça fazla.
+Dialogue: 0,1:12:49.49,1:12:53.65,Default,,0,0,0,,İrlandalılar, İngilizlerden nefret ettiği,\NAlmanlar da Alman olduğu için.
+Dialogue: 0,1:12:53.78,1:12:55.18,Default,,0,0,0,,Günümüz gibi değildi.
+Dialogue: 0,1:12:55.29,1:12:59.49,Default,,0,0,0,,Sokaktaki çocuğu vuracak değiller\Nama insanı huzursuz ediyordu.
+Dialogue: 0,1:12:59.74,1:13:04.56,Default,,0,0,0,,Yahudi karşıtlığı çok fazlaydı.\NBazı sokaklardan geçemiyordum
+Dialogue: 0,1:13:04.68,1:13:07.82,Default,,0,0,0,,çünkü İrlandalı çocuklar\Noralarda yaşıyordu.
+Dialogue: 0,1:13:07.92,1:13:12.24,Default,,0,0,0,,Ama evdekilere hiç ses etmedim.\NÖldüklerinde bile bilmiyorlardı.
+Dialogue: 0,1:13:12.72,1:13:18.40,Default,,0,0,0,,İkinci Dünya Savaşı başladığında\Nher şey değişti.
+Dialogue: 0,1:13:18.54,1:13:21.26,Default,,0,0,0,,7 Aralık 1941 yılına geldiğimzide
+Dialogue: 0,1:13:21.36,1:13:26.81,Default,,0,0,0,,Paris düştüğünde\Nbira partisi veren insanların
+Dialogue: 0,1:13:26.94,1:13:31.85,Default,,0,0,0,,etekleri tutuştu ve saklanın diye\Nferyat etmeye başladılar.
+Dialogue: 0,1:13:31.94,1:13:35.58,Default,,0,0,0,,Almanların şehri bombalamasından\Nkorkuyorlardı.
+Dialogue: 0,1:13:35.68,1:13:39.77,Default,,0,0,0,,Çok keskin bir geçiş yaşandı\Nve bana bir şeyler öğretti.
+Dialogue: 0,1:13:39.92,1:13:45.70,Default,,0,0,0,,Fakat sonra, neden bilmiyorum,\Nher yerde ırksal ayaklanmalar çıktı.
+Dialogue: 0,1:13:45.95,1:13:51.02,Default,,0,0,0,,Hatta birkaç yıl\Ngençlerin sokağa çıkması yasaktı.
+Dialogue: 0,1:13:51.36,1:13:53.29,Default,,0,0,0,,- 7:00'da..\N- Philadelphia'da mı?
+Dialogue: 0,1:13:53.38,1:13:57.01,Default,,0,0,0,,Evet, 7'den sonra dışarı çıkmak için\Nebeveyn izni gerekliydi.
+Dialogue: 0,1:13:57.68,1:14:04.13,Default,,0,0,0,,Ben Musevi okuluna gidiyordum\Nve polisler duraktan okula bizi kollardı.
+Dialogue: 0,1:14:04.34,1:14:07.85,Default,,0,0,0,,Metroya bindiğinde artık tek başınasın.
+Dialogue: 0,1:14:08.25,1:14:11.97,Default,,0,0,0,,Nedendir bilmem\Nama savaş yıllarında bunlar yaşandı.
+Dialogue: 0,1:14:12.40,1:14:15.72,Default,,0,0,0,,Toplama kamplarını\Nne zaman öğrendiniz?
+Dialogue: 0,1:14:15.88,1:14:20.85,Default,,0,0,0,,1942-1943 gibi,\Nsöylentiler yayılıyordu.
+Dialogue: 0,1:14:20.94,1:14:25.34,Default,,0,0,0,,Ama kimse büyüklüğünü bilmiyordu.\NSürekli arka plana itildi.
+Dialogue: 0,1:14:25.77,1:14:29.24,Default,,0,0,0,,Gereken önem hiç verilmedi.\NEn çarpıcı nokta...
+Dialogue: 0,1:14:29.32,1:14:33.84,Default,,0,0,0,,Aslında, kıtadan kaçmak isteyen\Ninsanlara yardım için
+Dialogue: 0,1:14:33.90,1:14:39.97,Default,,0,0,0,,uluslararası konferanslar düzenleniyordu\Nama kimse bir şey yapmaya yanaşmadı.
+Dialogue: 0,1:14:40.14,1:14:47.06,Default,,0,0,0,,Hatta Roosevelt, Avrupa'dan 1000 mülteciyi\Ntaşıyan gemiyi St. Louis'te geri çevirdi.
+Dialogue: 0,1:14:47.48,1:14:52.26,Default,,0,0,0,,Onlar da Küba'ya gidip bölgede gezindiler\Nama ABD öylece geri çevirdi.
+Dialogue: 0,1:14:52.38,1:14:56.54,Default,,0,0,0,,Avrupa'ya geri gönderildiler\Nve çoğu gaz odasına atıldı.
+Dialogue: 0,1:14:56.81,1:15:00.94,Default,,0,0,0,,En çarpıcı olay savaştan sonra,\N1945'ye yaşandı.
+Dialogue: 0,1:15:00.98,1:15:02.81,Default,,0,0,0,,Artık herkes farkındaydı.
+Dialogue: 0,1:15:02.89,1:15:08.09,Default,,0,0,0,,Sağ kalanları kurtarmamak için\Nbir bahane kalmamıştı.
+Dialogue: 0,1:15:08.38,1:15:13.26,Default,,0,0,0,,Sağ kalan epey kişi vardı\Nve toplama kamplarında yaşıyorlardı.
+Dialogue: 0,1:15:13.77,1:15:17.32,Default,,0,0,0,,Bu kamplar, Nazi kamplarından\Npek farklı değildi.
+Dialogue: 0,1:15:17.41,1:15:23.66,Default,,0,0,0,,Gaz odası yoktu\Nama korkunç şartlarda yaşadılar.
+Dialogue: 0,1:15:23.74,1:15:27.89,Default,,0,0,0,,Döndüklerinde, iç karartıcı\Nkamp hayatının izlerini taşıyorlardı.
+Dialogue: 0,1:15:27.97,1:15:30.78,Default,,0,0,0,,- Polonya'daki kamplar gibi mi?\N- Evet, öyle.
+Dialogue: 0,1:15:30.85,1:15:34.74,Default,,0,0,0,,Belki farklı bir tutuklama kampıydı\Nama yaşam şartları aynı.
+Dialogue: 0,1:15:34.81,1:15:37.16,Default,,0,0,0,,Tutuklama değil de...
+Dialogue: 0,1:15:37.30,1:15:42.77,Default,,0,0,0,,Bunlar imha kampı değildi.\NGaz odası, öldürme veya kölelik yoktu
+Dialogue: 0,1:15:43.10,1:15:44.56,Default,,0,0,0,,ama şartlar korkunçtu.
+Dialogue: 0,1:15:44.68,1:15:47.46,Default,,0,0,0,,Harrison Raporu'nu bir oku derim.
+Dialogue: 0,1:15:47.58,1:15:52.38,Default,,0,0,0,,- Nasıl yazılıyor?\N- H-a-r-r-i-s-o-n.
+Dialogue: 0,1:15:52.90,1:15:57.32,Default,,0,0,0,,Kamp yaşamını\Ntüm korkunçluğuyla anlatıyor.
+Dialogue: 0,1:15:57.49,1:16:00.76,Default,,0,0,0,,Genel bağlamda,\NAvrupa Zafer Günü'nden üç ay sonra
+Dialogue: 0,1:16:00.84,1:16:03.86,Default,,0,0,0,,bireysel grupların kurtuluşundan ise\Nçok daha sonra
+Dialogue: 0,1:16:03.93,1:16:08.22,Default,,0,0,0,,alıkonulan birçok Yahudi\Nve ülkesine dönemeyen diğer kişiler
+Dialogue: 0,1:16:08.46,1:16:12.06,Default,,0,0,0,,dikenli tellerin ardında, gözetim altında
+Dialogue: 0,1:16:12.17,1:16:16.85,Default,,0,0,0,,köle işçiler ve Yahudiler için\NAlmanlarca kurulan kamplarda yaşıyor.
+Dialogue: 0,1:16:17.13,1:16:20.44,Default,,0,0,0,,Kimileri en bednam toplama kamplarında
+Dialogue: 0,1:16:20.62,1:16:24.89,Default,,0,0,0,,kalabalık, sağlığa aykırı\Nve iç karartıcı şartlarda hayat sürüyor.
+Dialogue: 0,1:16:25.13,1:16:29.26,Default,,0,0,0,,Elleri kolları bağlı,\Nhiçbir iletişim fırsatı olmadan...
+Dialogue: 0,1:16:29.38,1:16:33.06,Default,,0,0,0,,Bazı kamp komutanları,\Ntürlü zorluklara rağmen
+Dialogue: 0,1:16:33.15,1:16:36.42,Default,,0,0,0,,kamptakilere bir tür giyecek\Nbulmayı başarsa da
+Dialogue: 0,1:16:36.50,1:16:39.93,Default,,0,0,0,,alıkonulan çoğu Yahudi'nin,\NTemmuz'un sonunda
+Dialogue: 0,1:16:40.00,1:16:46.10,Default,,0,0,0,,çirkin çizgili toplama kampı formasından\Nbaşka kıyafeti yoktu.
+Dialogue: 0,1:16:46.18,1:16:50.92,Default,,0,0,0,,Diğer bir kesim ise, utana sıkıla\NAlman SS üniforması giymek zorunda kaldı.
+Dialogue: 0,1:16:51.13,1:16:53.38,Default,,0,0,0,,Hangi kıyafet daha kötüydü meçhul.
+Dialogue: 0,1:16:53.70,1:16:56.11,Default,,0,0,0,,Aslında, bu gayet normal.
+Dialogue: 0,1:16:56.30,1:16:59.30,Default,,0,0,0,,Soykırım mağdurlarına\Nyapılan muamele çok tuhaf.
+Dialogue: 0,1:16:59.38,1:17:03.58,Default,,0,0,0,,Şu anda bile, mesela Fransa'da, Roma'da...
+Dialogue: 0,1:17:03.68,1:17:06.28,Default,,0,0,0,,Onlara Yahudiler ile aynı muamele yapıldı.
+Dialogue: 0,1:17:06.46,1:17:11.05,Default,,0,0,0,,Fransa, onları sınır dışı edip\Nsefil bir hayata mahkûm ediyor.
+Dialogue: 0,1:17:11.14,1:17:14.74,Default,,0,0,0,,Soykırım mağdurlarını\Nve torunlarını sınır dışı ediyorlar.
+Dialogue: 0,1:17:14.82,1:17:17.17,Default,,0,0,0,,Fransa'da durum daha belirgin
+Dialogue: 0,1:17:17.24,1:17:21.72,Default,,0,0,0,,zira soykırım inkârı safsatası\Norada daha yaygın.
+Dialogue: 0,1:17:22.04,1:17:28.20,Default,,0,0,0,,Sağ kalanları alıp cezalandırmak da\Nbüyük bir soykırım inkârı örneği.
+Dialogue: 0,1:17:28.62,1:17:32.70,Default,,0,0,0,,Gördüğüm kadarıyla\Nbu konu Fransa'da hiç konuşulmuyor.
+Dialogue: 0,1:17:33.06,1:17:36.18,Default,,0,0,0,,Hatta Avrupa Birliği karşı çıkınca
+Dialogue: 0,1:17:36.26,1:17:40.98,Default,,0,0,0,,Sarkozy onları\NFransız karşıtı olmak ile suçladı.
+Dialogue: 0,1:17:41.09,1:17:45.60,Default,,0,0,0,,İnsanların bu konudaki\Nçıkarcı tavırları akıl alır gibi değil.
+Dialogue: 0,1:17:46.94,1:17:50.13,Default,,0,0,0,,Daha neşeli konulara dönebilir miyim?
+Dialogue: 0,1:17:51.77,1:17:55.22,Default,,0,0,0,,Dünyadaki neşesiz olayların sayısı\Nçok daha fazla.
+Dialogue: 0,1:17:55.61,1:18:00.68,Default,,0,0,0,,- Evet, ama anılarınıza geri dönelim.\N- Peki.
+Dialogue: 0,1:18:00.78,1:18:05.98,Default,,0,0,0,,Dil edinimi\Nve beynin işleyişiyle ilgili görüşleriniz
+Dialogue: 0,1:18:06.10,1:18:10.09,Default,,0,0,0,,çocuklarınıza verdiğiniz\Neğitimi etkiledi mi?
+Dialogue: 0,1:18:10.24,1:18:12.65,Default,,0,0,0,,Evdeki eğitim için, evet.
+Dialogue: 0,1:18:12.78,1:18:16.12,Default,,0,0,0,,Çocuklara kitap okuyup\Nonları okumaya teşvik ettik.
+Dialogue: 0,1:18:16.80,1:18:19.38,Default,,0,0,0,,İlgi alanlarına yönelmelerini sağladık.
+Dialogue: 0,1:18:19.54,1:18:21.90,Default,,0,0,0,,Birbirinden farklı üç çocuk oldular.
+Dialogue: 0,1:18:27.60,1:18:34.02,Default,,0,0,0,,Oğlum çok erken yaşlardan\Nfen ve matematiğe ilgiliydi.
+Dialogue: 0,1:18:34.28,1:18:40.84,Default,,0,0,0,,On yaşına geldiğinde izafiyet teorisi\Nüzerine popüler kitapları okuyorduk.
+Dialogue: 0,1:18:41.05,1:18:44.42,Default,,0,0,0,,Çocukları ne istedikleri konusunda\Nserbest bıraktık.
+Dialogue: 0,1:18:44.50,1:18:49.94,Default,,0,0,0,,Farklı alanlara yöneldiler.\NAnlayışla karşılayıp destek verdik.
+Dialogue: 0,1:18:50.04,1:18:54.05,Default,,0,0,0,,Okul sıradandı.\NOnları devlet okuluna gönderdik.
+Dialogue: 0,1:18:54.16,1:18:56.92,Default,,0,0,0,,Fena da olmadı.
+Dialogue: 0,1:18:57.02,1:19:00.72,Default,,0,0,0,,Sadece bir tanesi\Ndevlet okuluna pek alışamadı.
+Dialogue: 0,1:19:00.80,1:19:03.86,Default,,0,0,0,,Biz de onu daha sakin bir okula gönderdik.
+Dialogue: 0,1:19:03.97,1:19:06.92,Default,,0,0,0,,Kendi geleceklerini kendileri seçti.
+Dialogue: 0,1:19:06.98,1:19:10.16,Default,,0,0,0,,Yuvadan ayrılıp siyasi aktivist oldular.
+Dialogue: 0,1:19:11.96,1:19:17.73,Default,,0,0,0,,Büyük kızım üniversitede\Nbirkaç ay geçirdi ama pek sevmedi.
+Dialogue: 0,1:19:18.73,1:19:21.38,Default,,0,0,0,,Tarım İşçileri Sendikası'na katıldı
+Dialogue: 0,1:19:21.56,1:19:26.17,Default,,0,0,0,,ve o günden bu yana\Nsiyasi faaliyetler ile epey ilgili.
+Dialogue: 0,1:19:26.96,1:19:31.76,Default,,0,0,0,,Küçük kız kardeşi ise\N1980'lerde Nikaragua'ya yerleşti.
+Dialogue: 0,1:19:32.26,1:19:34.37,Default,,0,0,0,,Oğlum farklı bir yöne gitti.
+Dialogue: 0,1:19:34.43,1:19:40.89,Default,,0,0,0,,Ancak çocuklarım, siyasi tansiyonun\Nzirvede olduğu bir atmosferde büyüdü.
+Dialogue: 0,1:19:41.05,1:19:44.66,Default,,0,0,0,,Mesela birkaç kez hapse girdim\Nve uzun bir ceza alabilirdim.
+Dialogue: 0,1:19:44.74,1:19:49.84,Default,,0,0,0,,Bu sebeple eşim 17 yıl sonra\Ndoktora için üniversiteye geri döndü.
+Dialogue: 0,1:19:50.20,1:19:56.01,Default,,0,0,0,,Zira bir kişinin çalışıp\Nçocuklara bakması gerekiyordu.
+Dialogue: 0,1:19:56.53,1:19:59.04,Default,,0,0,0,,Çocuklar böyle bir atmosferde büyüdü
+Dialogue: 0,1:19:59.12,1:20:02.25,Default,,0,0,0,,ama belirgin bir tansiyon\Nhissettiklerini sanmam.
+Dialogue: 0,1:20:02.36,1:20:07.50,Default,,0,0,0,,Eşim anlattı, kızım 8-10 yaşlarında\Nokuldan eve geldiğinde
+Dialogue: 0,1:20:07.93,1:20:12.16,Default,,0,0,0,,ona okulda ne yaptığını sormuş.\NKızım da, konuşma etkinliğinde
+Dialogue: 0,1:20:12.28,1:20:15.86,Default,,0,0,0,,babamın hapse girdiğini anlattım demiş.
+Dialogue: 0,1:20:20.72,1:20:22.66,Default,,0,0,0,,Sizi ne mutlu eder?
+Dialogue: 0,1:20:22.98,1:20:27.92,Default,,0,0,0,,Mutlu mu?
 Dialogue: 0,1:20:29.02,1:20:34.59,Default,,0,0,0,,Children, grandchildren,\Nfriends, you know.
 Dialogue: 0,1:20:34.59,1:20:36.29,Default,,0,0,0,,I don't really think about it much.
 Dialogue: 0,1:20:36.29,1:20:40.83,Default,,0,0,0,,I don't spend much... any time\Nin self-indulgence, especially
