@@ -10,9 +10,7 @@ YCbCr Matrix: None
 [Aegisub Project Garbage]
 Export Encoding: Turkish (ISO-8859-9)
 Video Zoom Percent: 0.500000
-Scroll Position: 1197
-Active Line: 1207
-Video Position: 115797
+Video Position: 937
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1026,7 +1024,7 @@ Dialogue: 0,1:04:48.21,1:04:51.54,Default,,0,0,0,,Evrimsel açıdan bu süre,\Ng
 Dialogue: 0,1:04:51.72,1:04:56.92,Default,,0,0,0,,- Bu bilgilere nasıl ulaştık?\N- Paleoantropoloji sayesinde.
 Dialogue: 0,1:04:57.13,1:04:58.74,Default,,0,0,0,,Doğru, mezarlar ile...
 Dialogue: 0,1:04:58.84,1:05:04.32,Default,,0,0,0,,Fosil ve arkeolojik eser\Nkayıtlarına sahibiz.
-Dialogue: 0,1:05:04.48,1:05:09.40,Default,,0,0,0,,O vakitlerde\Nani bir patlama olduğunu düşünüyoruz.
+Dialogue: 0,1:05:04.48,1:05:09.40,Default,,0,0,0,,O vakitlerde\Nani bir patlama olduğu düşünülüyor.
 Dialogue: 0,1:05:09.48,1:05:11.84,Default,,0,0,0,,Bazen "büyük atılım" da deniyor.
 Dialogue: 0,1:05:11.97,1:05:16.02,Default,,0,0,0,,Kabaca o dönemde, yahut 75 bin yıl önce.
 Dialogue: 0,1:05:16.11,1:05:19.72,Default,,0,0,0,,10 binlerce yıl fark olması\Nçok önemli değil.
@@ -1226,122 +1224,98 @@ Dialogue: 0,1:20:02.36,1:20:07.50,Default,,0,0,0,,Eşim anlattı, kızım 8-10 y
 Dialogue: 0,1:20:07.93,1:20:12.16,Default,,0,0,0,,ona okulda ne yaptığını sormuş.\NKızım da, konuşma etkinliğinde
 Dialogue: 0,1:20:12.28,1:20:15.86,Default,,0,0,0,,babamın hapse girdiğini anlattım demiş.
 Dialogue: 0,1:20:20.72,1:20:22.66,Default,,0,0,0,,Sizi ne mutlu eder?
-Dialogue: 0,1:20:22.98,1:20:27.92,Default,,0,0,0,,Mutlu mu?
-Dialogue: 0,1:20:29.02,1:20:34.59,Default,,0,0,0,,Children, grandchildren,\Nfriends, you know.
-Dialogue: 0,1:20:34.59,1:20:36.29,Default,,0,0,0,,I don't really think about it much.
-Dialogue: 0,1:20:36.29,1:20:40.83,Default,,0,0,0,,I don't spend much... any time\Nin self-indulgence, especially
-Dialogue: 0,1:20:40.83,1:20:43.07,Default,,0,0,0,,since my wife died. I do\Nalmost nothing... don't
-Dialogue: 0,1:20:43.07,1:20:46.57,Default,,0,0,0,,go to the movies, don't go\Nto the theater, don't eat out.
-Dialogue: 0,1:20:46.57,1:20:50.54,Default,,0,0,0,,I do what I have to do. Mm.
-Dialogue: 0,1:20:50.54,1:20:56.05,Default,,0,0,0,,But, I\Nmean, there are a lot of
-Dialogue: 0,1:20:56.05,1:21:01.72,Default,,0,0,0,,things that are very gratifying.\NSo, for example, especially
-Dialogue: 0,1:21:01.72,1:21:06.52,Default,,0,0,0,,seeing victims... like, I just\Ncame back from Turkey, where I
-Dialogue: 0,1:21:06.52,1:21:08.49,Default,,0,0,0,,was... I've been there several times.
-Dialogue: 0,1:21:08.49,1:21:11.86,Default,,0,0,0,,And this... it's always issues\Nrelated to the repression of the
-Dialogue: 0,1:21:11.86,1:21:15.06,Default,,0,0,0,,Kurds, which I was there one...\Nthe first time I was there, it
-Dialogue: 0,1:21:15.07,1:21:17.33,Default,,0,0,0,,was to take part in a\Ntrial and be a co-defendant.
-Dialogue: 0,1:21:17.34,1:21:21.30,Default,,0,0,0,,But, this time, it was for a\Nconference on repression and
-Dialogue: 0,1:21:21.31,1:21:24.31,Default,,0,0,0,,freedom of expression. You\Nsee people who are really
-Dialogue: 0,1:21:24.31,1:21:27.84,Default,,0,0,0,,dedicated, courageous,\Nstruggling all the time,
-Dialogue: 0,1:21:27.85,1:21:30.78,Default,,0,0,0,,standing up against repression.\NIt's quite inspiring.
-Dialogue: 0,1:21:30.78,1:21:33.85,Default,,0,0,0,,A couple of months before that,\NI was in Southern Colombia.
-Dialogue: 0,1:21:33.85,1:21:36.35,Default,,0,0,0,,And Colombia has the worst\Nhuman-rights record in the
-Dialogue: 0,1:21:36.35,1:21:39.79,Default,,0,0,0,,hemisphere, and, of course, the\Nmost U.S. military aid in the
-Dialogue: 0,1:21:39.79,1:21:43.66,Default,,0,0,0,,hemisphere... they correlate.\NThese places I was visiting...
-Dialogue: 0,1:21:43.66,1:21:46.90,Default,,0,0,0,,quite remote endangered\Nvillages... and the people were
-Dialogue: 0,1:21:46.90,1:21:49.87,Default,,0,0,0,,just inspiring. Actually,\Nit was a very moving
-Dialogue: 0,1:21:49.87,1:21:52.64,Default,,0,0,0,,experience, personally. I\Nwas there in part because they
-Dialogue: 0,1:21:52.64,1:21:56.84,Default,,0,0,0,,were dedicating a forest\Nto the memory of my wife.
-Dialogue: 0,1:21:56.84,1:22:02.11,Default,,0,0,0,,And it's the kind of compassion\Nand kindness that you just don't
-Dialogue: 0,1:22:02.11,1:22:04.25,Default,,0,0,0,,see in the world we live\Nin. And it was just kind of
-Dialogue: 0,1:22:04.25,1:22:07.55,Default,,0,0,0,,natural... no pretentiousness\Nabout the ceremony.
-Dialogue: 0,1:22:07.55,1:22:10.82,Default,,0,0,0,,And you... you see things like\Nthat all over... all over the
-Dialogue: 0,1:22:10.82,1:22:12.59,Default,,0,0,0,,world here,\Ntoo... - Mm-hmm.
-Dialogue: 0,1:22:12.59,1:22:15.89,Default,,0,0,0,,...not much in the circles\Nin which we live... you know,
-Dialogue: 0,1:22:15.89,1:22:21.13,Default,,0,0,0,,elite, intellectual circles.\N- Yeah.
-Dialogue: 0,1:22:21.13,1:22:23.90,Default,,0,0,0,,...much more abstract, even,\Nthan the case of the tree.
-Dialogue: 0,1:22:23.90,1:22:28.44,Default,,0,0,0,,There was a sudden explosion.\NThe answers to, like, the
-Dialogue: 0,1:22:28.44,1:22:30.44,Default,,0,0,0,,phonetics, I don't care about.
-Dialogue: 0,1:22:30.44,1:22:35.81,Default,,0,0,0,,My father worked on history\Nof the semitic languages.
-Dialogue: 0,1:22:36.91,1:22:40.95,Default,,0,0,0,,During the early exposure,\Nwhere the child is not...
-Dialogue: 0,1:22:40.95,1:22:46.26,Default,,0,0,0,,We learn that children\Nknow quite a lot...
-Dialogue: 0,1:22:46.26,1:22:50.23,Default,,0,0,0,,It's a story about a\Ndonkey named Sylvester.
-Dialogue: 0,1:22:54.83,1:23:00.63,Default,,0,0,0,,In one of your books from the\N'70s, you give this example of a
-Dialogue: 0,1:23:08.81,1:23:12.95,Default,,0,0,0,,sentence... "the man who is\Ntall is in the room," and how
-Dialogue: 0,1:23:12.95,1:23:16.99,Default,,0,0,0,,the child naturally can\Npostulate the question.
-Dialogue: 0,1:23:16.99,1:23:20.99,Default,,0,0,0,,And I was wondering if you could\Nexplain, just quickly because I
-Dialogue: 0,1:23:20.99,1:23:22.89,Default,,0,0,0,,could do a very nice\Nanimation from that.
-Dialogue: 0,1:23:22.89,1:23:25.26,Default,,0,0,0,,This is a simple question.\NAnd it's interesting that it
-Dialogue: 0,1:23:25.26,1:23:28.00,Default,,0,0,0,,never bothered anyone.\NIt's a little bit like, for
-Dialogue: 0,1:23:28.00,1:23:32.60,Default,,0,0,0,,2,000 years, scientists\Nwere satisfied with simple
-Dialogue: 0,1:23:32.60,1:23:34.97,Default,,0,0,0,,explanation for an obvious\Nfact.
-Dialogue: 0,1:23:34.97,1:23:38.27,Default,,0,0,0,,If you take an apple and you\Ndetach it from a tree, it's
-Dialogue: 0,1:23:38.28,1:23:42.71,Default,,0,0,0,,gonna go down. If you\Ntake steam, it's gonna go
-Dialogue: 0,1:23:42.71,1:23:43.65,Default,,0,0,0,,up.\N- Yeah.
-Dialogue: 0,1:23:43.65,1:23:46.78,Default,,0,0,0,,So, 2,000 years... the answer\Nwas, well, they're going to
-Dialogue: 0,1:23:46.78,1:23:49.02,Default,,0,0,0,,their natural place...\Nend of discussion.
-Dialogue: 0,1:23:49.02,1:23:52.22,Default,,0,0,0,,As soon as people started\Ngetting puzzled about that, like
-Dialogue: 0,1:23:52.22,1:23:55.02,Default,,0,0,0,,Galileo and Newton, then\Nyou have modern science.
-Dialogue: 0,1:23:55.03,1:23:56.79,Default,,0,0,0,,But can you...\N- this is the same.
-Dialogue: 0,1:23:56.79,1:23:58.93,Default,,0,0,0,,Take the sentence that\Nyou gave me... "the man"
-Dialogue: 0,1:23:58.93,1:24:02.46,Default,,0,0,0,,"who is tall is happy,"\Nor whatever it is.
-Dialogue: 0,1:24:02.47,1:24:05.83,Default,,0,0,0,,If you want to form a question\Nfrom that, you take the word
-Dialogue: 0,1:24:05.84,1:24:08.17,Default,,0,0,0,,"is," and you put it in the front.
-Dialogue: 0,1:24:08.17,1:24:13.97,Default,,0,0,0,,So, "is the man who is tall happy?"
-Dialogue: 0,1:24:16.28,1:24:18.71,Default,,0,0,0,,All right? That's the question.
-Dialogue: 0,1:24:18.72,1:24:23.75,Default,,0,0,0,,You don't take the first\Noccurrence of "is. "
-Dialogue: 0,1:24:24.86,1:24:27.12,Default,,0,0,0,,You don't take the\Nclosest one to the front...
-Dialogue: 0,1:24:27.12,1:24:32.92,Default,,0,0,0,,...and say, "is the\Nman who tall is happy?"
-Dialogue: 0,1:24:35.87,1:24:38.13,Default,,0,0,0,,That's gibberish.
-Dialogue: 0,1:24:38.14,1:24:43.67,Default,,0,0,0,,And how does it... why? I\Nmean, why doesn't the child do
-Dialogue: 0,1:24:44.78,1:24:47.41,Default,,0,0,0,,the simple thing... take the\Nfirst occurrence of "is" and put
-Dialogue: 0,1:24:47.41,1:24:49.91,Default,,0,0,0,,it in the front? That's,\Ncomputationally, that's
-Dialogue: 0,1:24:49.91,1:24:53.58,Default,,0,0,0,,much easier than finding the\Nmain occurrence, which requires
-Dialogue: 0,1:24:53.58,1:24:57.35,Default,,0,0,0,,knowing the phrases and so on.\NBut it's an unconceivable error.
-Dialogue: 0,1:24:57.35,1:24:59.09,Default,,0,0,0,,No child has ever made that error.
-Dialogue: 0,1:24:59.09,1:25:02.06,Default,,0,0,0,,And it's the same in all... you\Nknow, with minor variations...
-Dialogue: 0,1:25:02.06,1:25:05.56,Default,,0,0,0,,it's the same principle that's\Nin all languages, so why?
-Dialogue: 0,1:25:05.56,1:25:08.06,Default,,0,0,0,,Well, you know, there are some\Ninteresting explanations for
-Dialogue: 0,1:25:08.07,1:25:11.90,Default,,0,0,0,,why, but this is a good example\Nof the brute-force approach in
-Dialogue: 0,1:25:11.90,1:25:16.04,Default,,0,0,0,,computational cognitive science,\Nwhere they, as a matter of
-Dialogue: 0,1:25:16.04,1:25:20.08,Default,,0,0,0,,principle, want to believe that\Nthe mind is essentially empty.
-Dialogue: 0,1:25:20.08,1:25:23.31,Default,,0,0,0,,The man who is tall is happy.\NThe man who is tall is happy.
-Dialogue: 0,1:25:23.31,1:25:28.85,Default,,0,0,0,,The man who is tall is happy.\NThen, Noam took my pen and wrote
-Dialogue: 0,1:25:28.85,1:25:31.85,Default,,0,0,0,,the following sentence.\N- Look, there are serious
-Dialogue: 0,1:25:31.86,1:25:36.76,Default,,0,0,0,,questions about it, like, take,\N"the man who is tall is happy. "
-Dialogue: 0,1:25:37.86,1:25:42.83,Default,,0,0,0,,This is a predicate, this is\Nthe subject, okay, and this is
-Dialogue: 0,1:25:43.93,1:25:47.47,Default,,0,0,0,,sort of the main element... you\Nknow, that's the main element of
-Dialogue: 0,1:25:47.47,1:25:50.51,Default,,0,0,0,,the whole sentence.\NAnd that's the one that,
-Dialogue: 0,1:25:50.51,1:25:54.01,Default,,0,0,0,,structurally, is closest to\Nthe middle... to the beginning.
-Dialogue: 0,1:25:54.01,1:25:57.15,Default,,0,0,0,,This one is more remote from the\Nbeginning, structurally, because
-Dialogue: 0,1:25:57.15,1:26:00.62,Default,,0,0,0,,you have to work through\Nthis whole business, okay?
-Dialogue: 0,1:26:00.62,1:26:03.42,Default,,0,0,0,,So, structurally speaking, this\Nis the closest to the front.
-Dialogue: 0,1:26:03.42,1:26:05.55,Default,,0,0,0,,Uh-huh. - Linearly,\Nthis is the closest
-Dialogue: 0,1:26:05.56,1:26:06.82,Default,,0,0,0,,to the front.\N- Right.
-Dialogue: 0,1:26:06.82,1:26:10.46,Default,,0,0,0,,Now, the question is, why do\Nyou use structural proximity and
-Dialogue: 0,1:26:10.46,1:26:13.83,Default,,0,0,0,,not linear proximity? And\Nit's not just this case...
-Dialogue: 0,1:26:13.83,1:26:16.03,Default,,0,0,0,,it's everything... every\Nlanguage, every construction.
-Dialogue: 0,1:26:16.03,1:26:19.54,Default,,0,0,0,,Is that the evidence of\Nthis generative grammar?
-Dialogue: 0,1:26:19.54,1:26:22.37,Default,,0,0,0,,Well, that's the data, and\Nthere is a principle... I mean,
-Dialogue: 0,1:26:22.37,1:26:25.97,Default,,0,0,0,,the principle is, keep to\Nminimal structural distance.
-Dialogue: 0,1:26:25.98,1:26:27.94,Default,,0,0,0,,Okay, now where does that come from?
-Dialogue: 0,1:26:27.95,1:26:30.81,Default,,0,0,0,,This part is probably\Njust a law of nature.
-Dialogue: 0,1:26:30.81,1:26:34.88,Default,,0,0,0,,Computation tries to do things\Nin the simplest way, but the
-Dialogue: 0,1:26:34.89,1:26:37.52,Default,,0,0,0,,structural distance part\Nis a fact about language.
-Dialogue: 0,1:26:37.52,1:26:40.72,Default,,0,0,0,,I mean, you could have minimal\Ncomputation if you did it this
-Dialogue: 0,1:26:40.72,1:26:42.62,Default,,0,0,0,,way. In that case, what we would
-Dialogue: 0,1:26:42.63,1:26:44.99,Default,,0,0,0,,say... "is the man who tall is happy?"
-Dialogue: 0,1:26:45.00,1:26:47.86,Default,,0,0,0,,The child picks structural\Ncloseness because that's a
-Dialogue: 0,1:26:47.87,1:26:50.73,Default,,0,0,0,,property of language, probably\Ngenetically determined.
-Dialogue: 0,1:26:50.73,1:26:53.20,Default,,0,0,0,,Yeah, but that's... that's\Nabout all there is to it.
-Dialogue: 0,1:26:53.20,1:26:58.41,Default,,0,0,0,,The man who is tall is happy.\N- Yes, the man who is tall is
-Dialogue: 0,1:26:58.41,1:27:00.71,Default,,0,0,0,,very happy.\N- Is the man tall and he's
-Dialogue: 0,1:27:00.71,1:27:03.41,Default,,0,0,0,,happy? Is the man who is tall happy?
-Dialogue: 0,1:27:03.41,1:27:07.82,Default,,0,0,0,,Is the man who is tall happy?\NIs the man who tall is happy?
-Dialogue: 0,1:27:07.82,1:27:12.55,Default,,0,0,0,,Is the man who is tall happy?\NIs the man who tall is happy?
-Dialogue: 0,1:27:12.56,1:27:18.36,Default,,0,0,0,,Okay, I guess we're being...
-Dialogue: 0,1:27:23.83,1:27:25.67,Default,,0,0,0,,Okay.\N- Yeah, I got to rush him over.
-Dialogue: 0,1:27:25.67,1:27:27.17,Default,,0,0,0,,He's gonna miss the thing.\N- Okay.
-Dialogue: 0,1:27:27.17,1:27:28.60,Default,,0,0,0,,Good to see you again.\N- Yeah.
-Dialogue: 0,1:27:28.61,1:27:31.24,Default,,0,0,0,,I'm glad you're doing\Nwell.
-Dialogue: 0,1:27:31.24,1:27:33.24,Default,,0,0,0,,We got to get you out of here. Your bag.
+Dialogue: 0,1:20:27.42,1:20:28.70,Default,,0,0,0,,Mutlu mu?
+Dialogue: 0,1:20:29.05,1:20:32.48,Default,,0,0,0,,Çocuklar, torunlar, arkadaşlar...
+Dialogue: 0,1:20:34.70,1:20:36.42,Default,,0,0,0,,Buna çok kafa yormuyorum.
+Dialogue: 0,1:20:36.52,1:20:42.12,Default,,0,0,0,,Özellikle eşimin vefatından bu yana\Nkendime pek vakit ayırmadım.
+Dialogue: 0,1:20:42.25,1:20:47.02,Default,,0,0,0,,Sinemaya veya tiyatroya gitmiyorum.\NYemeğe çıkmıyorum. Hiçbir şey.
+Dialogue: 0,1:20:47.12,1:20:48.94,Default,,0,0,0,,Gereken neyse onu yapıyorum.
+Dialogue: 0,1:20:55.06,1:20:58.60,Default,,0,0,0,,Ancak insanı tatmin eden birçok şey var.
+Dialogue: 0,1:20:59.14,1:21:00.80,Default,,0,0,0,,Örneğin...
+Dialogue: 0,1:21:01.28,1:21:05.85,Default,,0,0,0,,Mağdur insanları görmek gibi.\NTürkiye'den yeni döndüm.
+Dialogue: 0,1:21:06.33,1:21:08.68,Default,,0,0,0,,Oraya birçok defa gittim.
+Dialogue: 0,1:21:09.46,1:21:12.44,Default,,0,0,0,,Kürtlerin ezilmesiyle ilgili\Nher daim bir sorun var.
+Dialogue: 0,1:21:12.85,1:21:17.85,Default,,0,0,0,,Türkiye'ye ilk gidişimde, yayımcımın\Nyargılandığı bir davaya katıldım.
+Dialogue: 0,1:21:18.36,1:21:22.76,Default,,0,0,0,,Bu sefer baskı ve ifade özgürlüğü\Nüzerine bir konferans için gittim.
+Dialogue: 0,1:21:22.85,1:21:26.32,Default,,0,0,0,,Kendini adamış, cesur,\Nsürekli mücadele veren
+Dialogue: 0,1:21:26.40,1:21:30.88,Default,,0,0,0,,ve baskıya karşı direnen insanlar var.\NBu oldukça ilham verici.
+Dialogue: 0,1:21:30.98,1:21:34.09,Default,,0,0,0,,Bundan birkaç ay önce\NGüney Kolombiya'daydım.
+Dialogue: 0,1:21:34.18,1:21:37.04,Default,,0,0,0,,Kolombiya'da insan hakları yerlerde.
+Dialogue: 0,1:21:37.13,1:21:41.29,Default,,0,0,0,,Zira ABD'den sürekli askerî yardım alıyor.\NBu ikisi bağlantılı.
+Dialogue: 0,1:21:42.17,1:21:46.22,Default,,0,0,0,,Epey uzak, sayısı azalan\Nköyleri ziyaret ettim.
+Dialogue: 0,1:21:46.30,1:21:51.20,Default,,0,0,0,,İnsanlar gerçekten ilham vericiydi.\NBenim için dokunaklı bir tecrübeydi.
+Dialogue: 0,1:21:51.29,1:21:56.73,Default,,0,0,0,,Bir ormana eşimin adını verdikleri için\Norada bulunmuştum.
+Dialogue: 0,1:21:56.84,1:22:03.28,Default,,0,0,0,,Bu insanlardaki şefkat ve nezaket\Nbizim dünyamızda yok.
+Dialogue: 0,1:22:03.52,1:22:07.81,Default,,0,0,0,,Son derece doğaldı,\Ntörende hiçbir yapmacıklık yoktu.
+Dialogue: 0,1:22:08.29,1:22:11.78,Default,,0,0,0,,Dünyada bu tür şeyleri görmek mümkün.
+Dialogue: 0,1:22:13.02,1:22:17.82,Default,,0,0,0,,Fakat bizim yaşadığımız,\Nelit entelektüel çevrelerde pek yok.
+Dialogue: 0,1:22:21.37,1:22:23.89,Default,,0,0,0,,...{\i1}ağaç örneğinden bile daha soyut{\i0}.
+Dialogue: 0,1:22:24.21,1:22:27.12,Default,,0,0,0,,...{\i1}ani bir patlama olduğu düşünülüyor{\i0}.
+Dialogue: 0,1:22:27.22,1:22:30.00,Default,,0,0,0,,{\i1}Ses bilgisi görmezden gelindi{\i0}.
+Dialogue: 0,1:22:33.68,1:22:36.96,Default,,0,0,0,,..{\i1}.babam Sami dillerinin\Ntarihi üzerine çalışıyordu{\i0}.
+Dialogue: 0,1:22:37.16,1:22:40.61,Default,,0,0,0,,...{\i1}dil kullanımına\Nmaruz kalınan ilk zamanlar{\i0}...
+Dialogue: 0,1:22:41.36,1:22:44.41,Default,,0,0,0,,{\i1}Çocuklar dili çok daha iyi biliyor{\i0}...
+Dialogue: 0,1:22:46.60,1:22:49.49,Default,,0,0,0,,{\i1}Sylvester adındaki bir eşeğin hikâyesi.{\i0}
+Dialogue: 0,1:23:04.45,1:23:09.65,Default,,0,0,0,,70'lerden bir kitabınızda\Nşu örnek cümleyi vermişsiniz:
+Dialogue: 0,1:23:09.73,1:23:12.32,Default,,0,0,0,,"{\i1}The man who is tall is in the room{\i0}."
+Dialogue: 0,1:23:12.40,1:23:17.17,Default,,0,0,0,,Çocukların bunu kolayca\Nsoruya çevirmesinden söz etmişsiniz.
+Dialogue: 0,1:23:17.30,1:23:22.82,Default,,0,0,0,,Hızlıca açıklayabilir misiniz?\NOrtaya çok güzel bir animasyon çıkabilir.
+Dialogue: 0,1:23:22.89,1:23:26.50,Default,,0,0,0,,Bu basit bir soru\Nve kimsenin aklına takılmaması ilginç.
+Dialogue: 0,1:23:26.56,1:23:29.46,Default,,0,0,0,,Biraz şunun gibi... 2000 yıl boyunca
+Dialogue: 0,1:23:29.92,1:23:34.94,Default,,0,0,0,,bilim insanları bariz olaylar için\Nbasit açıklamaları benimsediler.
+Dialogue: 0,1:23:35.04,1:23:38.96,Default,,0,0,0,,Elmayı ağaçtan koparırsanız yere düşer.
+Dialogue: 0,1:23:41.30,1:23:43.54,Default,,0,0,0,,- Buhar havaya uçar.\N- Evet.
+Dialogue: 0,1:23:43.77,1:23:47.92,Default,,0,0,0,,2000 yıl boyunca, nesnelerin\Ndoğal yerine gittiğine inanıldı.
+Dialogue: 0,1:23:48.12,1:23:51.70,Default,,0,0,0,,Konu kapanmıştır.\Nİnsanlar bunlara şaşırmaya başlayınca...
+Dialogue: 0,1:23:51.93,1:23:55.24,Default,,0,0,0,,Galileo ve Newton gibi.\NOrtaya modern bilim çıktı.
+Dialogue: 0,1:23:55.45,1:23:56.88,Default,,0,0,0,,- Acaba...\N- Bu da aynı.
+Dialogue: 0,1:23:56.97,1:24:01.38,Default,,0,0,0,,"{\i1}The man who is tall is happy{\i0}."\Ncümlesi gibi.
+Dialogue: 0,1:24:02.44,1:24:07.60,Default,,0,0,0,,Bunu soruya çevirmek için\N"{\i1}is{\i0}" ifadesini en başa alıyoruz.
+Dialogue: 0,1:24:12.40,1:24:15.36,Default,,0,0,0,,"{\i1}Is the man who is tall happy?{\i0}"
+Dialogue: 0,1:24:16.58,1:24:18.02,Default,,0,0,0,,Soru bu, değil mi?
+Dialogue: 0,1:24:21.88,1:24:24.56,Default,,0,0,0,,Cümledeki ilk "{\i1}is{\i0}" başa gitmiyor.
+Dialogue: 0,1:24:24.86,1:24:27.33,Default,,0,0,0,,Başa en yakın olan "{\i1}is{\i0}" seçilmiyor.
+Dialogue: 0,1:24:31.90,1:24:35.57,Default,,0,0,0,,"{\i1}Is the man who tall is happy?{\i0}"
+Dialogue: 0,1:24:36.00,1:24:37.34,Default,,0,0,0,,Bu cümle anlamsız.
+Dialogue: 0,1:24:41.50,1:24:45.65,Default,,0,0,0,,Peki çocuklar\Nneden basit olan şeyi yapmıyor?
+Dialogue: 0,1:24:45.80,1:24:48.28,Default,,0,0,0,,İlk "{\i1}is{\i0}" ifadesini alıp başa gönder.
+Dialogue: 0,1:24:48.49,1:24:52.81,Default,,0,0,0,,Bunu yapmak, asıl ifadeyi bulmaktan\Nçok daha kolay.
+Dialogue: 0,1:24:52.89,1:24:55.48,Default,,0,0,0,,Diğeri için kalıpları bilmek gerekiyor.
+Dialogue: 0,1:24:55.56,1:24:59.32,Default,,0,0,0,,Fakat hiçbir çocuk bu hatayı yapmıyor.
+Dialogue: 0,1:24:59.44,1:25:04.13,Default,,0,0,0,,Bu prensip küçük farklılıklarla\Nbütün dillerde mevcut.
+Dialogue: 0,1:25:04.45,1:25:05.64,Default,,0,0,0,,Peki neden?
+Dialogue: 0,1:25:05.77,1:25:09.10,Default,,0,0,0,,Nedeni için ilginç açıklamalar var ama...
+Dialogue: 0,1:25:09.38,1:25:14.38,Default,,0,0,0,,Bilişsel bilimde kaba kuvvet yaklaşımının\Niyi bir örneği bu.
+Dialogue: 0,1:25:14.88,1:25:20.12,Default,,0,0,0,,Prensipte, aklın temelde boş olduğuna\Ninanmak istiyorlar.
+Dialogue: 0,1:25:20.70,1:25:25.42,Default,,0,0,0,,{\i1}The man who is tall is happy.{\i0}\N(Uzun boylu adam mutlu.)
+Dialogue: 0,1:25:26.97,1:25:30.05,Default,,0,0,0,,Sonra Noam kalemimi alıp\Nşu cümleyi yazdı.
+Dialogue: 0,1:25:30.88,1:25:33.10,Default,,0,0,0,,Bu konuda ciddi sorular var.
+Dialogue: 0,1:25:33.17,1:25:37.82,Default,,0,0,0,,"{\i1}The man who is tall is happy.{\i0}"\Ncümlesine bakalım.
+Dialogue: 0,1:25:38.17,1:25:42.82,Default,,0,0,0,,Bu yüklem, bu da özne.
+Dialogue: 0,1:25:43.14,1:25:48.84,Default,,0,0,0,,Tüm cümlenin ana elemanı şu.
+Dialogue: 0,1:25:49.10,1:25:54.82,Default,,0,0,0,,Yapısal olarak cümlenin başına\Nen yakın olan da o.
+Dialogue: 0,1:25:54.96,1:26:00.41,Default,,0,0,0,,Diğeri yapısal olarak başa daha uzak\Nzira arada bir sürü dal var.
+Dialogue: 0,1:26:00.74,1:26:04.01,Default,,0,0,0,,Yani yapısal olarak,\Nbaşa en yakın olan bu.
+Dialogue: 0,1:26:04.08,1:26:06.48,Default,,0,0,0,,Ama doğrusal olarak, başa en yakın bu.
+Dialogue: 0,1:26:06.86,1:26:12.16,Default,,0,0,0,,Peki neden yapısal yakınlığı\Ndoğrusal yakınlığa tercih ediyoruz?
+Dialogue: 0,1:26:12.45,1:26:16.34,Default,,0,0,0,,Sadece verdiğim örnekle sınırlı değil.\NBu her dilde mevcut.
+Dialogue: 0,1:26:16.42,1:26:19.70,Default,,0,0,0,,Üretici dil bilgisinin kanıtı bu mu?
+Dialogue: 0,1:26:19.85,1:26:23.54,Default,,0,0,0,,Bunlar elimizdeki veriler.\NŞöyle bir prensip var...
+Dialogue: 0,1:26:23.62,1:26:27.96,Default,,0,0,0,,Yapısal uzaklık minimal olmalı.\NPeki bu nereden geliyor?
+Dialogue: 0,1:26:28.09,1:26:30.81,Default,,0,0,0,,Yüksek ihtimalle doğanın bir kanunu.
+Dialogue: 0,1:26:30.97,1:26:34.82,Default,,0,0,0,,Hesaplama, her şeyi\Nbasite indirgemeye çalışır ancak...
+Dialogue: 0,1:26:34.89,1:26:37.57,Default,,0,0,0,,Yapısal uzaklık dilin bir unsuru.
+Dialogue: 0,1:26:37.76,1:26:41.20,Default,,0,0,0,,Diğer türlü hesaplaması\Ndaha kolay olabilirdi.
+Dialogue: 0,1:26:41.32,1:26:44.94,Default,,0,0,0,,"{\i1}Is the man who tall is happy?{\i0}"\Ncümlesi gibi.
+Dialogue: 0,1:26:45.09,1:26:49.16,Default,,0,0,0,,Çocuklar yapısal yakınlığı seçiyor\Nçünkü bu dilin bir ögesi.
+Dialogue: 0,1:26:49.26,1:26:50.98,Default,,0,0,0,,Muhtemelen genetik.
+Dialogue: 0,1:26:51.10,1:26:53.18,Default,,0,0,0,,Aşağı yukarı bundan ibaret.
+Dialogue: 0,1:26:53.38,1:26:59.14,Default,,0,0,0,,- {\i1}The man who is tall is happy.{\i0}\N- Evet, uzun boylu adam çok mutlu.
+Dialogue: 0,1:26:59.32,1:27:03.52,Default,,0,0,0,,{\i1}Is the man tall and he's happy?{\i0}\N{\i1}Is the man who is tall happy?{\i0}
+Dialogue: 0,1:27:03.58,1:27:07.88,Default,,0,0,0,,{\i1}Is the man who is tall happy?{\i0}\N{\i1}Is the man who tall is happy?{\i0}
+Dialogue: 0,1:27:07.98,1:27:12.55,Default,,0,0,0,,{\i1}Is the man who is tall happy?{\i0}\N{\i1}Is the man who tall is happy?{\i0}
+Dialogue: 0,1:27:22.09,1:27:24.54,Default,,0,0,0,,- Sanırım vaktimiz...\N- Tamam.
+Dialogue: 0,1:27:24.97,1:27:27.10,Default,,0,0,0,,Biz acele edelim, geç kalacak.
+Dialogue: 0,1:27:27.17,1:27:30.06,Default,,0,0,0,,- Sizi tekrar görmek güzeldi.\N- Evet.
+Dialogue: 0,1:27:31.57,1:27:33.32,Default,,0,0,0,,Hadi gidelim. Çantanı unutma.
+Dialogue: 0,1:27:41.68,1:27:45.50,Default,,0,0,0,,Çeviren: HartPURO
