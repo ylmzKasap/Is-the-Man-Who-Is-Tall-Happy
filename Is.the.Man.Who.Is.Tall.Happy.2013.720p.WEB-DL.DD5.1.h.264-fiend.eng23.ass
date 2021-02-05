@@ -9,10 +9,10 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Export Encoding: Turkish (ISO-8859-9)
-Video Zoom Percent: 0.125000
-Scroll Position: 374
-Active Line: 389
-Video Position: 34615
+Video Zoom Percent: 0.625000
+Scroll Position: 1271
+Active Line: 1278
+Video Position: 126345
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -20,9 +20,9 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:51.60,0:00:54.99,Default,,0,0,0,,Noam Chomsky'yi keşfedişim\Nbirkaç yıl önce New york'ta
-Dialogue: 0,0:00:55.05,0:00:57.72,Default,,0,0,0,,bir film dükkânında\NDVD'lere göz atmamla başladı.
-Dialogue: 0,0:00:57.81,0:01:00.64,Default,,0,0,0,,{\i1}Manufacturing Consent{\i0}\Nve {\i1}Rebel Without a Pause{\i0}
+Dialogue: 0,0:00:51.60,0:00:54.99,Default,,0,0,0,,Birkaç yıl önce New york'ta\Nbir film dükkânında
+Dialogue: 0,0:00:55.09,0:00:57.77,Default,,0,0,0,,DVD'lere göz atarken\NNoam Chomsky'yi keşfettim.
+Dialogue: 0,0:00:57.85,0:01:00.64,Default,,0,0,0,,{\i1}Manufacturing Consent{\i0}\Nve {\i1}Rebel Without a Pause{\i0}.
 Dialogue: 0,0:01:01.33,0:01:04.77,Default,,0,0,0,,Okul radyosundan birkaç çocuğun\NProfesör Chomsky ile
 Dialogue: 0,0:01:04.86,0:01:08.10,Default,,0,0,0,,ufak stüdyolarında röportaj yaptığı\Nbir sahne vardı.
 Dialogue: 0,0:01:08.21,0:01:12.38,Default,,0,0,0,,Noam, her zamanki gibi\Nonları pür dikkat dinliyordu.
@@ -32,7 +32,7 @@ Dialogue: 0,0:01:22.25,0:01:24.04,Default,,0,0,0,,bir bütün oluşturur.
 Dialogue: 0,0:01:24.84,0:01:28.10,Default,,0,0,0,,Yani işleniş, içerikten\Ndaha önemli bir hâl alır.
 Dialogue: 0,0:01:28.66,0:01:32.53,Default,,0,0,0,,Dolayısıyla, filmden çıkardığınızı\Nsandığınız düşünceler
 Dialogue: 0,0:01:32.68,0:01:34.59,Default,,0,0,0,,aslında yönetmene aittir.
-Dialogue: 0,0:01:35.65,0:01:38.14,Default,,0,0,0,,Bu süreci manipülasyona açık\Nbulmamın sebebi bu.
+Dialogue: 0,0:01:35.65,0:01:38.14,Default,,0,0,0,,Filmleri bu yüzden\Nmanipülasyona açık buluyorum.
 Dialogue: 0,0:01:38.21,0:01:40.02,Default,,0,0,0,,Beyin, sahne geçişlerini unutur.
 Dialogue: 0,0:01:40.08,0:01:45.02,Default,,0,0,0,,İnsanlara özgü bu yetiyi Noam,\N"zihinsel süreklilik" olarak adlandırıyor.
 Dialogue: 0,0:01:45.50,0:01:49.00,Default,,0,0,0,,Beynimiz, kurgulanmış sürekliliği\Ngerçekmiş gibi algılar
@@ -44,7 +44,7 @@ Dialogue: 0,0:02:04.36,0:02:08.13,Default,,0,0,0,,Dolayısıyla izlediklerinin "
 Dialogue: 0,0:02:08.18,0:02:11.10,Default,,0,0,0,,Bu yüzden ikna olup olmamak\Nizleyiciye kalmıştır.
 Dialogue: 0,0:02:11.98,0:02:16.07,Default,,0,0,0,,Ayrıca, uzun bir süreci\Ntutarlı bir sona bağlayabileceğim
 Dialogue: 0,0:02:16.12,0:02:18.30,Default,,0,0,0,,bir proje arayışı içindeydim.
-Dialogue: 0,0:02:18.88,0:02:22.06,Default,,0,0,0,,Belki, darmadağın olmuş yaratıcılığımı\Ntekrar yola getirip
+Dialogue: 0,0:02:18.88,0:02:22.06,Default,,0,0,0,,Belki, darmadağın yaratıcılığımı\Ntekrar yola getirip
 Dialogue: 0,0:02:22.57,0:02:25.64,Default,,0,0,0,,önem verdiğim değerleri\N böylece açığa çıkarabilirim.
 Dialogue: 0,0:02:26.37,0:02:28.22,Default,,0,0,0,,Elbette egoist tarafım
 Dialogue: 0,0:02:28.29,0:02:33.93,Default,,0,0,0,,"Yaşayan en önemli düşünür" ile\Nvakit geçirmekten nasibini alacaktır.
@@ -62,7 +62,7 @@ Dialogue: 0,0:03:03.39,0:03:07.51,Default,,0,0,0,,Massachusetts Teknoloji Enstit
 Dialogue: 0,0:03:08.80,0:03:13.12,Default,,0,0,0,,Biz sohbet ederken\Nbazen arkada kamera çalışacak
 Dialogue: 0,0:03:13.61,0:03:16.14,Default,,0,0,0,,Umarım sizi rahatsız etmez.
 Dialogue: 0,0:03:16.21,0:03:17.69,Default,,0,0,0,,- Yok, sorun değil.\N- Tamam.
-Dialogue: 0,0:03:17.76,0:03:21.17,Default,,0,0,0,,Biraz gürültülü bir alet.\NO yüzden söyledim.
+Dialogue: 0,0:03:17.76,0:03:21.17,Default,,0,0,0,,Biraz gürültülü bir cihaz.\NO yüzden söyledim.
 Dialogue: 0,0:03:29.97,0:03:33.34,Default,,0,0,0,,Biraz demode bir ses,\Nhazırlıklı olun istedim.
 Dialogue: 0,0:03:34.69,0:03:37.65,Default,,0,0,0,,- Gençliğinizi anımsatmalı.\N- Sesimizi bozmayacak mı?
 Dialogue: 0,0:03:37.80,0:03:39.98,Default,,0,0,0,,Biraz öyle,\Nkameranın sesini duyacağız
@@ -118,12 +118,12 @@ Dialogue: 0,0:06:21.01,0:06:27.01,Default,,0,0,0,,Bu yöntemde engelli kişiye\N
 Dialogue: 0,0:06:27.32,0:06:31.90,Default,,0,0,0,,yüzün ve ses tellerinin\Nhareketlerini kullanarak
 Dialogue: 0,0:06:32.48,0:06:34.31,Default,,0,0,0,,söyleneni anlamayı öğretiyorlar.
 Dialogue: 0,0:06:34.36,0:06:37.75,Default,,0,0,0,,Son derece az miktarda\Nbilgi gelmesine rağmen
-Dialogue: 0,0:06:37.85,0:06:41.65,Default,,0,0,0,,insanlar bu yöntemle dil hakkında\Ngayet yeterli bilgiye ulaşabiliyor.
+Dialogue: 0,0:06:37.85,0:06:41.65,Default,,0,0,0,,insanlar dil hakkında\Ngayet yeterli bilgiye ulaşabiliyor.
 Dialogue: 0,0:06:41.70,0:06:45.10,Default,,0,0,0,,Öyle ki, neyi bilmediklerini\Nöğrenebilmek için
 Dialogue: 0,0:06:45.18,0:06:48.18,Default,,0,0,0,,son derece karmaşık testler\Nyapmamız gerekiyor.
 Dialogue: 0,0:06:48.46,0:06:50.65,Default,,0,0,0,,Fakat görme ve duyma yetisini
-Dialogue: 0,0:06:50.89,0:06:54.28,Default,,0,0,0,,yaklaşık 18 aylıktan önce\Nkaybetmiş kişilerde
-Dialogue: 0,0:06:54.38,0:07:00.68,Default,,0,0,0,,bu yöntemi kullanmada\Nasla başarılı olamadılar.
+Dialogue: 0,0:06:50.89,0:06:56.22,Default,,0,0,0,,yaklaşık 18 aylıktan önce\Nkaybetmiş kişilerde
+Dialogue: 0,0:06:56.30,0:07:00.68,Default,,0,0,0,,bu yöntem hiçbir zaman\Nişe yaramadı.
 Dialogue: 0,0:07:00.93,0:07:04.45,Default,,0,0,0,,Görünen o ki bilginin\Nhenüz dışa vurulmadığı,
 Dialogue: 0,0:07:04.85,0:07:08.09,Default,,0,0,0,,dil kullanımına\Nmaruz kalınan ilk zamanlar...
 Dialogue: 0,0:07:08.14,0:07:11.09,Default,,0,0,0,,Belki bir-iki kelimelik cümleler\Nkurdukları oluyordur.
@@ -134,8 +134,8 @@ Dialogue: 0,0:07:20.14,0:07:23.34,Default,,0,0,0,,Ama ilerleyen zamanda\Nçok az
 Dialogue: 0,0:07:23.44,0:07:26.77,Default,,0,0,0,,geçmiş bilginin üzerine koyarak\Ndili öğrenebiliyorlar.
 Dialogue: 0,0:07:27.71,0:07:33.35,Default,,0,0,0,,Böylece, insanların konuştuğu\Nbir topluluk içinde yaşayabilirler
 Dialogue: 0,0:07:33.42,0:07:36.14,Default,,0,0,0,,ve ellerini birinin yüzüne\Nkoydukları sürece
-Dialogue: 0,0:07:36.20,0:07:38.02,Default,,0,0,0,,ne söylendiğini anlarlar.
-Dialogue: 0,0:07:41.39,0:07:45.06,Default,,0,0,0,,İşin aslına bakarsak,\Ndil öğrenimindeki çarpıcı bir unsur...
+Dialogue: 0,0:07:36.20,0:07:38.02,Default,,0,0,0,,söyleneni anlayabilirler.
+Dialogue: 0,0:07:41.39,0:07:45.06,Default,,0,0,0,,Hatta, dil öğrenimindeki\Nen çarpıcı unsurlardan biri...
 Dialogue: 0,0:07:45.45,0:07:47.46,Default,,0,0,0,,Bu konu pek araştırılmış da değil.
 Dialogue: 0,0:07:48.25,0:07:52.36,Default,,0,0,0,,Bir bebeği ele alalım,\Ndaha yeni doğmuş bir bebek.
 Dialogue: 0,0:07:53.46,0:07:56.61,Default,,0,0,0,,Bebeğin çevresinde\Nbirbirinden farklı olaylar yaşanıyor.
@@ -151,13 +151,13 @@ Dialogue: 0,0:08:22.02,0:08:25.48,Default,,0,0,0,,Bu Platon.\NPlaton'un Anamnesi
 Dialogue: 0,0:08:25.68,0:08:29.39,Default,,0,0,0,,Nasıl bu kadar çok şey\Nbildiğimize şaşıyordu ve dedi ki:
 Dialogue: 0,0:08:29.62,0:08:32.37,Default,,0,0,0,,"Önceki hayatımızdaki\Nbilgileri hatırlıyor olmalıyız."
 Dialogue: 0,0:08:33.60,0:08:35.20,Default,,0,0,0,,Plato kadar akıllısın.
-Dialogue: 0,0:08:38.05,0:08:40.44,Default,,0,0,0,,Size hızlıca şunu sorayım,
-Dialogue: 0,0:08:40.53,0:08:45.83,Default,,0,0,0,,ailenizden ve okuduğunuz okuldan\Nne tür bir eğitim aldınız?
+Dialogue: 0,0:08:38.05,0:08:40.44,Default,,0,0,0,,Size hızlıca şunu sorayım.
+Dialogue: 0,0:08:40.53,0:08:45.83,Default,,0,0,0,,Ailenizden ve okuduğunuz okuldan\Nne tür bir eğitim aldınız?
 Dialogue: 0,0:08:46.05,0:08:50.10,Default,,0,0,0,,Dewey'in felsefesini baz alan\Nilerici bir okulda okudum.
 Dialogue: 0,0:08:51.39,0:08:53.83,Default,,0,0,0,,Oldukça da başarılıydı.
 Dialogue: 0,0:08:53.90,0:08:56.61,Default,,0,0,0,,Hatta, en azından benim için kusursuzdu.
-Dialogue: 0,0:08:56.93,0:09:00.32,Default,,0,0,0,,Plansız bir okul değildi
-Dialogue: 0,0:09:01.04,0:09:04.21,Default,,0,0,0,,lakin girişkenliğe, yaratıcılığa
+Dialogue: 0,0:08:56.93,0:09:00.32,Default,,0,0,0,,Plansız bir okul değildi.
+Dialogue: 0,0:09:01.04,0:09:04.21,Default,,0,0,0,,Lakin girişkenliğe, yaratıcılığa
 Dialogue: 0,0:09:04.98,0:09:08.57,Default,,0,0,0,,ve takım çalışmasına önem veriliyordu.
 Dialogue: 0,0:09:08.81,0:09:10.64,Default,,0,0,0,,Derslere not verilmiyordu
 Dialogue: 0,0:09:10.74,0:09:13.59,Default,,0,0,0,,ama ilgi alanlarını takip etmeye\Nteşvik edilirdin.
@@ -189,7 +189,7 @@ Dialogue: 0,0:10:57.92,0:11:02.83,Default,,0,0,0,,Liseden sonra görüştük diy
 Dialogue: 0,0:11:02.89,0:11:04.68,Default,,0,0,0,,Yollarımız ayrı düştü.
 Dialogue: 0,0:11:05.70,0:11:07.77,Default,,0,0,0,,Kendi başınıza çok vakit geçirdiniz mi?
 Dialogue: 0,0:11:07.96,0:11:12.33,Default,,0,0,0,,Yaklaşık on yaşımdayken babamla
-Dialogue: 0,0:11:12.40,0:11:17.50,Default,,0,0,0,,her cumartesi gecesi\Nİbranice klasikleri okurduk.
+Dialogue: 0,0:11:12.40,0:11:17.50,Default,,0,0,0,,her cumartesi gecesi\Nİbrani klasiklerini okurduk.
 Dialogue: 0,0:11:17.56,0:11:21.66,Default,,0,0,0,,19'uncu yüzyıl edebiyatı, denemeler...
 Dialogue: 0,0:11:22.50,0:11:25.11,Default,,0,0,0,,Bunlar bir rutin hâline gelmişti.
 Dialogue: 0,0:11:26.55,0:11:29.00,Default,,0,0,0,,Zira İbrani kültürünü...
@@ -198,9 +198,8 @@ Dialogue: 0,0:11:35.72,0:11:38.42,Default,,0,0,0,,Hayatları buna adanmıştı.
 Dialogue: 0,0:11:39.53,0:11:46.30,Default,,0,0,0,,Dilin, kültürün ve Filistin halkının\Nyeniden canlanması...
 Dialogue: 0,0:11:46.60,0:11:49.71,Default,,0,0,0,,Bu İbrani dirilişi...
 Dialogue: 0,0:11:49.81,0:11:51.93,Default,,0,0,0,,"Filistin halkı" mı dediniz?
-Dialogue: 0,0:11:52.17,0:11:53.96,Default,,0,0,0,,İsrail öncesi dönem olduğu için
-Dialogue: 0,0:11:54.01,0:11:56.43,Default,,0,0,0,,Filistin'de yaşayan\NYahudiler'den bahsediyorum.
-Dialogue: 0,0:11:57.32,0:12:01.06,Default,,0,0,0,,Sanırım, babam bugünlerde\Nanti-siyonist olarak adlandırılırdı
+Dialogue: 0,0:11:52.17,0:11:56.49,Default,,0,0,0,,İsrail öncesi dönem olduğu için\NFilistin'de yaşayan Yahudileri kastettim.
+Dialogue: 0,0:11:57.32,0:12:01.06,Default,,0,0,0,,Sanırım, bugünlerde babama\Nanti-siyonist denirdi
 Dialogue: 0,0:12:01.12,0:12:03.30,Default,,0,0,0,,ama o vakitler, çok içten bir siyonistti.
 Dialogue: 0,0:12:03.76,0:12:06.94,Default,,0,0,0,,Tabii, siyonizm onun için\Nkültürel bir dirilişten ibaretti.
 Dialogue: 0,0:12:06.99,0:12:09.23,Default,,0,0,0,,Yahudi devleti için pek merakı yoktu.
@@ -208,21 +207,21 @@ Dialogue: 0,0:12:11.72,0:12:15.40,Default,,0,0,0,,Çocukken gelecekle ilgili\Nh�
 Dialogue: 0,0:12:15.45,0:12:17.33,Default,,0,0,0,,Hem de ne çılgın hırslarım vardı.
 Dialogue: 0,0:12:17.42,0:12:19.46,Default,,0,0,0,,Bir keresinde anneme
 Dialogue: 0,0:12:19.53,0:12:23.04,Default,,0,0,0,,büyüyünce taksidermist olmaya\Nkarar verdim demiştim.
-Dialogue: 0,0:12:23.16,0:12:25.02,Default,,0,0,0,,- Taksidermist mi?\N- Neden diye sorma.
+Dialogue: 0,0:12:23.16,0:12:25.02,Default,,0,0,0,,- Taksidermist mi?\N- Neden sorma.
 Dialogue: 0,0:12:25.09,0:12:27.88,Default,,0,0,0,,Söylenişi güzel diye herhalde.\NSekiz yaşlarındaydım.
-Dialogue: 0,0:12:29.23,0:12:34.59,Default,,0,0,0,,Şimdi, cehaletime verin\NDescartes'ı nispeten yeni keşfettim.
-Dialogue: 0,0:12:34.66,0:12:38.88,Default,,0,0,0,,Descartes'ın kim olduğunu biliyordum\Nama onu, sizi okuduktan sonra okudum
+Dialogue: 0,0:12:29.23,0:12:34.59,Default,,0,0,0,,Şimdi, cehaletime verin.\NDescartes'ı nispeten yeni keşfettim.
+Dialogue: 0,0:12:34.66,0:12:38.88,Default,,0,0,0,,Descartes'ı tanıyordum ama onu\Nsizi okuduktan sonra okudum
 Dialogue: 0,0:12:38.97,0:12:43.39,Default,,0,0,0,,ve söylediği şeyleri sorgulamanız için\Nsize araçlar verdiğini fark ettim.
 Dialogue: 0,0:12:43.48,0:12:45.97,Default,,0,0,0,,Dogmacılığın tam tersi gibi.
-Dialogue: 0,0:12:46.08,0:12:50.29,Default,,0,0,0,,Aslında, eğitimin amacı da\Nzaten bu olmalı.
+Dialogue: 0,0:12:46.08,0:12:50.29,Default,,0,0,0,,Eğitimin amacı da zaten bu olmalı.
 Dialogue: 0,0:12:50.54,0:12:53.20,Default,,0,0,0,,Çocuk da olsalar\Nüniversite mezunu da olsalar
-Dialogue: 0,0:12:53.26,0:12:56.00,Default,,0,0,0,,öğrenciler, sorgulamayı\Nve karşı çıkmayı öğrenmeliler.
+Dialogue: 0,0:12:53.26,0:12:56.00,Default,,0,0,0,,öğrenciler, sorgulamayı\Nve karşı çıkmayı öğrenmeli.
 Dialogue: 0,0:12:56.09,0:13:00.47,Default,,0,0,0,,Aydınlanma Çağı'nda bu konuyla ilgili\Nortaya şöyle benzetmeler çıkmış:
 Dialogue: 0,0:13:00.54,0:13:05.10,Default,,0,0,0,,Eğitim, bir kaba\Nsu boşaltmaya benzememelidir.
 Dialogue: 0,0:13:05.46,0:13:10.08,Default,,0,0,0,,Çocukların, içinde özgürce gezebileceği
 Dialogue: 0,0:13:10.18,0:13:13.98,Default,,0,0,0,,bir akıntı oluşturmaya benzemelidir.
-Dialogue: 0,0:13:14.27,0:13:17.84,Default,,0,0,0,,Hatta akıntının doğru yönde\Nolup olmadığını sorgulamalıdırlar.
-Dialogue: 0,0:13:18.25,0:13:21.39,Default,,0,0,0,,Zaten modern bilim böyle başlamıştır.
+Dialogue: 0,0:13:14.27,0:13:17.65,Default,,0,0,0,,Hatta akıntının yönünü bile\Nonlar sorgulamalı.
+Dialogue: 0,0:13:18.25,0:13:21.39,Default,,0,0,0,,Zaten modern bilim böyle başladı.
 Dialogue: 0,0:13:22.06,0:13:23.79,Default,,0,0,0,,Binlerce yıl boyunca
 Dialogue: 0,0:13:23.85,0:13:29.93,Default,,0,0,0,,bilim insanları, nesnelerin\Ndoğal yerlerine gittiğini düşünmüştür.
 Dialogue: 0,0:13:30.47,0:13:36.13,Default,,0,0,0,,Yani, top yere düşer;\Nbuhar ise gökyüzüne gider.
@@ -242,13 +241,10 @@ Dialogue: 0,0:14:18.79,0:14:22.15,Default,,0,0,0,,Şaşırmaya niyetiniz yoksa\N
 Dialogue: 0,0:14:22.24,0:14:28.16,Default,,0,0,0,,veya sadece size gösterileni yaparsanız\Nbaşka birinin zihninin kopyası olursunuz.
 Dialogue: 0,0:14:28.54,0:14:31.19,Default,,0,0,0,,Şu anda uğraştığım kimi teknik işler
 Dialogue: 0,0:14:31.47,0:14:35.56,Default,,0,0,0,,bazı gerçeklerin\Nfarkına varmamla başladı.
-Dialogue: 0,0:14:35.74,0:14:38.83,Default,,0,0,0,,Üretici dil bilgisi kuramının\Nmodern tarihi boyunca
-Dialogue: 0,0:14:38.88,0:14:41.19,Default,,0,0,0,,temel alınan varsayımların
+Dialogue: 0,0:14:35.74,0:14:41.21,Default,,0,0,0,,Üretici dil bilgisinin modern tarihi\Nboyunca temel alınan varsayımların
 Dialogue: 0,0:14:41.26,0:14:45.22,Default,,0,0,0,,dil geleneksel açıdan incelendiğinde\Nhiçbir dayanağı yok.
-Dialogue: 0,0:14:45.80,0:14:47.22,Default,,0,0,0,,"Hiç dayanaksız olur mu?
-Dialogue: 0,0:14:47.60,0:14:51.54,Default,,0,0,0,,Öyleyse bu varsayımları neden yaptık?"\Ndiye sorduğumuzda ise
-Dialogue: 0,0:14:51.60,0:14:54.39,Default,,0,0,0,,karşımıza birçok kapı açılır
-Dialogue: 0,0:14:55.14,0:14:57.20,Default,,0,0,0,,ve bu süreç durmaksızın devam eder.
+Dialogue: 0,0:14:45.84,0:14:51.54,Default,,0,0,0,,Öyleyse bu varsayımları neden yaptık?"\Ndiye sorduğumuzda ise
+Dialogue: 0,0:14:51.60,0:14:56.94,Default,,0,0,0,,karşımıza birçok kapı açılır\Nve bu süreç durmaksızın devam eder.
 Dialogue: 0,0:14:57.28,0:15:00.41,Default,,0,0,0,,Peki, kendi fikirlerinizi veya felsefenizi
 Dialogue: 0,0:15:00.54,0:15:04.53,Default,,0,0,0,,ne zaman geliştirmeye başladığınızı\Nhatırlıyor musunuz?
 Dialogue: 0,0:15:04.68,0:15:07.50,Default,,0,0,0,,Ve bu sürecin nasıl ilerlediğini\Naçıklar mısınız?
@@ -256,35 +252,33 @@ Dialogue: 0,0:15:07.67,0:15:09.75,Default,,0,0,0,,Bu, devamlı bir süreçtir.
 Dialogue: 0,0:15:10.00,0:15:13.68,Default,,0,0,0,,Yulaf lapasını yemek istememem\Nile başlamış olabilir.
 Dialogue: 0,0:15:14.06,0:15:15.69,Default,,0,0,0,,"Neden?" sorusu ile.
 Dialogue: 0,0:15:16.88,0:15:19.30,Default,,0,0,0,,Her çeşit bilimsel sorgulamada,
-Dialogue: 0,0:15:19.38,0:15:22.65,Default,,0,0,0,,ucu bilimse dokunan\Nher türlü rasyonel sorgulamada
-Dialogue: 0,0:15:22.77,0:15:26.24,Default,,0,0,0,,olayların nasıl gelişeceğine dair\Nzihninizde bir beklenti vardır.
-Dialogue: 0,0:15:26.48,0:15:28.80,Default,,0,0,0,,Deneysel verilere bakarsanız
-Dialogue: 0,0:15:29.17,0:15:32.82,Default,,0,0,0,,bu veriler, kısmen de olsa\Nsizdeki beklentiyle örtüşmez.
+Dialogue: 0,0:15:19.38,0:15:22.65,Default,,0,0,0,,ucu bilime dokunan\Nher türlü rasyonel sorgulamada
+Dialogue: 0,0:15:22.77,0:15:26.24,Default,,0,0,0,,olayların nasıl gelişeceğine dair\Nzihinde bir beklenti vardır.
+Dialogue: 0,0:15:26.48,0:15:28.80,Default,,0,0,0,,Deneysel verilere bakarsanız...
+Dialogue: 0,0:15:29.17,0:15:32.82,Default,,0,0,0,,Bu veriler, kısmen de olsa\Nsizdeki beklentiyle örtüşmez.
 Dialogue: 0,0:15:32.95,0:15:34.80,Default,,0,0,0,,Bazı taşlar yerine oturmaz.
-Dialogue: 0,0:15:35.05,0:15:38.90,Default,,0,0,0,,Dolayısıyla, çoğu zaman\Niki durum arasında bir çatışma hâkimdir:
-Dialogue: 0,0:15:39.21,0:15:41.37,Default,,0,0,0,,Bunlardan biri, zihindeki beklentidir.
+Dialogue: 0,0:15:35.05,0:15:38.90,Default,,0,0,0,,Dolayısıyla, iki durum arasında\Ngenelde bir çatışma hâkimdir:
+Dialogue: 0,0:15:39.21,0:15:41.54,Default,,0,0,0,,Bunlardan biri, zihindeki beklentidir.
 Dialogue: 0,0:15:41.89,0:15:45.98,Default,,0,0,0,,Olayların basit ve doğal bir şekilde\Ngerçekleşmesini bekleriz.
 Dialogue: 0,0:15:46.06,0:15:49.86,Default,,0,0,0,,Fakat işler gerçekte\Nçok daha karışık görünür.
 Dialogue: 0,0:15:50.04,0:15:51.87,Default,,0,0,0,,Galileo'nun devrimi
 Dialogue: 0,0:15:51.93,0:15:55.87,Default,,0,0,0,,dünyaya bakış tarzımızı değiştiren\Nhakiki bir devrimdi.
-Dialogue: 0,0:15:56.22,0:15:59.32,Default,,0,0,0,,Evvela bu özelliğini,\Nbasit gibi görünen şeylere
-Dialogue: 0,0:15:59.52,0:16:01.37,Default,,0,0,0,,şaşkınlık duymasından alır.
+Dialogue: 0,0:15:56.22,0:16:01.30,Default,,0,0,0,,Zira insanlar basit gibi görünen şeylere\Nşaşkınlık duymaya başladı.
 Dialogue: 0,0:16:01.49,0:16:03.06,Default,,0,0,0,,Kolay bir hamle değil.
 Dialogue: 1,0:16:03.14,0:16:05.99,Default,,0,0,0,,2,000 yıl önce\Nbunları düşünenler varmış.
 Dialogue: 0,0:16:06.17,0:16:07.49,Default,,0,0,0,,- Zeki insanlar.\N- Evet.
 Dialogue: 0,0:16:07.56,0:16:10.20,Default,,0,0,0,,"Doğa basittir" dediler.
 Dialogue: 0,0:16:10.70,0:16:14.03,Default,,0,0,0,,Basit olduğunu göstermek de\Nbilim insanlarının işidir.
-Dialogue: 0,0:16:14.57,0:16:19.09,Default,,0,0,0,,Bunu yapamıyorsak, bilim insanları olarak\Nbaşarısız olduk demektir.
+Dialogue: 0,0:16:14.57,0:16:19.09,Default,,0,0,0,,Aksi takdirde, bilim insanları olarak\Nbaşarısız olduk demektir.
 Dialogue: 0,0:16:19.27,0:16:22.14,Default,,0,0,0,,Yani, basitleştirilemeyen\Nbir zorluk gördüysen...
 Dialogue: 0,0:16:22.50,0:16:24.10,Default,,0,0,0,,...onu henüz anlamamışsın.
 Dialogue: 0,0:16:24.28,0:16:26.03,Default,,0,0,0,,Gayet iyi bir ilke.
 Dialogue: 0,0:16:26.49,0:16:32.60,Default,,0,0,0,,Bu ilke, sorgulamanın önünü açan\Nson derece etkili bir unsur olmuştur.
-Dialogue: 0,0:16:33.64,0:16:37.36,Default,,0,0,0,,Zira doğanın basit olmasını beklemekte\Nhaksız sayılmazlar.
-Dialogue: 0,0:16:38.74,0:16:40.80,Default,,0,0,0,,Yani, Galileo'dan...
-Dialogue: 0,0:16:41.33,0:16:44.36,Default,,0,0,0,,...Newton'a kadar\Nmodern bilimin ilk zamanlarında...
-Dialogue: 0,0:16:45.09,0:16:49.74,Default,,0,0,0,,Çok büyük bilim insanlarıydılar;\NHuygens, Bernouli, Newton ve niceleri...
-Dialogue: 0,0:16:50.06,0:16:53.03,Default,,0,0,0,,Modern bilimin Klasik Dönem'i gibiydi.
-Dialogue: 0,0:16:53.29,0:16:57.05,Default,,0,0,0,,...anlaşılabilirlik\Nçok önemli bir yer tutardı.
+Dialogue: 0,0:16:33.64,0:16:37.36,Default,,0,0,0,,Doğanın basit olmasını beklemekte\Nhaksız sayılmazlar.
+Dialogue: 0,0:16:38.74,0:16:44.33,Default,,0,0,0,,Galileo'dan Newton'a\Nmodern bilimin ilk zamanlarında...
+Dialogue: 0,0:16:45.09,0:16:49.74,Default,,0,0,0,,Çok büyük bilim insanları vardı.\NHuygens, Bernouli, Newton ve niceleri...
+Dialogue: 0,0:16:50.06,0:16:53.03,Default,,0,0,0,,Modern bilimin klasik dönemi gibiydi.
+Dialogue: 0,0:16:53.29,0:16:57.05,Default,,0,0,0,,Anlaşılabilirlik\Nçok önemli bir yer tutardı.
 Dialogue: 0,0:16:57.25,0:17:01.43,Default,,0,0,0,,Bilimin gayesi, dünyanın\Nanlaşılabilir olduğunu göstermekti.
 Dialogue: 0,0:17:01.62,0:17:03.46,Default,,0,0,0,,Anlaşılabilirliğin karşılığı vardı.
 Dialogue: 0,0:17:03.56,0:17:07.52,Default,,0,0,0,,Dünya, zanaatkârın elinden çıkan\Nbir eser gibi olmalıydı.
@@ -317,7 +311,7 @@ Dialogue: 0,0:18:40.82,0:18:42.68,Default,,0,0,0,,Ben, bir makine gibi çalış�
 Dialogue: 0,0:18:42.80,0:18:45.70,Default,,0,0,0,,Bu sekansın zor olduğunun farkındayım
 Dialogue: 0,0:18:45.77,0:18:48.27,Default,,0,0,0,,ve çizimini yapmak\Ninanılmaz uzun sürüyor.
 Dialogue: 0,0:18:48.42,0:18:50.01,Default,,0,0,0,,Biraz mola vereceğim.
-Dialogue: 0,0:18:50.10,0:18:53.71,Default,,0,0,0,,Noam sürekli; Galileo, Newton\Nve Aydınlanma Çağı'ndan bahsetti.
+Dialogue: 0,0:18:50.10,0:18:53.71,Default,,0,0,0,,Noam sürekli Galileo, Newton\Nve Aydınlanma Çağı'ndan bahsetti.
 Dialogue: 0,0:18:53.77,0:18:57.21,Default,,0,0,0,,Kısa kesmeye çalıştım\Nfakat bu konu dipsiz bir kuyu gibi.
 Dialogue: 0,0:18:58.05,0:19:01.79,Default,,0,0,0,,Yine de son derece mühim olan\Nbu mevzuyu bir sona bağlamalıyım.
 Dialogue: 0,0:19:02.17,0:19:05.82,Default,,0,0,0,,Noam, hakiki bilimin\Nnasıl yapıldığının üzerinde durdu.
@@ -326,7 +320,7 @@ Dialogue: 0,0:19:10.96,0:19:12.86,Default,,0,0,0,,Ayrıca, her daim haksız çı
 Dialogue: 0,0:19:12.91,0:19:16.11,Default,,0,0,0,,ve sil baştan deney yapmaya\Nistekli olmayı gerektiriiyor.
 Dialogue: 0,0:19:16.58,0:19:21.23,Default,,0,0,0,,Büyük fizikçi Richard Feynman\Nbilimde dürüstlüğe çok önem vermiş
 Dialogue: 0,0:19:21.31,0:19:24.68,Default,,0,0,0,,ve deney sonuçlarının\Nher daim yayımlanmasını savunmuştur.
-Dialogue: 0,0:19:24.77,0:19:26.96,Default,,0,0,0,,Özellikle de aykırı sonuçları.
+Dialogue: 0,0:19:24.77,0:19:26.96,Default,,0,0,0,,Özellikle de aykırı sonuçların.
 Dialogue: 0,0:19:27.09,0:19:30.90,Default,,0,0,0,,Göz ardı edilmiş iyi bir bilim insanı\Nhakkında komik bir hikâyesi de vardı.
 Dialogue: 0,0:19:31.08,0:19:34.56,Default,,0,0,0,,1937 yılında... Adı Young'du.
 Dialogue: 0,0:19:34.64,0:19:38.62,Default,,0,0,0,,...bir sıçana, kapıları sayarak\Nyiyeceğe ulaşmayı öğretiyormuş.
@@ -367,12 +361,12 @@ Dialogue: 0,0:21:35.40,0:21:39.51,Default,,0,0,0,,Geçtiğimiz birkaç seansta\N
 Dialogue: 0,0:21:39.65,0:21:41.93,Default,,0,0,0,,Oldukça şüpheliydiniz ve ben de...
 Dialogue: 0,0:21:41.98,0:21:43.87,Default,,0,0,0,,Evrimden yana şüphem yok.
 Dialogue: 0,0:21:43.95,0:21:48.04,Default,,0,0,0,,Biyolojik gerçekler dışında \Ngenel bir kafa karışıklığı var.
-Dialogue: 0,0:21:48.14,0:21:50.80,Default,,0,0,0,,Doğal seleksiyon elbette\Nevrimde bir etken;
+Dialogue: 0,0:21:48.14,0:21:50.80,Default,,0,0,0,,Doğal seçilim elbette\Nevrimde bir etken;
 Dialogue: 0,0:21:50.88,0:21:53.62,Default,,0,0,0,,gerçek bir biyolog bundan şüphe duymaz.
 Dialogue: 0,0:21:53.68,0:21:55.73,Default,,0,0,0,,Lakin birçok başka etken var.
 Dialogue: 0,0:21:56.00,0:21:57.86,Default,,0,0,0,,Örneğin, mutasyon bir etkendir.
 Dialogue: 0,0:21:58.28,0:22:00.08,Default,,0,0,0,,Böyle nice etken var...
-Dialogue: 0,0:22:00.13,0:22:03.79,Default,,0,0,0,,Mesela, genetik donanımımızın\Nbüyük bir bölümü
+Dialogue: 0,0:22:00.13,0:22:03.79,Default,,0,0,0,,Mesela, insan genetik donanımının\Nbüyük bir bölümü
 Dialogue: 0,0:22:03.94,0:22:06.79,Default,,0,0,0,,yer değiştirme ile oluşmuştur.
 Dialogue: 0,0:22:06.87,0:22:09.32,Default,,0,0,0,,"Dolanım" kelimesini kullandınız...
 Dialogue: 0,0:22:09.56,0:22:13.49,Default,,0,0,0,,"Donatım" mıydı yoksa?\NPardon, nasıl anlatayım?
@@ -382,10 +376,10 @@ Dialogue: 0,0:22:19.09,0:22:22.23,Default,,0,0,0,,...ama siz "donatım" dediniz.
 Dialogue: 0,0:22:22.30,0:22:25.17,Default,,0,0,0,,- Tahtaya yaz.\N- Ben anlayamadım.
 Dialogue: 0,0:22:25.24,0:22:27.08,Default,,0,0,0,,- "Do-na-tım"?\N- "Donanım"!
 Dialogue: 0,0:22:27.16,0:22:29.09,Default,,0,0,0,,"Donanım" kelimesi mi?\NÇıkaramadım.
-Dialogue: 0,0:22:29.16,0:22:34.46,Default,,0,0,0,,Peki, zihnimizde dünyayı kavramaya\Nyarayan bir düzeneğin olduğunu
-Dialogue: 0,0:22:34.77,0:22:38.52,Default,,0,0,0,,ve bu düzeneğin çizdiği sınırların dışına\Nçıkamayacağımızı mı söylüyorsunuz?
+Dialogue: 0,0:22:29.16,0:22:34.46,Default,,0,0,0,,Yani, zihnimizde dünyayı kavramaya\Nyarayan bir düzenek var
+Dialogue: 0,0:22:34.77,0:22:38.52,Default,,0,0,0,,ve bu düzeneğin çizdiği sınırların dışına\Nçıkamıyor muyuz?
 Dialogue: 0,0:22:39.05,0:22:41.65,Default,,0,0,0,,Bunlar Hume ve Newton'ın fikri.
-Dialogue: 0,0:22:41.83,0:22:46.31,Default,,0,0,0,,Sahip olduğumuz bilişsel donanım\Nne olduğunu sorgulayacak olursak...
+Dialogue: 0,0:22:41.83,0:22:46.31,Default,,0,0,0,,Sahip olduğumuz bilişsel donanımın\Nne olduğunu sorgulayacak olursak...
 Dialogue: 0,0:22:46.73,0:22:51.98,Default,,0,0,0,,Bilişsel donanımın herkeste\Nsabit olması pek mümkün değil.
 Dialogue: 0,0:22:52.04,0:22:53.70,Default,,0,0,0,,Bunun için melek olmalıyız.
 Dialogue: 0,0:22:53.77,0:22:57.29,Default,,0,0,0,,Fakat organik hayatın bir parçası olarak\Nsabit bir kapasitemiz var.
@@ -410,19 +404,18 @@ Dialogue: 0,0:23:56.46,0:23:59.05,Default,,0,0,0,,Pencere, dikkatinizi sınırla
 Dialogue: 0,0:23:59.12,0:24:01.71,Default,,0,0,0,,köprüyü olduğundan\Nçok daha büyük görürsünüz.
 Dialogue: 0,0:24:01.78,0:24:03.64,Default,,0,0,0,,Sen bu konuyu açıklamaya çalışıyorsun
 Dialogue: 0,0:24:03.70,0:24:06.24,Default,,0,0,0,,ve bu konunun izahı üzerine\Nbirçok çalışma var.
-Dialogue: 0,0:24:06.42,0:24:08.74,Default,,0,0,0,,Lakin bunun açıklaması ne olursa olsun
-Dialogue: 0,0:24:08.80,0:24:11.72,Default,,0,0,0,,dünyayı böyle görmemek elimizde değil.
+Dialogue: 0,0:24:06.42,0:24:11.54,Default,,0,0,0,,Lakin bunun açıklaması ne olursa olsun\Ndünyayı böyle görmemek elimizde değil.
 Dialogue: 0,0:24:12.15,0:24:13.16,Default,,0,0,0,,Görüyoruz işte.
 Dialogue: 0,0:24:13.22,0:24:18.07,Default,,0,0,0,,Tıpkı dünyanın\Nmaddesel etkileşim ile işlediğinin
-Dialogue: 0,0:24:18.93,0:24:21.32,Default,,0,0,0,,aksini düşünmenin elimizde olmaması gibi.
-Dialogue: 0,0:24:21.46,0:24:24.96,Default,,0,0,0,,Beynimizin başka bir bölümü\Nbunun doğru olmadığını
+Dialogue: 0,0:24:18.93,0:24:21.32,Default,,0,0,0,,aksini düşünemememiz gibi.
+Dialogue: 0,0:24:21.46,0:24:24.96,Default,,0,0,0,,Beynimizin başka bir bölümü,\Nbunun doğru olmadığını
 Dialogue: 0,0:24:25.01,0:24:28.98,Default,,0,0,0,,ve bunu kanıtlayan\Nteoriler olduğunu söyleyebilir.
-Dialogue: 0,0:24:29.05,0:24:32.52,Default,,0,0,0,,Fakat dünyayı algılama şeklimiz değişmez.
-Dialogue: 0,0:24:32.57,0:24:33.75,Default,,0,0,0,,Çünkü bu sabittir.
+Dialogue: 0,0:24:29.05,0:24:32.48,Default,,0,0,0,,Fakat dünyayı algılama şeklimiz değişmez.
+Dialogue: 0,0:24:32.57,0:24:33.75,Default,,0,0,0,,Bu sabittir.
 Dialogue: 0,0:24:33.82,0:24:35.92,Default,,0,0,0,,Peki, bunu tasavvur etmeye...
 Dialogue: 0,0:24:36.17,0:24:39.94,Default,,0,0,0,,Sanırım hayal edilir bir şey değil\Nama bu donanım...
 Dialogue: 0,0:24:43.18,0:24:46.15,Default,,0,0,0,,Diyelim bir ağaç gördük\Nve bunun ağaç olduğunu anladık.
-Dialogue: 0,0:24:46.25,0:24:51.24,Default,,0,0,0,,Beynimizde, bize "Bu bir ağaç." diyen\Nsabit bir kapasite mi var?
+Dialogue: 0,0:24:46.25,0:24:51.24,Default,,0,0,0,,Beynimizde bize "Bu bir ağaç" diyen\Nsabit bir kapasite mi var?
 Dialogue: 0,0:24:51.96,0:24:55.75,Default,,0,0,0,,Şaşırmanın doğal olduğu\Nbaşka bir soru sorayım.
 Dialogue: 0,0:24:55.90,0:24:57.98,Default,,0,0,0,,Bir şeyin ağaç olduğunu nasıl anlarız?
 Dialogue: 0,0:24:58.42,0:24:59.69,Default,,0,0,0,,O kadar kolay değil.
@@ -430,16 +423,16 @@ Dialogue: 0,0:24:59.85,0:25:03.60,Default,,0,0,0,,Diyelim ki bir ağaç diktiniz
 Dialogue: 0,0:25:03.80,0:25:06.13,Default,,0,0,0,,Gayet güzel bir örnek. Zamanla büyüyor.
 Dialogue: 0,0:25:06.19,0:25:08.37,Default,,0,0,0,,Vakti gelince ağaçtan bir dal kesip
 Dialogue: 0,0:25:09.01,0:25:11.33,Default,,0,0,0,,bu dalı yere ektiniz.
-Dialogue: 0,0:25:11.40,0:25:17.24,Default,,0,0,0,,Farz edin ki bu dal büyüdü\N ve asıl ağacın tıpatıp aynısı oldu
+Dialogue: 0,0:25:11.40,0:25:17.24,Default,,0,0,0,,Farz edin ki bu dal büyüdü\N ve asıl ağacın tıpatıp aynısı oldu.
 Dialogue: 0,0:25:17.29,0:25:19.90,Default,,0,0,0,,Dalın geldiği asıl ağaç da kesildi.
 Dialogue: 0,0:25:20.00,0:25:22.96,Default,,0,0,0,,Bu yeni ağaç, aynı söğüt ağacı mı?\NNeden olmasın?
 Dialogue: 0,0:25:23.40,0:25:26.50,Default,,0,0,0,,Genetik olarak özdeş\Nve bütün nitelikleri aynı.
 Dialogue: 0,0:25:26.64,0:25:29.55,Default,,0,0,0,,Ama aynı ağaç olmadığını biliyoruz.\NNasıl oluyor?
 Dialogue: 0,0:25:30.85,0:25:32.42,Default,,0,0,0,,Daha da ileri gidersek
-Dialogue: 0,0:25:32.48,0:25:37.18,Default,,0,0,0,,zihnimizdeki "ağaç", "kaya" yahut "insan"\Nve benzeri kavramların
-Dialogue: 0,0:25:37.24,0:25:39.10,Default,,0,0,0,,ziyadesiyle karışık olduğunu görürüz.
+Dialogue: 0,0:25:32.48,0:25:37.18,Default,,0,0,0,,zihnimizdeki "ağaç", "kaya" yahut "insan"\Nve benzeri kavramlar
+Dialogue: 0,0:25:37.24,0:25:38.92,Default,,0,0,0,,ziyadesiyle karışıktır.
 Dialogue: 0,0:25:40.92,0:25:45.28,Default,,0,0,0,,Dahası, şahsi kanaatimce\Ngünümüzde bile devam eden
-Dialogue: 0,0:25:45.73,0:25:51.90,Default,,0,0,0,,felsefe ile psikoloji ve dil bilimine\Nkök salmış bir yanılgı var.
+Dialogue: 0,0:25:45.73,0:25:51.90,Default,,0,0,0,,felsefe, psikoloji ve dil bilimine\Nkök salmış bir yanılgı var.
 Dialogue: 0,0:25:52.18,0:25:55.65,Default,,0,0,0,,Bu yanılgıya düşenler, kelimelerin
 Dialogue: 0,0:25:55.76,0:25:58.92,Default,,0,0,0,,anlam taşıyan niteliklere\Nsahip olduğunu düşünür.
 Dialogue: 0,0:25:59.01,0:26:01.61,Default,,0,0,0,,Mesela "ağaç" ya da "insan" veya...
@@ -459,7 +452,7 @@ Dialogue: 0,0:26:46.23,0:26:48.65,Default,,0,0,0,,Fakat insan iletişimi için d
 Dialogue: 0,0:26:48.70,0:26:50.77,Default,,0,0,0,,Hatta her bebek bunun farkında.
 Dialogue: 0,0:26:50.96,0:26:54.05,Default,,0,0,0,,Böylece ortaya büyük bir\Nevrimsel sorun çıkıyor.
 Dialogue: 0,0:26:54.19,0:26:55.45,Default,,0,0,0,,Nereden geldi bu?
-Dialogue: 0,0:26:55.50,0:27:00.62,Default,,0,0,0,,Bu durum, dil edinimi ile evrimsel\Nve tasvirî açılardan sorunlar çıkarıyor.
+Dialogue: 0,0:26:55.50,0:27:00.62,Default,,0,0,0,,Bu durum; dil edinimi, evrimsel\Nve tanımsal açılardan sorunlar çıkarıyor.
 Dialogue: 0,0:27:00.70,0:27:02.31,Default,,0,0,0,,Daha önce hiç araştırılmamış.
 Dialogue: 0,0:27:02.42,0:27:06.40,Default,,0,0,0,,Çünkü herkes "Bir ilişki var işte."\Ndeyip geçiyor.
 Dialogue: 0,0:27:06.48,0:27:09.54,Default,,0,0,0,,Tıpkı "Nesneler doğal yerlerine gider."\Nvarsayımı gibi.
@@ -485,11 +478,11 @@ Dialogue: 0,0:28:13.27,0:28:18.15,Default,,0,0,0,,Bir köpeği, fiziksel özelli
 Dialogue: 0,0:28:20.85,0:28:22.98,Default,,0,0,0,,Gördüğünüz üzere biraz afalladım.
 Dialogue: 0,0:28:23.06,0:28:26.56,Default,,0,0,0,,Açıklayayım. Sanırım Noam'a\Nkendimi izah edemedim.
 Dialogue: 0,0:28:26.80,0:28:31.26,Default,,0,0,0,,Ağır aksanımla yanlış kelime tercihlerim\Nteşebbüsümü daha da zorlaştırdı.
-Dialogue: 0,0:28:31.34,0:28:36.62,Default,,0,0,0,,Sadece, hayatta hayvan gibi bazı şeylerin\Ngörüntüsünü önceden görürüz
-Dialogue: 0,0:28:36.88,0:28:39.44,Default,,0,0,0,,gerçek hâllerini ise\Nsonra görürüz demek istedim.
+Dialogue: 0,0:28:31.34,0:28:36.62,Default,,0,0,0,,Sadece, hayatta hayvan gibi bazı şeylerin\Ngörüntüsünü önceden görürüz.
+Dialogue: 0,0:28:36.88,0:28:39.44,Default,,0,0,0,,Gerçek hâllerini ise\Nsonra görürüz demek istedim.
 Dialogue: 0,0:28:39.56,0:28:43.62,Default,,0,0,0,,Mesela, gerçek bir kaplan görmeden önce\Nbirçok kaplan resmi görmüştüm.
 Dialogue: 0,0:28:43.72,0:28:45.34,Default,,0,0,0,,Bunun tartışılacak bir yanı yok
-Dialogue: 0,0:28:45.41,0:28:49.62,Default,,0,0,0,,ama "tasvir" sözünü yanlış kullandığımdan,\NNoam bunun yanlış olduğuna diretti.
+Dialogue: 0,0:28:45.41,0:28:49.62,Default,,0,0,0,,ama "tasvir" sözünü yanlış kullandığımdan\NNoam buna karşı çıktı.
 Dialogue: 0,0:28:49.94,0:28:53.17,Default,,0,0,0,,Yüksek ihtimalle "zihinsel tasvir"den\Nbahsettiğimi düşündü
 Dialogue: 0,0:28:53.24,0:28:55.52,Default,,0,0,0,,zira kitaptaki\Nbir görselden söz ediyordum.
 Dialogue: 0,0:28:55.59,0:29:00.42,Default,,0,0,0,,Yine de, çetrefilli görüşlerini\Nbize açıklama fırsatı doğdu.
@@ -499,27 +492,26 @@ Dialogue: 0,0:29:06.21,0:29:08.34,Default,,0,0,0,,bazı çizimlerimi tekrar kull
 Dialogue: 0,0:29:08.90,0:29:13.12,Default,,0,0,0,,Bir köpeği, fiziksel özelliklerine göre\Nanlamlandırmıyoruz.
 Dialogue: 0,0:29:14.79,0:29:19.75,Default,,0,0,0,,Bir köpeği, mesela, zihinsel sürekliliğin\Nbir parçası olarak anlamlandırıyoruz.
 Dialogue: 0,0:29:20.42,0:29:25.93,Default,,0,0,0,,Diyelim bir cadı,\Nbir köpeği deveye dönüştürdü.
-Dialogue: 0,0:29:26.45,0:29:32.88,Default,,0,0,0,,Sonra peri prenses deveyi öpsün\Nve deve tekrar köpek olsun.
+Dialogue: 0,0:29:26.45,0:29:32.88,Default,,0,0,0,,Sonra prenses deveyi öpsün\Nve deve tekrar köpek olsun.
 Dialogue: 0,0:29:32.97,0:29:35.92,Default,,0,0,0,,Bu hayvan başından beri köpekti,\Ndeve gibi görünse bile.
 Dialogue: 0,0:29:36.00,0:29:37.97,Default,,0,0,0,,Peri masalları buna dayanır.
 Dialogue: 0,0:29:38.31,0:29:40.16,Default,,0,0,0,,Tam olarak öyle...
 Dialogue: 0,0:29:40.21,0:29:43.64,Default,,0,0,0,,Fakat zihinsel süreklilik\Nmaddesel bir varlık değil.
 Dialogue: 0,0:29:44.10,0:29:46.52,Default,,0,0,0,,Nesnelere yüklediğimiz bir niteliktir.
-Dialogue: 0,0:29:48.35,0:29:53.26,Default,,0,0,0,,Bu yüzden sembollere ilişkin nesnelerin\Nmaddesel özelliklerine bakıp
-Dialogue: 0,0:29:53.33,0:29:57.22,Default,,0,0,0,,onları tanımlamak için\Nbir yol bulmamız mümkün değil.
-Dialogue: 0,0:29:57.52,0:29:58.88,Default,,0,0,0,,Bunlar ayrı tutulurlar.
+Dialogue: 0,0:29:47.41,0:29:53.26,Default,,0,0,0,,Bu yüzden sembollere bağlı nesnelerin\Nmaddesel özelliklerine bakıp
+Dialogue: 0,0:29:53.34,0:29:57.22,Default,,0,0,0,,onları tanımlamamız mümkün değil.
+Dialogue: 0,0:29:57.52,0:29:58.88,Default,,0,0,0,,Bunlar ayrı tutulur.
 Dialogue: 0,0:29:58.96,0:30:02.68,Default,,0,0,0,,Zihinsel süreçlerimiz sonucunda\Nbir kimlik kazanırlar.
-Dialogue: 0,0:30:02.73,0:30:05.06,Default,,0,0,0,,Yani aslında hepsi zihinsel nesnelerdir.
-Dialogue: 0,0:30:07.19,0:30:10.84,Default,,0,0,0,,Bu demektir ki göndergesel görüş\Ntamamen rafa kaldırılmalı
-Dialogue: 0,0:30:14.16,0:30:18.24,Default,,0,0,0,,ve dil ile dünya arasındaki ilişkiye\Nfarklı bir açıdan bakmalıyız.
+Dialogue: 0,0:30:02.73,0:30:05.06,Default,,0,0,0,,Aslında hepsi zihinsel nesnelerdir.
+Dialogue: 0,0:30:07.19,0:30:10.84,Default,,0,0,0,,Bu demektir ki göndergesel görüş\Ntamamen rafa kaldırılmalı...
+Dialogue: 0,0:30:14.16,0:30:18.24,Default,,0,0,0,,...ve dil ile dünya arasındaki ilişkiye\Nfarklı bir açıdan bakmalıyız.
 Dialogue: 0,0:30:18.80,0:30:25.24,Default,,0,0,0,,Öyleyse dünyayı, zihnimizdeki\Nbu görüntüyü yansıtarak mı inşa ettik?
 Dialogue: 0,0:30:25.59,0:30:30.66,Default,,0,0,0,,Bunu yapıyoruz, fakat filozofların\Nve dil bilimcilerin düşündüğü gibi değil.
 Dialogue: 0,0:30:30.89,0:30:32.16,Default,,0,0,0,,Kesinlikle yapıyoruz.
 Dialogue: 0,0:30:32.31,0:30:38.77,Default,,0,0,0,,Örneğin evet, dünyada ağaçlar,\Nköpekler ve nehirleri görüyoruz
 Dialogue: 0,0:30:38.84,0:30:41.23,Default,,0,0,0,,fakat bu kavramlar nedir?
-Dialogue: 0,0:30:41.73,0:30:44.24,Default,,0,0,0,,Standart varsayıma göre...
-Dialogue: 0,0:30:44.52,0:30:47.27,Default,,0,0,0,,...bu kavramlar dış dünyada var olan...
-Dialogue: 0,0:30:47.53,0:30:51.13,Default,,0,0,0,,...maddesel ve ayırt edilebilir\Nnesnelere bağlıdır.
+Dialogue: 0,0:30:41.80,0:30:46.30,Default,,0,0,0,,Standart varsayıma göre\Nbu kavramlar, dış dünyada var olan
+Dialogue: 0,0:30:46.54,0:30:51.13,Default,,0,0,0,,maddesel ve ayırt edilebilir\Nnesnelere bağlıdır.
 Dialogue: 0,0:30:51.29,0:30:53.33,Default,,0,0,0,,Ancak bu varsayım büsbütün yanlış.
 Dialogue: 0,0:30:53.95,0:30:56.81,Default,,0,0,0,,Kendimizi bu varsayımdan\Nkurtarmadığımız sürece
 Dialogue: 0,0:30:56.87,0:31:00.56,Default,,0,0,0,,dil ve düşünce ile dünya\Narasındaki ilişkiyi anlayamayacağız.
@@ -555,18 +547,18 @@ Dialogue: 0,0:32:54.38,0:32:57.24,Default,,0,0,0,,Sanırım bir etkileşim var.
 Dialogue: 0,0:32:57.42,0:33:01.01,Default,,0,0,0,,Kartlar ile ev yapmaya çalışan
 Dialogue: 0,0:33:01.81,0:33:05.24,Default,,0,0,0,,bir çocuğu izlerseniz...
 Dialogue: 0,0:33:05.38,0:33:08.06,Default,,0,0,0,,Üst üste dizip yığıyor diyelim.
-Dialogue: 0,0:33:08.19,0:33:14.14,Default,,0,0,0,,Ne yapmayı planladıklarına dair\Nakıllarında bir fikir olmalı
+Dialogue: 0,0:33:08.19,0:33:14.14,Default,,0,0,0,,Ne yapmayı planladığına dair\Naklında bir fikir olmalı
 Dialogue: 0,0:33:14.19,0:33:17.93,Default,,0,0,0,,ancak süreç içinde\Nmuhakkak bir değişikliğe uğruyor.
 Dialogue: 0,0:33:17.99,0:33:20.24,Default,,0,0,0,,"Böyle yaparsam yıkılacak."
 Dialogue: 0,0:33:20.32,0:33:23.00,Default,,0,0,0,,"Bu yüzden\Nfarklı bir şekilde düzenlemeliyim."
 Dialogue: 0,0:33:23.09,0:33:24.61,Default,,0,0,0,,Bu binayı ele alalım.
-Dialogue: 0,0:33:25.45,0:33:30.41,Default,,0,0,0,,Mesela ofisimde\Ngöze çarpan özelliklerden biri
-Dialogue: 0,0:33:30.53,0:33:32.62,Default,,0,0,0,,birçok farklı açının bulunmasıdır.
+Dialogue: 0,0:33:25.45,0:33:30.41,Default,,0,0,0,,Mesela ofisimde\Ngöze çarpan özelliklerden biri...
+Dialogue: 0,0:33:30.53,0:33:32.62,Default,,0,0,0,,Birçok farklı açı var.
 Dialogue: 0,0:33:32.83,0:33:37.85,Default,,0,0,0,,Binaların birçoğunda da...\NHer şey biraz çarpık.
 Dialogue: 0,0:33:38.40,0:33:42.58,Default,,0,0,0,,Frank Gehry'nin aklında\Nne vardı bilmiyorum
 Dialogue: 0,0:33:42.67,0:33:49.58,Default,,0,0,0,,ama binanın yapısını inceleyen bir mimar
-Dialogue: 0,0:33:50.33,0:33:54.53,Default,,0,0,0,,sanki bir Mondrian tablosunun\Nüç boyutlu hâlini andıran
-Dialogue: 0,0:33:54.77,0:33:58.43,Default,,0,0,0,,nitelikler taşıdığını öne sürdü.
+Dialogue: 0,0:33:50.33,0:33:52.64,Default,,0,0,0,,sanki bir Mondrian tablosunun
+Dialogue: 0,0:33:53.06,0:33:58.33,Default,,0,0,0,,üç boyutlu hâlini andıran\Nnitelikler taşıdığını öne sürdü.
 Dialogue: 0,0:34:00.74,0:34:02.20,Default,,0,0,0,,Merak ediyorum da...
 Dialogue: 0,0:34:02.25,0:34:06.58,Default,,0,0,0,,"İlham" denen olgunun altında yatan\Nmekanizmaya dair bir fikriniz var mı?
 Dialogue: 0,0:34:06.98,0:34:08.10,Default,,0,0,0,,Bu bir gizem.
@@ -586,17 +578,16 @@ Dialogue: 0,0:34:52.13,0:34:54.49,Default,,0,0,0,,Ben de sordum: "Nasıl oldu bu
 Dialogue: 0,0:34:54.54,0:34:57.88,Default,,0,0,0,,Dediler ki: "Gidip biraz ot içtik."
 Dialogue: 0,0:34:58.09,0:34:59.69,Default,,0,0,0,,"Birden aklımıza geldi."
 Dialogue: 0,0:35:00.52,0:35:02.54,Default,,0,0,0,,Nasıl oldu bu? İşte sana ilham.
-Dialogue: 0,0:35:02.86,0:35:04.83,Default,,0,0,0,,Bu kısmı atmayı düşünüyordum.
-Dialogue: 0,0:35:05.00,0:35:06.43,Default,,0,0,0,,Çok kısa bir süreliğine
-Dialogue: 0,0:35:06.56,0:35:11.25,Default,,0,0,0,,ben de bu alışkanlığa\Nkendimi kaptırmıştım.
-Dialogue: 0,0:35:11.72,0:35:14.84,Default,,0,0,0,,Dönüp baktığımda,\Nbana hiç yaramadığını söyleyebilirim.
-Dialogue: 0,0:35:15.41,0:35:18.03,Default,,0,0,0,,Buna değindiğime göre\Nbu kısım artık kalabilir.
+Dialogue: 0,0:35:02.86,0:35:04.89,Default,,0,0,0,,Bu kısmı atmayı düşünüyordum.
+Dialogue: 0,0:35:05.05,0:35:11.25,Default,,0,0,0,,Çok kısa bir süreliğine ben de\Nbu alışkanlığa kendimi kaptırmıştım.
+Dialogue: 0,0:35:11.72,0:35:14.81,Default,,0,0,0,,Dönüp baktığımda,\Nbana hiçbir faydası dokunmadı.
+Dialogue: 0,0:35:15.41,0:35:18.14,Default,,0,0,0,,Buna değindiğime göre\Nbu kısım artık kalabilir.
 Dialogue: 0,0:35:20.58,0:35:22.38,Default,,0,0,0,,Çok ilginç.
 Dialogue: 0,0:35:22.68,0:35:26.13,Default,,0,0,0,,Bana sorarsanız...
 Dialogue: 0,0:35:26.44,0:35:32.19,Default,,0,0,0,,Bir konu hakkındaki yanlış anlamalarımı\Nçoğu zaman ilham kaynağı gibi kullanırım.
 Dialogue: 0,0:35:32.48,0:35:36.12,Default,,0,0,0,,Son zamanlarda farkına vardım ki...
 Dialogue: 0,0:35:36.59,0:35:40.26,Default,,0,0,0,,...İngilizcem iyi olmadığı için
-Dialogue: 0,0:35:40.43,0:35:43.98,Default,,0,0,0,,İnsanlar bana bir şey anlattığında\Ngenellikle farklı bir şey anlarım.
+Dialogue: 0,0:35:40.43,0:35:43.98,Default,,0,0,0,,genellikle anlatılandan\Nfarklı bir şey çıkarıyorum.
 Dialogue: 0,0:35:44.10,0:35:47.07,Default,,0,0,0,,Bir keresinde arkadaşımla konuşuyordum
 Dialogue: 0,0:35:47.21,0:35:53.37,Default,,0,0,0,,Bana ormandaki bir teknenin\Nmaketini yaptığını söyledi.
 Dialogue: 0,0:35:53.74,0:35:56.91,Default,,0,0,0,,Ben de orman teknenin içinde sandım.
@@ -611,7 +602,7 @@ Dialogue: 0,0:36:25.94,0:36:30.01,Default,,0,0,0,,ertesi gün veya uyurken\Nbir 
 Dialogue: 0,0:36:30.81,0:36:36.68,Default,,0,0,0,,Ansızın, o konuya ve dünyaya\Nbiraz daha farklı yönlerden bakarsınız.
 Dialogue: 0,0:36:37.18,0:36:42.81,Default,,0,0,0,,Sanırım böyle... Çocukluktan başlayarak...
 Dialogue: 0,0:36:44.57,0:36:47.84,Default,,0,0,0,,İnsanlar bir şekilde\Nyaratıcı çalışmalar yapabiliyor.
-Dialogue: 0,0:36:47.93,0:36:50.34,Default,,0,0,0,,Ama işin aslı nedendir, kimse bilmiyor.
+Dialogue: 0,0:36:47.93,0:36:50.34,Default,,0,0,0,,Ama işin aslı nedir, kimse bilmiyor.
 Dialogue: 0,0:36:52.57,0:36:57.72,Default,,0,0,0,,Size göstereceğim kısa klipte\Ndünyayı nasıl yorumlamaya çalıştığımızdan
 Dialogue: 0,0:36:57.82,0:37:01.81,Default,,0,0,0,,ve dil bilimi ile felsefede\Nsüregelmiş düşüncelerden
 Dialogue: 0,0:37:01.94,0:37:06.02,Default,,0,0,0,,nasıl kurtulmamız\Ngerektiğinden söz ediyorsunuz.
@@ -648,7 +639,7 @@ Dialogue: 0,0:39:10.94,0:39:13.56,Default,,0,0,0,,Nihayet asıl hâline dönüp\
 Dialogue: 0,0:39:13.68,0:39:16.46,Default,,0,0,0,,Bundan çıkaracağımız ders...
 Dialogue: 0,0:39:16.54,0:39:18.60,Default,,0,0,0,,Tabii hiçbir talimat olmadan...
 Dialogue: 0,0:39:18.70,0:39:23.89,Default,,0,0,0,,...bebekler özel bir\Nsüreklilik olduğunu anlayabiliyor.
-Dialogue: 0,0:39:24.00,0:39:28.81,Default,,0,0,0,,Bu çok muayyen bir misal,\Nağaç örneğinden bile daha soyut.
+Dialogue: 0,0:39:24.00,0:39:28.81,Default,,0,0,0,,Bu çok muayyen bir örnek,\Nağaç örneğinden bile daha soyut.
 Dialogue: 0,0:39:28.92,0:39:33.96,Default,,0,0,0,,Lakin dış varlıklara\Nyüklediğimiz zihinsel süreklilik...
 Dialogue: 0,0:39:34.37,0:39:37.54,Default,,0,0,0,,Dünyayayı yorumlama\Nşeklimizin bir parçasıdır.
 Dialogue: 0,0:39:41.05,0:39:47.09,Default,,0,0,0,,Etrafımızdaki nesnelerin ne olduğunu\Nbu şekilde anlarız.
@@ -660,8 +651,7 @@ Dialogue: 0,0:40:05.26,0:40:08.98,Default,,0,0,0,,İlk önce, farklı bir kişiy
 Dialogue: 0,0:40:09.15,0:40:14.53,Default,,0,0,0,,Sonrasında, konuşma esnasında...\NGenellikle 20-30 dakika içinde
 Dialogue: 0,0:40:14.81,0:40:18.67,Default,,0,0,0,,bu kişi, sanki asıl arkadaşım olur.
 Dialogue: 0,0:40:18.82,0:40:24.52,Default,,0,0,0,,Arkadaşımın eski resmini ise\Nolduğundan daha genç hatırlarım.
-Dialogue: 0,0:40:24.65,0:40:26.08,Default,,0,0,0,,Yani alışırım.
-Dialogue: 0,0:40:26.20,0:40:31.08,Default,,0,0,0,,Acaba herkese aynısı oluyor mu?
+Dialogue: 0,0:40:24.70,0:40:31.08,Default,,0,0,0,,Yani adapte olurum.\NAcaba herkese aynısı oluyor mu?
 Dialogue: 0,0:40:31.21,0:40:33.30,Default,,0,0,0,,Her zaman. Aslında biz...
 Dialogue: 0,0:40:33.40,0:40:37.37,Default,,0,0,0,,Peki bu, nesnelere uyguladığımız\Nyorumun aynısı mı?
 Dialogue: 0,0:40:37.45,0:40:42.05,Default,,0,0,0,,Evet, neselerle aynı.\NAğaç yahut nehir gibi...
@@ -677,8 +667,8 @@ Dialogue: 0,0:41:19.09,0:41:20.72,Default,,0,0,0,,Hâlâ Charles Nehri.
 Dialogue: 0,0:41:20.80,0:41:27.05,Default,,0,0,0,,Öte yandan, çok küçük değişiklikler ile\NCharles Nehri olmaktan çıkabilir.
 Dialogue: 0,0:41:27.20,0:41:33.58,Default,,0,0,0,,Diyelim düz bir yol takip etmesi için\Nnehrin etrafına paneller döşedik
 Dialogue: 0,0:41:33.68,0:41:37.72,Default,,0,0,0,,ve yük gemilerinin geçişi için\Nkullanmaya başladık.
-Dialogue: 0,0:41:37.90,0:41:41.24,Default,,0,0,0,,- Artık o bir nehir değil, kanal oldu.\N- Evet.
-Dialogue: 0,0:41:41.40,0:41:46.34,Default,,0,0,0,,Şimdi ise nehri sertleştiren\Nçok küçük bir fiziksel değişiklik yapalım.
+Dialogue: 0,0:41:37.90,0:41:41.24,Default,,0,0,0,,- Artık bir nehir değil, kanal.\N- Evet.
+Dialogue: 0,0:41:41.40,0:41:46.34,Default,,0,0,0,,Ya da nehri sertleştiren\Nçok küçük bir fiziksel değişiklik yapalım.
 Dialogue: 0,0:41:46.44,0:41:49.85,Default,,0,0,0,,Buna hâl değişimi deniyor.\NTespiti mümkün değil.
 Dialogue: 0,0:41:49.98,0:41:52.54,Default,,0,0,0,,Nehir böylece cama dönsün.
 Dialogue: 0,0:41:52.73,0:41:57.01,Default,,0,0,0,,Sonra ortasına bir çizgi çekelim\Nve Boston'a ulaşım için kullanılsın.
@@ -690,8 +680,8 @@ Dialogue: 0,0:42:11.94,0:42:15.48,Default,,0,0,0,,ve fizikçiler bunları saptay
 Dialogue: 0,0:42:15.56,0:42:19.34,Default,,0,0,0,,Elbette maddesel dünya bunun bir parçası\Nama bu işin sadece bir kısmı.
 Dialogue: 0,0:42:19.49,0:42:23.68,Default,,0,0,0,,Dünyadaki herhangi bir şeyi\Ntanımlamamız için en büyük etken...
 Dialogue: 0,0:42:23.78,0:42:27.02,Default,,0,0,0,,Ne kadar basit bir şey olursa olsun...
-Dialogue: 0,0:42:27.16,0:42:33.13,Default,,0,0,0,,...parça parça tecrübelere yüklediğimiz\Nzihinsel kavramlardır
-Dialogue: 0,0:42:33.38,0:42:36.21,Default,,0,0,0,,ve tecrübelerimiz\Nhakikaten parça parçadır.
+Dialogue: 0,0:42:27.16,0:42:33.13,Default,,0,0,0,,...parça parça tecrübelere yüklediğimiz\Nzihinsel kavramlardır.
+Dialogue: 0,0:42:33.38,0:42:36.21,Default,,0,0,0,,Ve tecrübelerimiz\Nhakikaten parça parçadır.
 Dialogue: 0,0:42:36.36,0:42:41.60,Default,,0,0,0,,Görsel tecrübelerimiz yalnızca\Nretina üzerindeki oynamalardan ibarettir
 Dialogue: 0,0:42:41.73,0:42:44.89,Default,,0,0,0,,ama biz bunlara oldukça zengin\Nyorumlar yüklüyoruz.
 Dialogue: 0,0:42:44.97,0:42:47.41,Default,,0,0,0,,Süreklilik de bunun bir örneği.
@@ -737,14 +727,14 @@ Dialogue: 0,0:45:07.57,0:45:09.46,Default,,0,0,0,,Nesnelerin etkileşim boyutu.
 Dialogue: 0,0:45:09.61,0:45:12.45,Default,,0,0,0,,Sanki bana maziden\Nbir hikâye anlatıyorlar gibi.
 Dialogue: 0,0:45:12.53,0:45:13.54,Default,,0,0,0,,Kanepe.
 Dialogue: 0,0:45:13.65,0:45:17.88,Default,,0,0,0,,Çekimden sonra çok yorulmuştum\Nve dinlenmek için rahat bir şey arıyordum.
-Dialogue: 0,0:45:18.13,0:45:19.98,Default,,0,0,0,,Bana kanepeyi uygun gördüler.
+Dialogue: 0,0:45:18.13,0:45:19.98,Default,,0,0,0,,Bana kanepeyi bahşettiler.
 Dialogue: 0,0:45:20.21,0:45:22.95,Default,,0,0,0,,Ona yer açmak için\Nsandalyeyi kenara almalıydım.
 Dialogue: 0,0:45:23.10,0:45:24.29,Default,,0,0,0,,Sehpa.
 Dialogue: 0,0:45:24.56,0:45:28.88,Default,,0,0,0,,Benim için kurulan dev ekranda\Nfilmin kurgusunu takip ederken
 Dialogue: 0,0:45:28.97,0:45:31.96,Default,,0,0,0,,e-postalarıma bakmak için\Nsehpayı kanepeye yanaştırdım.
 Dialogue: 0,0:45:32.17,0:45:33.60,Default,,0,0,0,,Ve editörüm...
 Dialogue: 0,0:45:33.76,0:45:37.30,Default,,0,0,0,,Tabii o bir insan.\NAramızda bir ilişki olması doğal.
-Dialogue: 0,0:45:38.37,0:45:41.98,Default,,0,0,0,,Bilimle olan ilk tecrübenizi\Nhatırlıyor musunuz?
+Dialogue: 0,0:45:38.37,0:45:41.98,Default,,0,0,0,,Bilimle ilk tecrübenizi\Nhatırlıyor musunuz?
 Dialogue: 0,0:45:42.41,0:45:46.86,Default,,0,0,0,,Hayatım boyunca suçluluk duyduğum\Nyüz kızartıcı bir hikâye anlatayım mı?
 Dialogue: 0,0:45:47.41,0:45:48.56,Default,,0,0,0,,Peki.
 Dialogue: 0,0:45:48.98,0:45:50.94,Default,,0,0,0,,Üçüncü sınıfta...
@@ -814,7 +804,7 @@ Dialogue: 0,0:50:27.32,0:50:33.08,Default,,0,0,0,,Bu toplumdaki küçük kızlar
 Dialogue: 0,0:50:33.62,0:50:35.64,Default,,0,0,0,,pek ihtimal vermiyorum.
 Dialogue: 0,0:50:35.78,0:50:42.40,Default,,0,0,0,,Sonu gelmez bir geleneğin deposu olan\Nannenden bir şeyler öğreniyorsun.
 Dialogue: 0,0:50:42.86,0:50:47.80,Default,,0,0,0,,Belki edindiğin bilgileri\Nuyarlayıp geliştirmenin bir yolunu buldun.
-Dialogue: 0,0:50:48.21,0:50:51.29,Default,,0,0,0,,Ama esasında gördüklerini kopyalıyorsun.
+Dialogue: 0,0:50:48.21,0:50:51.29,Default,,0,0,0,,Ama esasında gördüklerini tekrarlıyorsun.
 Dialogue: 0,0:50:51.62,0:50:56.26,Default,,0,0,0,,Peki geçmişten gelen bu bilgi ile\Nbilimin ilerlemesi arasındaki denge
 Dialogue: 0,0:50:56.66,0:50:59.16,Default,,0,0,0,,nasıl sağlanıyor?
 Dialogue: 0,0:50:59.25,0:51:04.02,Default,,0,0,0,,Günümüzde bilim ve teknoloji\Nileri bir seviyede.
@@ -824,9 +814,9 @@ Dialogue: 0,0:51:13.94,0:51:19.21,Default,,0,0,0,,- Doğru bitkiyi seçmenin bir
 Dialogue: 0,0:51:19.69,0:51:22.20,Default,,0,0,0,,- Nasıl okunuyor?\N- {\i1}Lore{\i0}.
 Dialogue: 0,0:51:22.34,0:51:25.76,Default,,0,0,0,,Zamanla birikmiş, üstü kapalı bilgiler.
 Dialogue: 0,0:51:25.86,0:51:27.68,Default,,0,0,0,,Mesela edep gibi.
-Dialogue: 0,0:51:27.81,0:51:32.08,Default,,0,0,0,,Sosyal durumlarda nasıl davranılacağı\Nçocukken öğrenilir.
-Dialogue: 0,0:51:34.77,0:51:36.16,Default,,0,0,0,,Bunu söze dökemezsin.
-Dialogue: 0,0:51:36.36,0:51:38.77,Default,,0,0,0,,- Evet.\N- Bunun farkında değilsin.
+Dialogue: 0,0:51:27.81,0:51:34.57,Default,,0,0,0,,Sosyal durumlarda nasıl davranılacağı\Nçocukken öğrenilir.
+Dialogue: 0,0:51:34.77,0:51:36.76,Default,,0,0,0,,- Bunu söze dökemezsin.\N- Evet.
+Dialogue: 0,0:51:36.82,0:51:38.77,Default,,0,0,0,,Bunun farkında değilsin.
 Dialogue: 0,0:51:39.41,0:51:43.68,Default,,0,0,0,,Misal Asperger sendromlu\Nbir çocuğu ele alırsak...
 Dialogue: 0,0:51:44.08,0:51:47.40,Default,,0,0,0,,- Sosyal işaretleri kavrayamıyorlar.\N- Evet.
 Dialogue: 0,0:51:47.50,0:51:53.26,Default,,0,0,0,,Biriyle ne zaman konuşup\Nkonuşamayacaklarını anlamıyorlar.
@@ -849,7 +839,7 @@ Dialogue: 0,0:52:46.08,0:52:49.68,Default,,0,0,0,,İnsanların binbir çeşit\Nm
 Dialogue: 0,0:52:50.26,0:52:53.38,Default,,0,0,0,,Bana saçma gelebilir\Nama onlara göre bu anlamlı.
 Dialogue: 0,0:52:53.48,0:52:59.12,Default,,0,0,0,,Velhasıl, Isaac Newton gibi\Nbirçok zeki insan astrolojiye ilgiliydi.
 Dialogue: 0,0:53:00.06,0:53:01.50,Default,,0,0,0,,Yani buna...
-Dialogue: 0,0:53:03.12,0:53:04.74,Default,,0,0,0,,...ahmaklık diyemeyiz.
+Dialogue: 0,0:53:03.12,0:53:04.74,Default,,0,0,0,,...aptallık diyemeyiz.
 Dialogue: 0,0:53:04.92,0:53:10.80,Default,,0,0,0,,İnsanlarda nedensel ilişkileri bulmak için\Nbir nevi otomatik...
 Dialogue: 0,0:53:12.54,0:53:16.54,Default,,0,0,0,,...ya da içgüdüsel bir dürtü var.
 Dialogue: 0,0:53:16.79,0:53:20.62,Default,,0,0,0,,Olayları, nedenleri ile\Naçıklamaya çalışırız.
@@ -880,7 +870,7 @@ Dialogue: 0,0:55:03.26,0:55:07.21,Default,,0,0,0,,Akıllarının ermediği bir t
 Dialogue: 0,0:55:07.36,0:55:10.84,Default,,0,0,0,,hayata mana verdiğine,\Nona anlam kattığına inandılar.
 Dialogue: 0,0:55:10.97,0:55:15.90,Default,,0,0,0,,Tüm insanlık tarihi boyunca
 Dialogue: 0,0:55:16.05,0:55:19.96,Default,,0,0,0,,insanlar şu düşünceyi\Nhiçbir zaman yeterli bulmadı:
-Dialogue: 0,0:55:20.24,0:55:24.02,Default,,0,0,0,,"Topraktan geldim, toprağa gideceğiz.\NHayatımın hiçbir anlamı yok."
+Dialogue: 0,0:55:20.24,0:55:24.02,Default,,0,0,0,,"Topraktan geldim, toprağa gideceğim.\NHayatımın hiçbir anlamı yok."
 Dialogue: 0,0:55:24.20,0:55:26.92,Default,,0,0,0,,Sizin görüşünüz ne peki?
 Dialogue: 0,0:55:27.21,0:55:30.36,Default,,0,0,0,,Bence toprağa gidiyoruz\Nve hayatın hiçbir anlamı yok.
 Dialogue: 0,0:55:30.56,0:55:36.42,Default,,0,0,0,,Ama çoğu insanın neden\Nbunu kabul etmediğini anlıyorum.
@@ -1035,7 +1025,7 @@ Dialogue: 0,1:05:30.46,1:05:36.76,Default,,0,0,0,,Aniden yaratıcı etkinlikler,
 Dialogue: 0,1:05:40.33,1:05:42.50,Default,,0,0,0,,Doğal olayların kaydedilmesi.
 Dialogue: 0,1:05:43.92,1:05:46.81,Default,,0,0,0,,Daha karmaşık aile yapıları.
 Dialogue: 0,1:05:50.48,1:05:54.76,Default,,0,0,0,,Simgesel betimlemeler, sanat vesaire...
-Dialogue: 0,1:05:54.86,1:05:57.00,Default,,0,0,0,,Evrimsel açıdan bir anda.
+Dialogue: 0,1:05:54.86,1:05:57.00,Default,,0,0,0,,Evrimsel açıdan bir anda oldu.
 Dialogue: 0,1:05:57.44,1:06:02.05,Default,,0,0,0,,Bu durumu izah etmek zordur\Nve genel olarak
 Dialogue: 0,1:06:02.28,1:06:06.97,Default,,0,0,0,,dilin, büyük atlamanın yaşandığı\Nkısa sürede ortaya çıktığı varsayılır.
 Dialogue: 0,1:06:07.25,1:06:09.77,Default,,0,0,0,,Zira bütün saydıklarım için dil gerekli.
@@ -1059,8 +1049,8 @@ Dialogue: 0,1:07:13.40,1:07:17.06,Default,,0,0,0,,Ve bu mutasyon sadece bir kiş
 Dialogue: 0,1:07:17.54,1:07:22.45,Default,,0,0,0,,Bir anda bu kişi\No kapasiteye sahip oldu.
 Dialogue: 0,1:07:22.82,1:07:26.14,Default,,0,0,0,,Hayvanlar âleminde bu kişi eşsizdi.
 Dialogue: 0,1:07:26.29,1:07:30.25,Default,,0,0,0,,Plan yapıyor, düşünüyor,\Nanlam çıkarıyor ve daha niceleri.
-Dialogue: 0,1:07:30.38,1:07:36.42,Default,,0,0,0,,Sistemin üzerinde seçilim gibi\Nbir baskı olmadan öylece ortaya çıktıysa.
-Dialogue: 0,1:07:36.81,1:07:40.36,Default,,0,0,0,,Kusursuz olacaktır.\NTıpkı bir kar tanesi gibi.
+Dialogue: 0,1:07:30.38,1:07:36.42,Default,,0,0,0,,Sistemin üzerinde seçilim gibi\Nbir baskı olmadan öylece ortaya çıktıysa
+Dialogue: 0,1:07:36.81,1:07:40.36,Default,,0,0,0,,kusursuz olacaktır.\NTıpkı bir kar tanesi gibi.
 Dialogue: 0,1:07:40.85,1:07:44.21,Default,,0,0,0,,Doğa kanunlarına dayanıyor olmalı.
 Dialogue: 0,1:07:44.54,1:07:47.76,Default,,0,0,0,,Bir kar tanesi gibi. Neyse o.\NEvrim geçirmiyor.
 Dialogue: 0,1:07:48.10,1:07:54.37,Default,,0,0,0,,Bu kapasite, kısmi olarak\Nçocuklara aktarılmış olabilir.
@@ -1118,9 +1108,9 @@ Dialogue: 0,1:12:15.45,1:12:20.20,Default,,0,0,0,,Biraz anne ve babanızla\Nili�
 Dialogue: 0,1:12:21.80,1:12:24.02,Default,,0,0,0,,O günlerde işler epey farklıydı.
 Dialogue: 0,1:12:24.14,1:12:29.49,Default,,0,0,0,,İlişkimiz iyiydi\Nama çok yakındık diyemem.
 Dialogue: 0,1:12:29.60,1:12:33.37,Default,,0,0,0,,Örneğin, çocukluğumda\Nöyle şeyler yaşanıyordu ki
-Dialogue: 0,1:12:33.45,1:12:36.45,Default,,0,0,0,,onlara anlatmayı aklımdan bile geçirmedim.
+Dialogue: 0,1:12:33.45,1:12:36.45,Default,,0,0,0,,onlara anlatmayı\Naklımdan bile geçirmedim.
 Dialogue: 0,1:12:37.10,1:12:43.94,Default,,0,0,0,,Mahalledeki tek Yahudi aile bizdik.\NÇoğu İrlandalı ve Alman Katolikti.
-Dialogue: 0,1:12:44.29,1:12:49.28,Default,,0,0,0,,30'lu yıllar. Antisemitizm had safhada.\NNazi yanlıları oldukça fazla.
+Dialogue: 0,1:12:44.29,1:12:49.28,Default,,0,0,0,,30'lu yıllar. Antisemitizm had safhada.\NNazi yanlıları epey fazla.
 Dialogue: 0,1:12:49.49,1:12:53.65,Default,,0,0,0,,İrlandalılar, İngilizlerden nefret ettiği,\NAlmanlar da Alman olduğu için.
 Dialogue: 0,1:12:53.78,1:12:55.18,Default,,0,0,0,,Günümüz gibi değildi.
 Dialogue: 0,1:12:55.29,1:12:59.49,Default,,0,0,0,,Sokaktaki çocuğu vuracak değiller\Nama insanı huzursuz ediyordu.
@@ -1141,7 +1131,7 @@ Dialogue: 0,1:13:57.68,1:14:04.13,Default,,0,0,0,,Ben Musevi okuluna gidiyordum\
 Dialogue: 0,1:14:04.34,1:14:07.85,Default,,0,0,0,,Metroya bindiğinde artık tek başınasın.
 Dialogue: 0,1:14:08.25,1:14:11.97,Default,,0,0,0,,Nedendir bilmem\Nama savaş yıllarında bunlar yaşandı.
 Dialogue: 0,1:14:12.40,1:14:15.72,Default,,0,0,0,,Toplama kamplarını\Nne zaman öğrendiniz?
-Dialogue: 0,1:14:15.88,1:14:20.85,Default,,0,0,0,,1942-1943 gibi,\Nsöylentiler yayılıyordu.
+Dialogue: 0,1:14:15.88,1:14:20.85,Default,,0,0,0,,1942-1943 gibi\Nsöylentiler yayılıyordu.
 Dialogue: 0,1:14:20.94,1:14:25.34,Default,,0,0,0,,Ama kimse büyüklüğünü bilmiyordu.\NSürekli arka plana itildi.
 Dialogue: 0,1:14:25.77,1:14:29.24,Default,,0,0,0,,Gereken önem hiç verilmedi.\NEn çarpıcı nokta...
 Dialogue: 0,1:14:29.32,1:14:33.84,Default,,0,0,0,,Aslında, kıtadan kaçmak isteyen\Ninsanlara yardım için
@@ -1171,15 +1161,15 @@ Dialogue: 0,1:16:08.46,1:16:12.06,Default,,0,0,0,,dikenli tellerin ardında, gö
 Dialogue: 0,1:16:12.17,1:16:16.85,Default,,0,0,0,,köle işçiler ve Yahudiler için\NAlmanlarca kurulan kamplarda yaşıyor.
 Dialogue: 0,1:16:17.13,1:16:20.44,Default,,0,0,0,,Kimileri en bednam toplama kamplarında
 Dialogue: 0,1:16:20.62,1:16:24.89,Default,,0,0,0,,kalabalık, sağlığa aykırı\Nve iç karartıcı şartlarda hayat sürüyor.
-Dialogue: 0,1:16:25.13,1:16:29.26,Default,,0,0,0,,Elleri kolları bağlı,\Nhiçbir iletişim fırsatı olmadan...
-Dialogue: 0,1:16:29.38,1:16:33.06,Default,,0,0,0,,Bazı kamp komutanları,\Ntürlü zorluklara rağmen
+Dialogue: 0,1:16:25.13,1:16:28.28,Default,,0,0,0,,Elleri kolları bağlı,\Nhiçbir iletişim fırsatı...
+Dialogue: 0,1:16:28.53,1:16:33.06,Default,,0,0,0,,Bazı kamp komutanları,\Ntürlü zorluklara rağmen
 Dialogue: 0,1:16:33.15,1:16:36.42,Default,,0,0,0,,kamptakilere bir tür giyecek\Nbulmayı başarsa da
 Dialogue: 0,1:16:36.50,1:16:39.93,Default,,0,0,0,,alıkonulan çoğu Yahudi'nin,\NTemmuz'un sonunda
 Dialogue: 0,1:16:40.00,1:16:46.10,Default,,0,0,0,,çirkin çizgili toplama kampı formasından\Nbaşka kıyafeti yoktu.
 Dialogue: 0,1:16:46.18,1:16:50.92,Default,,0,0,0,,Diğer bir kesim ise, utana sıkıla\NAlman SS üniforması giymek zorunda kaldı.
 Dialogue: 0,1:16:51.13,1:16:53.38,Default,,0,0,0,,Hangi kıyafet daha kötüydü meçhul.
 Dialogue: 0,1:16:53.70,1:16:56.11,Default,,0,0,0,,Aslında, bu gayet normal.
-Dialogue: 0,1:16:56.30,1:16:59.30,Default,,0,0,0,,Soykırım mağdurlarına\Nyapılan muamele çok tuhaf.
+Dialogue: 0,1:16:56.30,1:16:59.30,Default,,0,0,0,,Soykırım mağdurlarına\Nyapılan muamele çok vahim.
 Dialogue: 0,1:16:59.38,1:17:03.58,Default,,0,0,0,,Şu anda bile, mesela Fransa'da, Roma'da...
 Dialogue: 0,1:17:03.68,1:17:06.28,Default,,0,0,0,,Onlara Yahudiler ile aynı muamele yapıldı.
 Dialogue: 0,1:17:06.46,1:17:11.05,Default,,0,0,0,,Fransa, onları sınır dışı edip\Nsefil bir hayata mahkûm ediyor.
@@ -1223,12 +1213,12 @@ Dialogue: 0,1:19:56.53,1:19:59.04,Default,,0,0,0,,Çocuklar böyle bir atmosferd
 Dialogue: 0,1:19:59.12,1:20:02.25,Default,,0,0,0,,ama belirgin bir tansiyon\Nhissettiklerini sanmam.
 Dialogue: 0,1:20:02.36,1:20:07.50,Default,,0,0,0,,Eşim anlattı, kızım 8-10 yaşlarında\Nokuldan eve geldiğinde
 Dialogue: 0,1:20:07.93,1:20:12.16,Default,,0,0,0,,ona okulda ne yaptığını sormuş.\NKızım da, konuşma etkinliğinde
-Dialogue: 0,1:20:12.28,1:20:15.86,Default,,0,0,0,,babamın hapse girdiğini anlattım demiş.
+Dialogue: 0,1:20:12.28,1:20:15.86,Default,,0,0,0,,babamın hapse\Nnasıl girdiğini anlattım demiş.
 Dialogue: 0,1:20:20.72,1:20:22.66,Default,,0,0,0,,Sizi ne mutlu eder?
 Dialogue: 0,1:20:27.42,1:20:28.70,Default,,0,0,0,,Mutlu mu?
 Dialogue: 0,1:20:29.05,1:20:32.48,Default,,0,0,0,,Çocuklar, torunlar, arkadaşlar...
 Dialogue: 0,1:20:34.70,1:20:36.42,Default,,0,0,0,,Buna çok kafa yormuyorum.
-Dialogue: 0,1:20:36.52,1:20:42.12,Default,,0,0,0,,Özellikle eşimin vefatından bu yana\Nkendime pek vakit ayırmadım.
+Dialogue: 0,1:20:36.52,1:20:42.12,Default,,0,0,0,,Özellikle eşimin vefatından bu yana\Nkendime hiç vakit ayırmadım.
 Dialogue: 0,1:20:42.25,1:20:47.02,Default,,0,0,0,,Sinemaya veya tiyatroya gitmiyorum.\NYemeğe çıkmıyorum. Hiçbir şey.
 Dialogue: 0,1:20:47.12,1:20:48.94,Default,,0,0,0,,Gereken neyse onu yapıyorum.
 Dialogue: 0,1:20:55.06,1:20:58.60,Default,,0,0,0,,Ancak insanı tatmin eden birçok şey var.
@@ -1295,7 +1285,7 @@ Dialogue: 0,1:25:33.17,1:25:37.82,Default,,0,0,0,,"{\i1}The man who is tall is h
 Dialogue: 0,1:25:38.17,1:25:42.82,Default,,0,0,0,,Bu yüklem, bu da özne.
 Dialogue: 0,1:25:43.14,1:25:48.84,Default,,0,0,0,,Tüm cümlenin ana elemanı şu.
 Dialogue: 0,1:25:49.10,1:25:54.82,Default,,0,0,0,,Yapısal olarak cümlenin başına\Nen yakın olan da o.
-Dialogue: 0,1:25:54.96,1:26:00.41,Default,,0,0,0,,Diğeri yapısal olarak başa daha uzak\Nzira arada bir sürü dal var.
+Dialogue: 0,1:25:55.13,1:26:00.41,Default,,0,0,0,,Diğeri yapısal olarak başa daha uzak\Nzira arada bir sürü dal var.
 Dialogue: 0,1:26:00.74,1:26:04.01,Default,,0,0,0,,Yani yapısal olarak,\Nbaşa en yakın olan bu.
 Dialogue: 0,1:26:04.08,1:26:06.48,Default,,0,0,0,,Ama doğrusal olarak, başa en yakın bu.
 Dialogue: 0,1:26:06.86,1:26:12.16,Default,,0,0,0,,Peki neden yapısal yakınlığı\Ndoğrusal yakınlığa tercih ediyoruz?
@@ -1309,8 +1299,7 @@ Dialogue: 0,1:26:34.89,1:26:37.57,Default,,0,0,0,,Yapısal uzaklık dilin bir un
 Dialogue: 0,1:26:37.76,1:26:41.20,Default,,0,0,0,,Diğer türlü hesaplaması\Ndaha kolay olabilirdi.
 Dialogue: 0,1:26:41.32,1:26:44.94,Default,,0,0,0,,"{\i1}Is the man who tall is happy?{\i0}"\Ncümlesi gibi.
 Dialogue: 0,1:26:45.09,1:26:49.16,Default,,0,0,0,,Çocuklar yapısal yakınlığı seçiyor\Nçünkü bu dilin bir ögesi.
-Dialogue: 0,1:26:49.26,1:26:50.98,Default,,0,0,0,,Muhtemelen genetik.
-Dialogue: 0,1:26:51.10,1:26:53.18,Default,,0,0,0,,Aşağı yukarı bundan ibaret.
+Dialogue: 0,1:26:49.29,1:26:52.93,Default,,0,0,0,,Muhtemelen genetik.\NAşağı yukarı bundan ibaret.
 Dialogue: 0,1:26:53.38,1:26:59.14,Default,,0,0,0,,- {\i1}The man who is tall is happy.{\i0}\N- Evet, uzun boylu adam çok mutlu.
 Dialogue: 0,1:26:59.32,1:27:03.52,Default,,0,0,0,,{\i1}Is the man tall and he's happy?{\i0}\N{\i1}Is the man who is tall happy?{\i0}
 Dialogue: 0,1:27:03.58,1:27:07.88,Default,,0,0,0,,{\i1}Is the man who is tall happy?{\i0}\N{\i1}Is the man who tall is happy?{\i0}
